@@ -1,6 +1,6 @@
 # 安全社区文章批量爬虫工具
 
-批量爬取安全技术社区的文章，支持Markdown、PDF、HTML多种格式输出。
+批量爬取安全技术社区的文章，支持Markdown、PDF、HTML多种格式输出。如果对你有用，点个star鼓励一下
 
 ## 支持的社区
 
@@ -20,19 +20,6 @@
 
 ```bash
 pip install -r requirements.txt
-```
-
-### requirements.txt
-
-```
-selenium
-webdriver-manager
-beautifulsoup4
-markdownify
-requests
-markdown
-pdfkit
-lxml
 ```
 
 ### wkhtmltopdf 安装（PDF功能需要）
@@ -109,9 +96,6 @@ python crawl_butian_forum.py --start 2400 --end 2405 --dir ./my_butian --sleep 3
 | `--dir` | 保存目录 | `./butian` | 任意路径 |
 
 
-## 注意事项
-
-
 ## 更新日志
 
 ### v1.0 (2025-11-01)
@@ -126,7 +110,6 @@ python crawl_butian_forum.py --start 2400 --end 2405 --dir ./my_butian --sleep 3
 ## 🤖 GitHub Actions 自动化
 
 本项目支持使用GitHub Actions自动爬取文章并保存到GitHub仓库！
-
 
 
 ## 贡献
