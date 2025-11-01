@@ -109,14 +109,6 @@ python crawl_butian_forum.py --start 2400 --end 2405 --dir ./my_butian --sleep 3
 | `--dir` | 保存目录 | `./butian` | 任意路径 |
 
 
-
-
-
-
-
-
-
-
 ## 注意事项
 
 
@@ -136,20 +128,6 @@ python crawl_butian_forum.py --start 2400 --end 2405 --dir ./my_butian --sleep 3
 本项目支持使用GitHub Actions自动爬取文章并保存到GitHub仓库！
 
 
-
-### 详细文档
-
-查看 [GitHub Actions 配置指南](GITHUB_ACTIONS_GUIDE.md) 了解更多信息。
-
----
-
-## 许可证
-
-MIT License
-
-## 作者
-
-AI Assistant
 
 ## 贡献
 
