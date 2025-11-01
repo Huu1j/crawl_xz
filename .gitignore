@@ -50,7 +50,7 @@ Thumbs.db
 # 可选：如果不想保存PDF和HTML到仓库，取消下面的注释
 *.pdf
 *.html
-images/
+# images/
 
 # 可选：如果不想保存wkhtmltopdf，取消下面的注释
 # wkhtmltox/
