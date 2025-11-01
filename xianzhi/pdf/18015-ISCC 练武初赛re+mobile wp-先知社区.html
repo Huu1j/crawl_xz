@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>ISCC 练武初赛re+mobile wp-先知社区</title>
+    <style>
+        body {
+            font-family: "Microsoft YaHei", "SimSun", Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            color: #2c3e50;
+            margin-top: 24px;
+            margin-bottom: 16px;
+        }
+        h1 {
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            font-size: 28px;
+        }
+        h2 {
+            border-bottom: 1px solid #e1e4e8;
+            padding-bottom: 8px;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: "Consolas", "Monaco", "Courier New", monospace;
+            font-size: 13px;
+        }
+        pre {
+            background-color: #f6f8fa;
+            padding: 16px;
+            border-radius: 6px;
+            overflow-x: auto;
+            border: 1px solid #e1e4e8;
+        }
+        pre code {
+            background-color: transparent;
+            padding: 0;
+            font-size: 13px;
+            line-height: 1.45;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 16px 0;
+        }
+        blockquote {
+            border-left: 4px solid #3498db;
+            padding-left: 16px;
+            margin-left: 0;
+            color: #666;
+            background-color: #f9f9f9;
+            padding: 10px 16px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 16px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .article-meta {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f6f8fa;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    
+            <div class="article-meta">
+                <strong>来源：</strong><a href="https://xz.aliyun.com/news/18015">https://xz.aliyun.com/news/18015</a><br>
+                <strong>文章ID：</strong>18015
+            </div>
+            <h1>ISCC 练武初赛re+mobile wp-先知社区</h1>
+            <div id="app">
+<h1 data-lake-id="UBmIx" id="UBmIx"><span data-lake-id="u635d541f" id="u635d541f">mobile</span></h1>
+<h2 data-lake-id="uGjkk" id="uGjkk"><span data-lake-id="u380daa08" id="u380daa08">ISCC mobile 邦布出击</span></h2>
+<p data-lake-id="u43014f20" id="u43014f20"><span data-lake-id="u19374e37" id="u19374e37">安装apk<br/></span><img alt="Screenshot_2025-05-13-22-40-44-151_com.example.mobile01.jpg" src="../images/32b61961-bad7-3fbd-ad30-79701a13dd6c" width="2160"/><span data-lake-id="ud800fd45" id="ud800fd45"><br/>点击右下角的按钮，进入图鉴界面，百度各种邦布的种类，一个一个试，可以得到三段base64加密的文本<br/></span><a data-lake-id="u6c8d8a09" href="https://wiki.biligame.com/zzz/%E9%82%A6%E5%B8%83%E5%9B%BE%E9%89%B4" id="u6c8d8a09" target="_blank"><span data-lake-id="uf48c4d80" id="uf48c4d80">邦布图鉴 - 绝区零WIKI_BWIKI_哔哩</span></a><img alt="Screenshot_2025-05-13-22-41-10-584_com.example.mobile01.jpg" src="../images/100d2d18-6954-332c-973f-3967025cabd4" width="1080"/><a data-lake-id="ud6158ebb" href="https://wiki.biligame.com/zzz/%E9%82%A6%E5%B8%83%E5%9B%BE%E9%89%B4" id="ud6158ebb" target="_blank"><span data-lake-id="u83d4af9a" id="u83d4af9a">哔哩</span></a><span data-lake-id="u96a1ce2d" id="u96a1ce2d"><br/><br/></span></p>
+<pre><code class="language-plain">VVQwOQ==
+lZOVlZU
+VVZaS1NGS</code></pre><p data-lake-id="ue131923b" id="ue131923b"><span data-lake-id="uf560c197" id="uf560c197">然后将三段base64拼接起来，循环解码三次base64<br/></span><img alt="Pasted image 20250513224531.png" src="../images/6110f2ed-e8f6-3fab-975e-9d388ecb137f" width="1541"/><span data-lake-id="uff00612c" id="uff00612c"><br/>得到一串明文<br/>尝试打开解压得到的db文件，提示非数据库文件，经查询是经过sqlcipher加密，那么此前得到的明文应该就是解密的key</span></p>
+<pre><code class="language-bash">&gt;sqlcipher enflag.db
+SQLCipher version 3.8.0.2 2013-09-03 17:11:13
+Enter ".help" for instructions
+Enter SQL statements terminated with a ";"
+sqlite&gt; PRAGMA key = 'ARGENTI';
+sqlite&gt; ATTACH DATABASE 'plaintext.db' AS plaintext KEY '';
+sqlite&gt; SELECT sqlcipher_export('plaintext');
+
+sqlite&gt; DETACH DATABASE plaintext;
+sqlite&gt; .q</code></pre><p data-lake-id="u4a214440" id="u4a214440"><img alt="Pasted image 20250513231432.png" src="../images/608da054-4eb0-3ddf-9bf1-1c934aa9e68d" width="853"/><span data-lake-id="uc9748034" id="uc9748034"><br/>flag是假的，实际应该留意的是key以及info中的blowfish（一种加密方式）<br/>使用jadx打开apk</span></p>
+<p data-lake-id="u0686adae" id="u0686adae"><img alt="Pasted image 20250513231609.png" src="../images/41684733-2f88-36ab-81c2-ad028fe1d7bb" width="1283"/></p>
+<p data-lake-id="ub1eb49b2" id="ub1eb49b2"><img alt="Pasted image 20250513231752.png" src="../images/15b2ed9e-7ef8-33e7-b024-a4f7930c7aa4" width="1006"/><span data-lake-id="u0fd15907" id="u0fd15907"><br/>将上图中的密文通过blowfish解密之后得到的内容就是DES的明文<br/></span><img alt="aaba312c1f03dfea7d3674c177dfafb.png" src="../images/8073ed7c-cf2a-3b83-876e-5a1aeb20625f" width="1193"/><span data-lake-id="u9aec6ad6" id="u9aec6ad6"><br/>根据apk的逻辑，只有当该明文DES加密的结果和输入内容去掉flag格式后的内容相同才正确<br/>已知明文、key、加密方式，那么对于DES加密，还需要具备的就是iv，但是iv是通过native函数生成的<br/></span><img alt="Pasted image 20250513231925.png" src="../images/14c04986-4868-3d9d-9f88-bbeaa2ca22d5" width="397"/><span data-lake-id="ubec934f0" id="ubec934f0"><br/>方法一：分析so文件iv的生成逻辑 -- 生成逻辑比较复杂，放弃<br/>方法二：hook native function，在调用getiv时输出iv<br/>这里使用frida hook（要在手机上先运行frida-server）</span></p>
+<pre><code class="language-javascript">Java.perform(function () {
+    try {
+        var cls = Java.use("com.example.mobile01.MainActivity");
+        cls.getiv.implementation = function () {
+            var iv_val = this.getiv();
+            console.log("[*] MainActivity.getiv() called, returned: " + iv_val);
+            return iv_val;
+        };
+        console.log("[+] Hooked com.example.mobile01.MainActivity.getiv()");
+    } catch (err) {
+        console.error("[-] Failed to hook MainActivity.getiv: " + err);
+    }
+});</code></pre><pre><code class="language-bash">frida -U -f 进程名 -l hook.js</code></pre><p data-lake-id="ua23ed05f" id="ua23ed05f"><img alt="36d18bc1966d379871006775c89bc9d.png" src="../images/aee9c4a2-88dc-398c-b977-2ba44b413f29" width="852"/></p>
+<p data-lake-id="ub40ba7a1" id="ub40ba7a1"><img alt="Pasted image 20250514001958.png" src="../images/36b1ec63-b2a5-3b1e-8aba-363580880567" width="1079"/></p>
+<p data-lake-id="uded5bc79" id="uded5bc79"><br/></p>
+<h2 data-lake-id="aC8FH" id="aC8FH"><span data-lake-id="u6dc0ff4c" id="u6dc0ff4c">ISCC mobile detective</span></h2>
+<p data-lake-id="u3dab0cdc" id="u3dab0cdc"><span data-lake-id="u25424785" id="u25424785">附件是一个apk文件，用jadx打开<br/></span><img alt="Pasted image 20250515210819.png" src="../images/a8461f8b-d600-3933-8254-e0fc4a12731f" width="1851"/><span data-lake-id="u48ef53eb" id="u48ef53eb"><br/>可以看到关键是这个stringFromJNI函数，跟进之后发现是native函数，因此用IDA打开so文件<br/></span><img alt="Pasted image 20250515211008.png" src="../images/5f7884e2-eae1-36ff-b094-b64fc3e06eb5" width="820"/><span data-lake-id="ufa1e2cdb" id="ufa1e2cdb"><br/>关键是这个xorEncrypt函数<br/></span><img alt="Pasted image 20250515211202.png" src="../images/bb8b0a5c-ba0e-35b9-ada7-1ebfc3882dad" width="1703"/><span data-lake-id="ud955a713" id="ud955a713"><br/>通过分析代码可知，该函数先将字符串转换为十六进制，再将输入与key异或之后转为字符串，然后从每4个字符中提取前2个字符，然后再根据一定规律打乱字符串的位置信息，最后替换特定位置的字符</span></p>
+<pre><code class="language-python">import re
+from functools import reduce
+import binascii
+
+class CryptoSolver:
+    @staticmethod
+    def extract_alternate_chars(encoded_text):
+        """提取每4个字符中的前2个字符"""
+        if len(encoded_text) % 4 == 2:
+            encoded_text += '00'
+        return ''.join([encoded_text[i:i+2] for i in range(0, len(encoded_text), 4)])
+    
+    @staticmethod
+    def hex_encode_chars(text):
+        """将字符串转为十六进制表示"""
+        hex_representation = ''.join([f'{ord(c):04x}' for c in text])
+        return hex_representation[2:] if hex_representation.startswith('00') else hex_representation
+    
+    @staticmethod
+    def process_pattern_swaps(text):
+        """处理特定模式的字符交换"""
+        result = []
+        pattern = re.compile(r'(..)(..)') 
+        i = 0
+        
+        while i &lt; len(text):
+            if i + 3 &lt; len(text) and text[i+2:i+4] == '21':
+                result.append(text[i+1])
+                result.append(text[i])
+                i += 4
+            else:
+                result.append(text[i:i+2])
+                i += 2
+                
+        return ''.join(result)
+    
+    @staticmethod
+    def interleave_with_substitution(text):
+        """分割、替换和交错合并处理"""
+        mid_point = len(text) // 2
+        first_half = list(text[:mid_point])
+        second_half = list(text[mid_point:])
+        
+        # 替换特定位置的'3'为'0'
+        for i in range(len(second_half)):
+            if second_half[i] == '3' and (i == 0 or i % 3 == 0):
+                second_half[i] = '0'
+                
+        for i in range(len(first_half)):
+            if first_half[i] == '3' and (i == 1 or (i-1) % 3 == 0):
+                first_half[i] = '0'
+        
+        # 交错合并
+        merged = []
+        for i in range(len(text)):
+            if i % 2 == 0 and i//2 &lt; len(second_half):
+                merged.append(second_half[i//2])
+            elif i % 2 == 1 and i//2 &lt; len(first_half):
+                merged.append(first_half[i//2])
+                
+        return ''.join(merged)
+    
+    @staticmethod
+    def decode_to_chars(encoded):
+        """将十六进制编码转换为字符"""
+        chars = []
+        index = 0
+        
+        while index &lt; len(encoded):
+            if encoded[index] == '0' and index + 2 &lt; len(encoded):
+                # 处理三位编码
+                hex_val = encoded[index+1:index+3]
+                chars.append(chr(int(hex_val, 16)))
+                index += 3
+            else:
+                # 处理四位编码
+                end = min(index+4, len(encoded))
+                hex_val = encoded[index:end]
+                if end - index == 4:  # 确保有足够的字符
+                    chars.append(chr(int(hex_val, 16)))
+                index += 4
+                
+        return ''.join(chars)
+
+
+class XorDecoder:
+    def __init__(self, key="Sherlock"):
+        self.key = key.encode('utf-8')
+        self.solver = CryptoSolver()
+    
+    def xor_bytes(self, hex_string):
+        """XOR解密十六进制字符串"""
+        # 将十六进制字符串转换为字节列表
+        bytes_data = [int(hex_string[i:i+2], 16) for i in range(0, len(hex_string), 2)]
+        
+        # 应用XOR操作
+        xor_result = []
+        for i, byte in enumerate(bytes_data):
+            key_byte = self.key[i % len(self.key)]
+            xor_result.append(byte ^ key_byte)
+            
+        # 转换为UTF-8字符串
+        try:
+            return bytes(xor_result).decode('utf-8')
+        except UnicodeDecodeError:
+            # 处理解码错误
+            return ''.join([chr(b) for b in xor_result])
+    
+    def process_layers(self, input_text):
+        """应用多层处理"""
+        layer1 = self.solver.hex_encode_chars(input_text)
+        layer2 = self.solver.extract_alternate_chars(layer1)
+        layer3 = self.solver.process_pattern_swaps(layer2)
+        layer4 = self.solver.interleave_with_substitution(layer3)
+        return self.solver.decode_to_chars(layer4)
+    
+    def decrypt(self, encrypted_hex):
+        """完整解密流程"""
+        # 先XOR解密
+        intermediate = self.xor_bytes(encrypted_hex)
+        # 然后应用多层解码
+        return self.process_layers(intermediate)
+
+
+def main():
+    # 示例加密数据
+    encrypted = "xxxxxxxxxxxxxxxxxxx"
+    
+    # 创建解码器并解密
+    decoder = XorDecoder()
+    result = decoder.decrypt(encrypted)
+    print(f"解密结果: {result}")
+    
+    # 直接使用XOR解密检查中间结果
+    xor_result = decoder.xor_bytes(encrypted)
+    print(f"XOR中间结果: {xor_result}")
+
+
+if __name__ == "__main__":
+    main()</code></pre><p data-lake-id="uf770ffdf" id="uf770ffdf"><span data-lake-id="ub8c8dcfc" id="ub8c8dcfc">​</span><br/></p>
+<h2 data-lake-id="PZpWh" id="PZpWh"><span data-lake-id="ub18bee1c" id="ub18bee1c">HolyGrail</span></h2>
+<p data-lake-id="u64b7d688" id="u64b7d688"><span data-lake-id="uaa2e7fc4" id="uaa2e7fc4">附件为apk安装包<br/></span><img alt="Screenshot_2025-05-15-21-43-03-306_com.example.holygrail.jpg" src="../images/a4b06c0a-13ac-39bb-a26a-24fe446230ba" width="2160"/><span data-lake-id="uedb9ef2f" id="uedb9ef2f"><br/>使用jadx打开apk，发现其中有许多checkbox，点击checkbox的响应如下<br/></span><img alt="Pasted image 20250515213902.png" src="../images/ab0c8f5d-a660-3686-a06c-01e15c46044b" width="1295"/><span data-lake-id="u790eb418" id="u790eb418"><br/>每点击一个checkbox就会在userSequence末尾添加当前checkbox的资源名称<br/></span><img alt="Pasted image 20250515214905.png" src="../images/4fad1aa9-66eb-3744-af0a-c6c275679a55" width="1154"/></p>
+<p data-lake-id="ubeee1c81" id="ubeee1c81"><span data-lake-id="u2dafe36e" id="u2dafe36e">而根据app的提示，需要按照特定顺序点击checkbox，才能进入验证flag的页面，并且返回在native层加密后的密文<br/>关于顺序，可以自行百度，也可以问ai，最终顺序如下<br/></span><img alt="Screenshot_2025-05-15-21-44-59-275_com.example.holygrail.jpg" src="../images/fc45a923-4bbb-338e-9fb4-8e3e1cedbd67" width="2160"/><span data-lake-id="u3f85a468" id="u3f85a468"><br/>如何获得密文：通过frida hook，手动传入特定顺序的参数（每个checkbox的参数也需要通过frida hook得到），然后输出返回的密文</span></p>
+<pre><code class="language-javascript">var cipher = Java.use("com.example.holygrail.CipherDataHandler");
+    var args = Java.array("java.lang.String", ["checkBox8","checkBox6","checkBox7","checkBox5","checkBox12","checkBox3","checkBox10","checkBox13","checkBox11","checkBox","checkBox9","checkBox4","checkBox14"]);
+console.log(cipher.generateCipherText(args));</code></pre><p data-lake-id="ua421364c" id="ua421364c"><span data-lake-id="u66b0cfa9" id="u66b0cfa9">然后分析验证flag的页面<br/></span><img alt="Pasted image 20250515215910.png" src="../images/03921277-a0e1-3234-8028-ff0cc3856095" width="1453"/><span data-lake-id="ua6303bb6" id="ua6303bb6"><br/>首先检查flag格式，然后调用a类的validateFlag方法<br/></span><img alt="Pasted image 20250515220011.png" src="../images/f2963690-2add-3307-bca9-75e72772958c" width="1664"/><span data-lake-id="uffc9de0b" id="uffc9de0b"><br/>大概流程</span></p>
+<ul list="ud4c1eb06">
+<li data-lake-id="uc53f09ed" fid="u22b34d6f" id="uc53f09ed"><span data-lake-id="u2abeb467" id="u2abeb467">getEncryptionKey</span></li>
+<li data-lake-id="u5c3e8cf1" fid="u22b34d6f" id="u5c3e8cf1"><span data-lake-id="u4106a9d8" id="u4106a9d8">vigenereEncrypt</span></li>
+<li data-lake-id="u2fd95fce" fid="u22b34d6f" id="u2fd95fce"><span data-lake-id="u87bccad8" id="u87bccad8">processWithNative</span></li>
+<li data-lake-id="uffb781b6" fid="u22b34d6f" id="uffb781b6">
+<span data-lake-id="uaa43b850" id="uaa43b850">b.a<br/></span><img alt="Pasted image 20250515220234.png" src="../images/3b8faf20-b314-3306-975f-bace08dea95e" width="949"/><span data-lake-id="u9504418d" id="u9504418d"><br/>由于processWithNative是JNI函数，因此尝试frida hook该函数，尝试传入不同的值，发现每个字符对应的加密结果和顺序无关，因此可以直接生成所有字符加密的结果，再对目标字符串进行匹配</span>
+</li>
+</ul>
+<p data-lake-id="ub03d5dac" id="ub03d5dac"><span data-lake-id="ubd065c5d" id="ubd065c5d">解密思路</span></p>
+<ul list="u534d0607">
+<li data-lake-id="ud6c796cf" fid="ud087f118" id="ud6c796cf"><span data-lake-id="ud16de8e7" id="ud16de8e7">转十六进制</span></li>
+<li data-lake-id="u8534f327" fid="ud087f118" id="u8534f327"><span data-lake-id="u0c0404a6" id="u0c0404a6">字符替换</span></li>
+<li data-lake-id="u76c5854d" fid="ud087f118" id="u76c5854d"><span data-lake-id="u74fa1920" id="u74fa1920">字符偏移</span></li>
+</ul>
+<p data-lake-id="ue7bda66c" id="ue7bda66c"><span data-lake-id="u21f4fa17" id="u21f4fa17">exp</span></p>
+<pre><code class="language-python">from collections import defaultdict
+import hashlib
+import binascii
+from rich.progress import track
+
+CHARACTER_SET = r"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&amp;'()*+,-./:;&lt;=&gt;?@[\]^_`{|}~"
+
+def build_mapping_table():
+    raw_data = "39213A213B213C21402141214221432144214521464748494A4B4C505152535455565758595A5B5C60616263646550215121522153215421552156215721582159215A215B215C21303132333435363738393A3B3C272129212A212B212C2130213121322133213421352136213721382146214721482149214A214B214C2140414243444566676869"
+    mapping = []
+    
+    idx = 0
+    while idx &lt; len(raw_data):
+        if idx + 3 &lt; len(raw_data) and raw_data[idx+2:idx+4] == "21":
+            mapping.append(raw_data[idx:idx+4].lower())
+            idx += 4
+        else:
+            mapping.append(raw_data[idx:idx+2].lower())
+            idx += 2
+            
+    return mapping
+
+class VigenereCipher:
+    def __init__(self, key):
+        self.key = key.lower()
+        self.key_length = len(key)
+        
+    def decrypt(self, text):
+        result = []
+        key_position = 0
+        
+        for character in text:
+            if not character.isalpha():
+                result.append(character)
+                continue
+                
+            base = ord('a') if character.islower() else ord('A')
+            
+            key_char = self.key[key_position % self.key_length]
+            key_shift = ord(key_char) - ord('a')
+            
+            char_code = ord(character) - base
+            decrypted_code = (char_code - key_shift) % 26
+            result.append(chr(decrypted_code + base))
+            
+            key_position += 1
+            
+        return ''.join(result)
+
+def compute_hash(content):
+    """计算内容的SHA-256哈希值"""
+    return hashlib.sha256(content.encode('utf-8')).hexdigest()
+
+class CryptSolver:
+    def __init__(self, cipher_mapping, charset):
+        self.cipher_mapping = cipher_mapping
+        self.charset = charset
+        self.vigenere = VigenereCipher("TheDaVinciCode")
+        
+    def chunk_hexstring(self, hex_string):
+        """将十六进制字符串分割为块"""
+        chunks = []
+        position = 0
+        
+        while position &lt; len(hex_string):
+            if (position + 3 &lt; len(hex_string) and 
+                hex_string[position+2:position+4] == "21"):
+                chunks.append(hex_string[position:position+4])
+                position += 4
+            else:
+                chunks.append(hex_string[position:position+2])
+                position += 2
+                
+        return chunks
+        
+    def decrypt_message(self, encrypted_bytes):
+        """解密消息的主流程"""
+        hex_data = binascii.hexlify(encrypted_bytes).decode() if isinstance(encrypted_bytes, bytes) else encrypted_bytes
+        
+        hex_chunks = self.chunk_hexstring(hex_data)
+        print(f"解析后的块: {hex_chunks}")
+        
+        translated = []
+        for chunk in hex_chunks:
+            try:
+                index = self.cipher_mapping.index(chunk.lower())
+                translated.append(self.charset[index])
+            except ValueError:
+                translated.append('?')
+                
+        intermediate = ''.join(translated)
+        print(f"中间结果: {intermediate}")
+        
+        plaintext = self.vigenere.decrypt(intermediate)
+        print(f"解密结果: {plaintext}")
+        
+        return plaintext
+
+def main():
+    cipher_mapping = build_mapping_table()
+    
+    solver = CryptSolver(cipher_mapping, CHARACTER_SET)
+    
+    encrypted = b"xxxxxxxxxxxxxxxx"
+    result = solver.decrypt_message(encrypted.hex())
+    
+    return result
+
+if __name__ == "__main__":
+    main()</code></pre><h2 data-lake-id="zdyVK" id="zdyVK"><span data-lake-id="uc7c8726e" id="uc7c8726e">whereisflag</span></h2>
+<p data-lake-id="u2cd47dd9" id="u2cd47dd9"><img alt="Screenshot_2025-05-13-16-53-52-316_com.example.whereisflag.jpg" src="../images/1fbc0001-9512-3cc5-90af-b50b577aaafd" width="2160"/><span data-lake-id="ubec70b4e" id="ubec70b4e"><br/>jadx打开apk可以看到具体逻辑<br/></span><img alt="Pasted image 20250510172253.png" src="../images/06f3bcf2-2ed0-3a4d-9b99-e97e5f03f3c7" width="946"/><span data-lake-id="uba7b5207" id="uba7b5207"><br/>分析之后发现核心函数是native函数<br/></span><strong><span data-lake-id="ucc496ca4" id="ucc496ca4">Native 函数基本介绍</span></strong></p>
+<ul list="uc810885c">
+<li data-lake-id="u9bc3e5ef" fid="u0647b9ac" id="u9bc3e5ef">
+<strong><span data-lake-id="u538dac86" id="u538dac86">定义</span></strong><span data-lake-id="ue2bc85b6" id="ue2bc85b6">：Native 函数通过 </span><code data-lake-id="u10005bf6" id="u10005bf6"><span data-lake-id="u5702bd29" id="u5702bd29">native</span></code><span data-lake-id="u3a12fc3a" id="u3a12fc3a"> 关键字在 Java 中声明，实际代码编译在 </span><code data-lake-id="u6ae0b771" id="u6ae0b771"><span data-lake-id="u661677f2" id="u661677f2">.so</span></code><span data-lake-id="u73f1052f" id="u73f1052f"> 动态库（ELF 格式）中。</span>
+</li>
+<li data-lake-id="u538bda85" fid="u0647b9ac" id="u538bda85">
+<strong><span data-lake-id="u1c5b9720" id="u1c5b9720">JNI 桥梁</span></strong><span data-lake-id="ub311b546" id="ub311b546">：Java 层通过 JNI（Java Native Interface）调用 Native 函数，函数名和参数需遵循 JNI 规范。<br/></span><img alt="Pasted image 20250510172314.png" src="../images/8bf44b68-a929-311a-bbb6-3b07469b0689" width="847"/><span data-lake-id="u5d355d82" id="u5d355d82"><br/>用解压软件直接解压apk文件，然后进入</span><code data-lake-id="u461a755d" id="u461a755d"><span data-lake-id="ub36e2d1f" id="ub36e2d1f">\librm64-v8a</span></code><span data-lake-id="u0fb74bbf" id="u0fb74bbf">目录找到so文件，使用IDA64打开so文件，在其中找到</span><code data-lake-id="ubb92528a" id="ubb92528a"><span data-lake-id="ua143db73" id="ua143db73">Java_</span></code><span data-lake-id="u74217967" id="u74217967">开头的函数便是native导出函数<br/>在加密函数中首先将输入倒序<br/></span><img alt="Pasted image 20250510173251.png" src="../images/b0a24495-8a43-3ffe-9fee-33a8e8add260" width="635"/><span data-lake-id="u0ab358a3" id="u0ab358a3"><br/>然后根据字符表查找输入的字符<br/></span><img alt="Pasted image 20250510172352.png" src="../images/ee11d1cf-8fd8-35db-b691-8f19f40268c7" width="1107"/><span data-lake-id="u09039793" id="u09039793"><br/>字符表需要动态调试得到<br/></span><img alt="Pasted image 20250510172434.png" src="../images/ff20107b-9d0a-3182-8272-0bd449058006" width="678"/><span data-lake-id="u46df47ab" id="u46df47ab"><br/></span><img alt="Pasted image 20250510172447.png" src="../images/9c6240ed-c7ee-3c46-b358-1d89d05c7a9f" width="745"/><span data-lake-id="u321ad1d5" id="u321ad1d5"><br/>而根据encrypt、charToIndex、indexToChar函数的逻辑，可以看到在索引转换时有固定偏移，为2<br/>从jadx反编译的结果得到目标密文</span><code data-lake-id="u33b05e5b" id="u33b05e5b"><span data-lake-id="ub4e5db36" id="ub4e5db36">iB3A7kSISR</span></code><span data-lake-id="u5faa6a5f" id="u5faa6a5f">，解密</span>
+</li>
+</ul>
+<p data-lake-id="u772eabf7" id="u772eabf7"><span data-lake-id="ub9158da3" id="ub9158da3">exp</span></p>
+<pre><code class="language-python">s = "WHEReISFLAGBCDJKMNOPQTUVXYZabcdfghijklmnopqrstuvwxyz01234567890"
+
+ss = "iB3A7kSISR"
+
+print("".join([s[(s.index(i)-2)%len(s)] for i in ss][::-1]))</code></pre><p data-lake-id="ufd57a7dc" id="ufd57a7dc"><br/></p>
+<h1 data-lake-id="Zu7CU" id="Zu7CU"><span data-lake-id="u24911bcc" id="u24911bcc">RE</span></h1>
+<h2 data-lake-id="z84V1" id="z84V1"><span data-lake-id="u3d835f5c" id="u3d835f5c">打出flag</span></h2>
+<p data-lake-id="ueee5ebba" id="ueee5ebba"><span data-lake-id="u68d2bacf" id="u68d2bacf">从可执行程序的图标判断为pyinstaller编译的程序，使用pyinstxtractor反编译</span></p>
+<pre><code class="language-bash">python pyinstxtractor.py asd.exe</code></pre><p data-lake-id="u7b57f389" id="u7b57f389"><span data-lake-id="u235320a4" id="u235320a4">然后打开反编译的文件夹，打开同名pyc文件，反编译（uncompyle6或者在线）<br/></span><a data-lake-id="u675e6a58" href="https://tool.lu/pyc/" id="u675e6a58" target="_blank"><span data-lake-id="u9727f749" id="u9727f749">python反编译 - 在线工具</span></a></p>
+<pre><code class="language-python">#!/usr/bin/env python
+# visit https://tool.lu/pyc/ for more information
+# Version: Python 3.8
+
+import lzma
+import base64
+exec(lzma.decompress(base64.b64decode('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')))
+</code></pre><p data-lake-id="u07f3a47b" id="u07f3a47b"><span data-lake-id="u5f35f908" id="u5f35f908">可以将decompress之后的内容写入文件（以下为部分）</span></p>
+<pre><code class="language-python">import base64
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵רּ=base64.b64encode
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ᔳ()
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ﯘ=680
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𭛱=800
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵מּ=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𡷛.set_mode((繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ﯘ,繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𭛱))
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𡷛.set_caption("打出flag")
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ﳥ=(255,255,255)
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ر=(0,0,0)
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐠟=(255,0,0)
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𒋚=(0,255,0)
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐤫=(128,128,128)
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𦌧=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𠆁+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𫪙+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵揨
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ᖅ=30
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𞠪='ZpmDBMytVs5Bi0NvBYN4CoA+AXV5AMR0EBp8BYy9'
+繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐡦=5
+def 繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𬩞(text,shift):
+ 繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐤶=""
+ for 繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ in text:
+  if 'A'&lt;=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ&lt;='Z':
+   繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐤶+=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵אָ(90-(繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ⷃ(繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ)-65))
+  elif 'a'&lt;=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ&lt;='z':
+   繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐤶+=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵אָ(122-(繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ⷃ(繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ)-97))
+  else:
+   繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐤶+=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ
+ 繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐿡=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵רּ(繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐤶.encode()).decode()
+ 繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𞤔=""
+ for 繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ in 繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐿡:
+  if 'A'&lt;=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ&lt;='Z':
+   繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ﲠ=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵אָ((繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ⷃ(繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ)-65+shift)%26+65)
+   繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𞤔+=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ﲠ
+  elif 'a'&lt;=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ&lt;='z':
+   繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ﲠ=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵אָ((繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ⷃ(繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ)-97+shift)%26+97)
+   繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𞤔+=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵ﲠ
+  else:
+   繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𞤔+=繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵כֿ
+ return 繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𞤔
+class 繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𐬅(繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𗆂.Sprite):
+ def __init__(繐𩑠𱊎硊𞢱𐫂𮞙𐼶𢢵𗿷):</code></pre><p data-lake-id="u1042afcf" id="u1042afcf"><span data-lake-id="u1cf9a9d1" id="u1cf9a9d1">叫AI写个脚本去混淆</span></p>
+<pre><code class="language-python">import base64
+
+def decrypt(encrypted_text, shift):
+    # 逆向凯撒移位
+    decrypted_caesar = []
+    for c in encrypted_text:
+        if 'A' &lt;= c &lt;= 'Z':
+            shifted = (ord(c) - ord('A') - shift) % 26
+            decrypted_caesar.append(chr(shifted + ord('A')))
+        elif 'a' &lt;= c &lt;= 'z':
+            shifted = (ord(c) - ord('a') - shift) % 26
+            decrypted_caesar.append(chr(shifted + ord('a')))
+        else:
+            decrypted_caesar.append(c)
+    decrypted_caesar_str = ''.join(decrypted_caesar)
+    
+    # Base64解码
+    decoded_bytes = base64.b64decode(decrypted_caesar_str)
+    decoded_str = decoded_bytes.decode('utf-8')
+    
+    # 字符反转
+    reversed_str = []
+    for c in decoded_str:
+        if 'A' &lt;= c &lt;= 'Z':
+            reversed_char = chr(ord('Z') - (ord(c) - ord('A')))
+        elif 'a' &lt;= c &lt;= 'z':
+            reversed_char = chr(ord('z') - (ord(c) - ord('a')))
+        else:
+            reversed_char = c
+        reversed_str.append(reversed_char)
+    return ''.join(reversed_str)
+
+target = "ZpmDBMytVs5Bi0NvBYN4CoA+AXV5AMR0EBp8BYy9"
+flag = decrypt(target, 5)
+print(flag)</code></pre><h2 data-lake-id="KjNev" id="KjNev"><span data-lake-id="u9b2eab0f" id="u9b2eab0f">有趣的小游戏</span></h2>
+<p data-lake-id="u0f9f5d94" id="u0f9f5d94"><span data-lake-id="uc9fc3925" id="uc9fc3925">附件是一个exe和两个txt，其中txt内容为非打印字符<br/>main函数中定义了许多常量<br/></span><img alt="Pasted image 20250515201119.png" src="../images/a580dcdb-13fb-3a9e-a1f0-36c79c2d58cd" width="1026"/><span data-lake-id="uf72ed125" id="uf72ed125"><br/>通过查看附近函数，发现其他地方也定义了常数<br/></span><img alt="Pasted image 20250515201232.png" src="../images/5a014b28-01b1-30db-80c7-b79378ec25d1" width="769"/><span data-lake-id="u27ec4e08" id="u27ec4e08"><br/>查看字符串表，可以在其中找到两个txt的文件名，交叉引用查看<br/></span><img alt="Pasted image 20250515201327.png" src="../images/44ac8451-165e-3005-ba86-29a59599bf70" width="1010"/><span data-lake-id="u6d6e3203" id="u6d6e3203"><br/></span><img alt="Pasted image 20250515201410.png" src="../images/e2d6077e-5add-325b-8b86-bbbbccf58dbb" width="1038"/><span data-lake-id="u62fb5fe0" id="u62fb5fe0"><br/>其中process是我重命名的结果<br/>可以看到其中比较奇怪的一点是程序将文件的内容作为函数执行，也就是说原本内容不可见的txt其实是函数的二进制数据，要想知道该函数的具体逻辑，需要动态调试，在此处下断点，触发断点之后在汇编步进就可以看到其中逻辑<br/></span><img alt="Pasted image 20250515201657.png" src="../images/0eadfa9a-eac2-3d4b-9733-85e3786363d4" width="1290"/><span data-lake-id="u25ec81a7" id="u25ec81a7"><br/>可以将汇编扔给ai判断函数逻辑<br/>deekseek：“这段汇编代码实现的是 </span><strong><span data-lake-id="uf20b5a62" id="uf20b5a62">XXTEA（eXtended TEA）算法的解密过程</span></strong><span data-lake-id="u40decbba" id="u40decbba">……”<br/>于是知道了加解密逻辑，并且根据xxtea的密钥格式可以判断先前的两处常量中位数较短的是key，而位数较长的是密文<br/>接下来有两种解题方式：</span></p>
+<ol list="uaafc8b0f">
+<li data-lake-id="ud3d1cc7f" fid="uc214be62" id="ud3d1cc7f"><span data-lake-id="uc684eb0a" id="uc684eb0a">手动分析解密逻辑，自己编写代码</span></li>
+<li data-lake-id="uacd14976" fid="uc214be62" id="uacd14976"><span data-lake-id="u3ef720b0" id="u3ef720b0">交给ai<br/>xxtea的加解密逻辑网上有很多就不细说了，直接给出解密脚本</span></li>
+</ol>
+<pre><code class="language-python">import base64
+import struct
+from typing import List
+
+def mask_32bit(value):
+    """Handle 32-bit unsigned integer overflow"""
+    return value &amp; 0xFFFFFFFF
+
+def tea_decrypt(data: List[int], key: List[int]) -&gt; List[int]:
+    """
+    Alternative implementation of XXTEA decryption
+    
+    Args:
+        data: List of encrypted 32-bit integers
+        key: Decryption key as 4x 32-bit integers
+        
+    Returns:
+        List of decrypted 32-bit integers
+    """
+    data_len = len(data)
+    rounds = 6 + 52 // data_len
+    
+    # Convert input data to a list that we can modify
+    result = data.copy()
+    
+    # Initialize the sum value
+    magic_constant = 0x9E3779B9
+    accumulated_sum = mask_32bit(magic_constant * rounds)
+    
+    # Main decryption loop
+    for _ in range(rounds):
+        # Calculate the feistel key index
+        mix_index = (accumulated_sum &gt;&gt; 2) &amp; 3
+        
+        # Process the data from end to beginning (except first element)
+        for i in range(data_len - 1, 0, -1):
+            # Get the values for the current operation
+            current = result[i]
+            previous = result[i - 1]
+            next_val = result[0] if i == data_len - 1 else result[i + 1]
+            
+            # Calculate the mix value
+            mx1 = mask_32bit((previous &gt;&gt; 5) ^ (next_val &lt;&lt; 2))
+            mx2 = mask_32bit((next_val &gt;&gt; 3) ^ (previous &lt;&lt; 4))
+            mx_sum = mask_32bit(mx1 + mx2)
+            
+            # Calculate the key part
+            key_index = (i &amp; 3) ^ mix_index
+            key_mx = mask_32bit((accumulated_sum ^ next_val) + (key[key_index] ^ previous))
+            
+            # Apply the decryption transformation
+            result[i] = mask_32bit(current - (mx_sum ^ key_mx))
+        
+        # Process the first element separately
+        current = result[0]
+        previous = result[data_len - 1]
+        next_val = result[1]
+        
+        mx1 = mask_32bit((previous &gt;&gt; 5) ^ (next_val &lt;&lt; 2))
+        mx2 = mask_32bit((next_val &gt;&gt; 3) ^ (previous &lt;&lt; 4))
+        mx_sum = mask_32bit(mx1 + mx2)
+        
+        key_index = (0 &amp; 3) ^ mix_index
+        key_mx = mask_32bit((accumulated_sum ^ next_val) + (key[key_index] ^ previous))
+        
+        result[0] = mask_32bit(current - (mx_sum ^ key_mx))
+        
+        # Update the accumulated sum for next round
+        accumulated_sum = mask_32bit(accumulated_sum - magic_constant)
+    
+    return result
+
+def decrypt_and_check(encrypted_data, encryption_key, max_iterations=10000):
+    """
+    Repeatedly decrypt data and check for readable output
+    
+    Args:
+        encrypted_data: List of encrypted 32-bit integers
+        encryption_key: List of 4 32-bit integers
+        max_iterations: Maximum number of decryption iterations
+    """
+    current_data = encrypted_data.copy()
+    
+    for iteration in range(max_iterations):
+        # Decrypt one round
+        current_data = tea_decrypt(current_data, encryption_key)
+        
+        # Try to interpret as text in different ways
+        raw_bytes = b''.join([struct.pack("&lt;I", val) for val in current_data])
+        
+        # Method 1: Try to decode the entire output as UTF-8
+        try:
+            decoded_text = raw_bytes.decode('utf-8')
+            print(f"Iteration {iteration + 1}: Found valid UTF-8!")
+            print(decoded_text)
+        except UnicodeDecodeError:
+            pass
+            
+        # Method 2: Try to extract first byte of each word
+        try:
+            first_bytes = bytes([raw_bytes[i] for i in range(0, len(raw_bytes), 4)])
+            decoded_first = first_bytes.decode('utf-8')
+            if any(c.isprintable() for c in decoded_first):
+                print(f"Iteration {iteration + 1}: First bytes as text: {decoded_first}")
+        except UnicodeDecodeError:
+            pass
+
+# Main execution
+def main():
+    # Same key and encrypted data as original
+    encryption_key = [0x12345678, 0x9ABCDEF0, 0xFEDCBA98, 0x76543210]
+    encrypted_data = [
+        0x018A550A, 0x840630DB, 0x3EC0C129, 0x175BDB99,
+        0x7FD5E3DB, 0xF99F6912, 0x199B32C1, 0x836C22BB,
+        0x440E4880, 0xE4EC8310, 0x2F00227A, 0xAB294A2A,
+        0x8EDB89F1, 0x28099186, 0xD04F421F, 0x23E7FD1C,
+        0x6F48B862, 0x61796B6A, 0x857587A7, 0x33254C3A,
+        0x06AAB088, 0x568A0B78, 0xAC64D9CF, 0xFB40A2C6,
+        0x9082056A, 0x4FAAB834, 0x5D033C8B, 0x7D570A1C,
+        0xCC81E29B, 0xCE1DE040
+    ]
+    
+    decrypt_and_check(encrypted_data, encryption_key)
+
+if __name__ == "__main__":
+    main()</code></pre><h2 data-lake-id="yRHBt" id="yRHBt"><span data-lake-id="u491e4bf5" id="u491e4bf5">真？复杂</span></h2>
+<p data-lake-id="u73cbe0d3" id="u73cbe0d3"><span data-lake-id="u53381eea" id="u53381eea">题目附件是一个raw文件，010editor查看发现JFIF文件头，提取图片<br/></span><img alt="Pasted image 20250512005827.png" src="../images/cf35dd5f-a026-38f7-a8fd-ea5d6ee4d1df" width="878"/><span data-lake-id="u155d7bfd" id="u155d7bfd"><br/></span><img alt="123.jpg" src="../images/4d99ed64-0fb0-3893-9449-e3a20b0c20a6" width="567"/><span data-lake-id="u207dec0a" id="u207dec0a"><br/>然后使用cyberchef解密，解密之前要先把原raw文件中附加的图片信息删除<br/>解密之后得到压缩包一个，解密得exe文件和enc文件各一个<br/></span><img alt="ae6879ff3782f8795ec50198ebe6a61.png" src="../images/6176c2e7-cd2f-3fc5-8c0c-5e2f5e1a8606" width="605"/><span data-lake-id="uc6a64afe" id="uc6a64afe"><br/>虽然流程图长这个样，但是是可以手动去除的<br/></span><img alt="Pasted image 20250513163628.png" src="../images/e3e1e5e6-e4ab-3ce0-ba37-4211f4f643a6" width="1276"/><span data-lake-id="u40e022c5" id="u40e022c5"><br/>第一种方法：（直接忽略和输入无关的语句和函数，对于涉及到修改输入的语句统统下断点）<br/>第二种方法：直接分析加密函数的switch逻辑，可以发现是对奇偶索引的字符做不同的变换，核心变量为v4（索引）和v5（控制跳转的case），通过</span><code data-lake-id="u91f74dee" id="u91f74dee"><span data-lake-id="uf0de3cc8" id="uf0de3cc8">v4&amp;1</span></code><span data-lake-id="ua60f2329" id="ua60f2329">的操作判断奇偶<br/>通过分析exe文件可知原本逻辑是给定flag.txt，用exe加密得到enc文件，而现在只有enc文件，故需要逆向推解密逻辑<br/>通过分析得到解密脚本</span></p>
+<pre><code class="language-python">with open('flag.txt.enc', 'rb') as f:
+    encrypted = f.read()
+
+key = [0x88, 0x83, 0xA3, 0x7E, 0xEA, 0xA1, 0xBA, 0x25, 0x72, 0xCF, 0x1D, 0x6E, 0x79, 0x50, 0x17, 0x50]
+decrypted = []
+for v4, byte in enumerate(encrypted):
+    if v4 % 2 == 0:  # 偶数索引处理
+        temp = (~byte) &amp; 0xFF      # 取消取反
+        temp = (temp + v4) % 256   # 逆向减法
+        temp ^= key[v4 % 16]       # 异或密钥
+        orig = (temp - v4) % 256   # 逆向加法
+    else:             # 奇数索引处理
+        temp = byte ^ v4           # 取消异或v4
+        temp = (temp - v4) % 256   # 逆向加法
+        temp ^= key[v4 % 16]       # 异或密钥
+        orig = (temp + v4) % 256   # 逆向减法
+    decrypted.append(orig)
+
+# 输出可打印字符（避免解码错误）
+print(''.join([chr(b) if 32 &lt;= b &lt;= 126 else '.' for b in decrypted]))</code></pre><h2 data-lake-id="oqAk0" id="oqAk0"><span data-lake-id="u89accc87" id="u89accc87">faze</span></h2>
+<p data-lake-id="uf2bd1051" id="uf2bd1051"><span data-lake-id="uf16858d4" id="uf16858d4">题目附件：faze.exe<br/>使用IDA打开附件<br/></span><img alt="Pasted image 20250515173145.png" src="../images/666c9c83-6cfa-3a14-9cf3-658598064bb3" width="1614"/></p>
+<p data-lake-id="u896bf1d6" id="u896bf1d6"><span data-lake-id="u31c36a33" id="u31c36a33">一眼C++，通过判断代码可以发现目标字符串在用户输入之前（getline）已经完成了目标字符串的初始化，所以这里有多种解法</span></p>
+<ol list="u4ef69597">
+<li data-lake-id="uf6684a32" fid="ucfd30c5a" id="uf6684a32"><span data-lake-id="u02c7a034" id="u02c7a034">在sprintf上下断点，直接查看写入目标字符串的内容</span></li>
+<li data-lake-id="u26632621" fid="ucfd30c5a" id="u26632621">
+<span data-lake-id="u05396386" id="u05396386">在比较的时候（</span><code data-lake-id="u47264e77" id="u47264e77"><span data-lake-id="u3516d1b7" id="u3516d1b7">operator==</span></code><span data-lake-id="u6e6a49b1" id="u6e6a49b1">）下断点，查看比较的数据<br/>这里选择前者，在程序暂停时跳转到rcx所在地址<br/></span><img alt="Pasted image 20250515173555.png" src="../images/a290d291-5d47-3e91-8955-addade30774f" width="482"/>
+</li>
+</ol>
+<p data-lake-id="ufe53e207" id="ufe53e207"><br/></p>
+<h2 data-lake-id="qH5AL" id="qH5AL"><span data-lake-id="uefca72db" id="uefca72db">greeting</span></h2>
+<p data-lake-id="u23931f35" id="u23931f35"><span data-lake-id="u1856e643" id="u1856e643">首先IDA打开可执行文件，会发现有些函数反编译的结果不正确，且提示错误，因此可以查看目标函数附近的汇编代码，找到类似加密逻辑的代码<br/></span><img alt="Pasted image 20250513180229.png" src="../images/3f435ec5-db42-3e3c-9a40-d85766c2d944" width="1097"/><span data-lake-id="uf47302b4" id="uf47302b4"><br/>明显的异或和循环左移操作，大概率是加密逻辑<br/>通过分析可知，代码首先是计算一个偏移，然后将目标数据对应索引的字节在异或</span><code data-lake-id="ubaf11dae" id="ubaf11dae"><span data-lake-id="u6009984c" id="u6009984c">i+0x5a</span></code><span data-lake-id="u40159adf" id="u40159adf">之后（esi为索引）循环左移该计算出来的偏移，因此目标可以分为两步：</span></p>
+<ol list="ud8a25b63">
+<li data-lake-id="ueab32ab3" fid="ucb381eb4" id="ueab32ab3"><span data-lake-id="uf85b1392" id="uf85b1392">分析该偏移的计算方式</span></li>
+<li data-lake-id="u8df79505" fid="ucb381eb4" id="u8df79505">
+<span data-lake-id="u8452093c" id="u8452093c">反推整个加密逻辑<br/>这里的r15其实是一个固定的值<br/></span><img alt="Pasted image 20250513180747.png" src="../images/29342997-2c18-331e-964c-bb26028c464c" width="822"/><span data-lake-id="uf54003f5" id="uf54003f5"><br/>关于偏移量的计算</span>
+</li>
+</ol>
+<ul list="udb081c1a"><li data-lake-id="u85144a55" fid="uce2f690f" id="u85144a55"><span data-lake-id="u015a4d85" id="u015a4d85">通过手动分析</span></li></ul>
+<ul data-lake-indent="1" list="udb081c1a">
+<li data-lake-id="u58d07151" fid="ub39e3929" id="u58d07151">
+<code data-lake-id="u42f89eeb" id="u42f89eeb"><span data-lake-id="u72c045a7" id="u72c045a7">mul r15</span></code><span data-lake-id="ucb4b2f1c" id="ucb4b2f1c"> 和 </span><code data-lake-id="u840c7071" id="u840c7071"><span data-lake-id="uafccf827" id="uafccf827">shr dl, 2</span></code><span data-lake-id="ub8b5dab2" id="ub8b5dab2"> 的组合实际上执行的是整数除法 </span><code data-lake-id="u91b1b1ff" id="u91b1b1ff"><span data-lake-id="uad13b1db" id="uad13b1db">i / 5</span></code>
+</li>
+<li data-lake-id="u0a7e1e3c" fid="ub39e3929" id="u0a7e1e3c">
+<code data-lake-id="u457458cb" id="u457458cb"><span data-lake-id="ua2f546e7" id="ua2f546e7">lea eax, [rax+rax*4]</span></code><span data-lake-id="u433144b0" id="u433144b0"> 计算的是 </span><code data-lake-id="u8faca175" id="u8faca175"><span data-lake-id="u756c884c" id="u756c884c">(i/5)*5</span></code>
+</li>
+<li data-lake-id="u6c801ba1" fid="ub39e3929" id="u6c801ba1">
+<code data-lake-id="uc4e04d41" id="uc4e04d41"><span data-lake-id="uccee35f0" id="uccee35f0">sub ecx, eax</span></code><span data-lake-id="u0dded771" id="u0dded771"> 计算的是 </span><code data-lake-id="u175e8886" id="u175e8886"><span data-lake-id="uc60bdb87" id="uc60bdb87">i - (i/5)*5</span></code>
+</li>
+<li data-lake-id="u4b775c53" fid="ub39e3929" id="u4b775c53">
+<span data-lake-id="uc213a455" id="uc213a455">以上逻辑等价于</span><code data-lake-id="u1884e3d1" id="u1884e3d1"><span data-lake-id="uea4a6121" id="uea4a6121">i%5</span></code>
+</li>
+</ul>
+<ul list="udb081c1a" start="2"><li data-lake-id="ua4330278" fid="uce2f690f" id="ua4330278"><span data-lake-id="u4645089e" id="u4645089e">直接动态调试可以发现rol操作中cl的取值是0、1、2、3、4、0……，所以其实偏移的计算方式是索引对5取余</span></li></ul>
+<p data-lake-id="u3cfff79a" id="u3cfff79a"><span data-lake-id="uec2d6d66" id="uec2d6d66">然后就是逆向整个加密逻辑，有了偏移的计算方式，解密的逻辑很好推，就是对每个字节先循环右移再异或</span><code data-lake-id="ue11ebed0" id="ue11ebed0"><span data-lake-id="ue04a7910" id="ue04a7910">(i+0x5a)</span></code><span data-lake-id="ued60ff6c" id="ued60ff6c"><br/>对于密文，通过交叉引用和人肉分析等方式最终可以找到位于</span><code data-lake-id="u3420fed4" id="u3420fed4"><span data-lake-id="uc14ecde3" id="uc14ecde3">0x014001B390</span></code></p>
+<p data-lake-id="ua5112dd6" id="ua5112dd6"><span data-lake-id="u90fd2d30" id="u90fd2d30">因此完整的解密脚本如下</span></p>
+<pre><code class="language-python">def encrypt(input_bytes):
+    output = bytearray(len(input_bytes))
+    for i in range(len(input_bytes)):
+        div_result = (i // 10) * 5
+        
+        value = (i + 0x5A) &amp; 0xFF
+        value ^= input_bytes[i]
+        
+        rot_amount = (i - div_result) &amp; 0x7
+        value = ((value &lt;&lt; rot_amount) | (value &gt;&gt; (8 - rot_amount))) &amp; 0xFF
+        
+        output[i] = value
+    
+    return output
+
+def decrypt(encrypted_bytes):
+    output = ""
+    for i in range(len(encrypted_bytes)):
+        rot_amount = i % 5
+        
+        value = encrypted_bytes[i] &amp; 0xFF
+        value = ((value &gt;&gt; rot_amount) | (value &lt;&lt; (8 - rot_amount))) &amp; 0xFF
+        
+        value ^= (i + 0x5A)
+        
+        output += chr(value &amp; 0xFF)
+    
+    return output
+
+def main():
+    encrypted_hex = "xxxxxxxxxxx"
+    encrypted_bytes = bytes.fromhex(encrypted_hex)
+    
+    decrypted = decrypt(encrypted_bytes)
+    print("Decrypted:", decrypted)
+
+if __name__ == "__main__":
+    main()</code></pre>
+</div>
+            
+</body>
+</html>

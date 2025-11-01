@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a61d43e-4af5-4b6c-b808-809aff6097fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/crawl_xz_aliyun.py" beforeDir="false" afterPath="$PROJECT_DIR$/crawl_xz_aliyun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/18005-堆栈不在，何必欺骗？-先知社区.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/18006-一次恶意挖矿样本分析到捕获矿池地址-先知社区.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/18007-记一次外网打点从CVE-2023-49070到CVE-2023-51467获取域控权限的过程-先知社区.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/18008-从原生反序列化到Hessian反序列化的hook方法-先知社区.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/18013-高版本Fastjson：Getter调用限制及绕过方式探究-先知社区.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/18015-ISCC 练武初赛re+mobile wp-先知社区.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/02233473-e2a7-3d9f-a335-b75a0cb4b260" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/03921277-a0e1-3234-8028-ff0cc3856095" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/045fc727-7a21-32c7-97d1-a411c7184ba0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/06f3bcf2-2ed0-3a4d-9b99-e97e5f03f3c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/0e85fd26-5b86-31f6-98cc-8c2e6f2f81e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/0eadfa9a-eac2-3d4b-9733-85e3786363d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/0f9b1379-2925-37b7-a2eb-5992c5ba1b62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/100d2d18-6954-332c-973f-3967025cabd4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/14c04986-4868-3d9d-9f88-bbeaa2ca22d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/15b2ed9e-7ef8-33e7-b024-a4f7930c7aa4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/1710040379934-63b1f9df-ec43-4a47-bed3-b21a952a66d5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/1710040392531-c700620f-6947-4670-afe2-39d60400a34e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/1aefdfd9-4187-37f0-b063-d0d1ea620e48" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/1fbc0001-9512-3cc5-90af-b50b577aaafd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162832-961fc699-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162833-96d24373-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162834-972fab4c-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162834-97a06852-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162835-980e3ff3-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162836-9860b8a4-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162836-98b1f9d9-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162837-991a05b5-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162837-99798bb6-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162838-99db85fd-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162839-9a341b6a-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515162839-9a93d296-3166-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164747-46e868eb-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164749-47be55e1-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164749-480d69da-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164750-485883c2-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164750-489deab1-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164751-48f77d07-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164752-49965fe8-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164753-49f3ae87-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164754-4a8652e8-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164754-4ae31872-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164755-4b9bb6d9-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164756-4bd860a8-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164756-4c14c58a-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164757-4c65271f-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164757-4cbe859a-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164758-4d2f8508-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164759-4d9226c6-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164759-4dd9df5a-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164800-4e2f701e-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164800-4ea86640-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164801-4f20488e-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164802-4f5fdd85-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164802-4fdd12dd-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164804-507a966c-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164804-50c49ea3-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164805-512f1b72-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164806-51ad4c59-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164806-52174caf-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164807-5291867f-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515164808-53153e89-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165237-f339c81e-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165238-f43d23dd-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165244-f79f2382-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165248-f9fabbba-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165250-fb4d8d05-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165254-fdbdcbd5-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165257-ff447929-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165258-fff00762-3169-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165300-012c2162-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165302-025e98fb-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165303-02ee00df-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165304-03b6f3b1-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165306-0491d982-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165307-059bc7cd-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165309-06ae6f4f-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165310-076def28-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165312-085e8d49-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165314-0978dab1-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165315-0a5880a3-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165317-0b2aa9f5-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165318-0c2c49f8-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165320-0d67c6d5-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/20250515165322-0e874382-316a-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/262e3394-71a5-3506-8e4d-47537e424a41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/29342997-2c18-331e-964c-bb26028c464c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/2ad987ac-34a5-3250-93d3-ce87b009d33b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/2cf78fb0-534b-3bbc-bf7b-01b989bac3bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/32b61961-bad7-3fbd-ad30-79701a13dd6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/36b1ec63-b2a5-3b1e-8aba-363580880567" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/3b8faf20-b314-3306-975f-bace08dea95e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/3f435ec5-db42-3e3c-9a40-d85766c2d944" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/41684733-2f88-36ab-81c2-ad028fe1d7bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/43782241-2b49-36ec-9b24-8f31618526db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/44ac8451-165e-3005-ba86-29a59599bf70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/4d09b689-2941-3e43-93ca-7133455281fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/4d99ed64-0fb0-3893-9449-e3a20b0c20a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/4fad1aa9-66eb-3744-af0a-c6c275679a55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/557ecdef-c31a-33c8-bcf5-d03b475322d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/588970da-e7b4-37bd-8674-a58d7b3a1f0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/5981022d-b408-3dc0-994b-a261395e1510" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/5a014b28-01b1-30db-80c7-b79378ec25d1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/5cf6ab80-437c-39c0-9ff9-639a63ce0e5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/5f7884e2-eae1-36ff-b094-b64fc3e06eb5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/608da054-4eb0-3ddf-9bf1-1c934aa9e68d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/6110f2ed-e8f6-3fab-975e-9d388ecb137f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/6176c2e7-cd2f-3fc5-8c0c-5e2f5e1a8606" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/666c9c83-6cfa-3a14-9cf3-658598064bb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/7513b408-f311-32c2-98c8-9484aa26ee30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/794fe582-eb9f-32d8-982c-1c14675dab52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/7a73701c-592c-3f9c-8964-33baa4c9399a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/7bb36eac-c61f-37ea-8c76-433f4fad96ba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/8073ed7c-cf2a-3b83-876e-5a1aeb20625f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/80e519ef-26ea-3e94-8ee6-a3497362c9db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/89bd4c5f-c1a6-35a7-b488-50b715fe9e49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/8bf44b68-a929-311a-bbb6-3b07469b0689" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/8f009a4c-2b98-32a3-a516-63bdf841be87" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/9c6240ed-c7ee-3c46-b358-1d89d05c7a9f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/a290d291-5d47-3e91-8955-addade30774f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/a4b06c0a-13ac-39bb-a26a-24fe446230ba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/a580dcdb-13fb-3a9e-a1f0-36c79c2d58cd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/a8461f8b-d600-3933-8254-e0fc4a12731f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/ab0c8f5d-a660-3686-a06c-01e15c46044b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/aec67203-e912-3a33-95ae-59b105da1c09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/aee9c4a2-88dc-398c-b977-2ba44b413f29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/b0a24495-8a43-3ffe-9fee-33a8e8add260" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/b27278e6-744b-35e5-9529-2a7f58258e16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/b424e5d3-8881-30f1-8149-062356703ce9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/b7162c38-c941-3a6e-8929-324286f012f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/bb8b0a5c-ba0e-35b9-ada7-1ebfc3882dad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/cf35dd5f-a026-38f7-a8fd-ea5d6ee4d1df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/d422139e-1d86-3946-8642-b4a7a10ca39d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/da61cc43-4140-3691-ad54-a7e7c6a90d7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/e2d6077e-5add-325b-8b86-bbbbccf58dbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/e3e1e5e6-e4ab-3ce0-ba37-4211f4f643a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/e8e6e2d6-767b-3489-a131-f27c61adde44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/e90d57eb-cf26-3bee-9b2b-bcb824b0bcfb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/e95a06ff-69b0-3446-87db-da12d72fb3fe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/ee11d1cf-8fd8-35db-b691-8f19f40268c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/efd11096-7bda-351e-add9-47eb44c84764" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/f211ea96-a1e3-3461-8a54-34c447c4120f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/f2963690-2add-3307-bca9-75e72772958c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/f2b1521c-c2a4-3c5a-be95-b88937906163" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/f45649cb-1186-39c2-a0c5-33d3c642445d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/f601fcc3-a91d-3fa0-8d2f-e53856c92785" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/fa8d5f4d-268b-3ee3-9ea0-419ae6b74878" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/fba26327-1876-3fa4-b0dc-0dcd0f5106cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/fc45a923-4bbb-338e-9fb4-8e3e1cedbd67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/images/ff20107b-9d0a-3182-8272-0bd449058006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/pdf/18005-堆栈不在，何必欺骗？-先知社区.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/xianzhi/pdf/18005-堆栈不在，何必欺骗？-先知社区.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/pdf/18006-一次恶意挖矿样本分析到捕获矿池地址-先知社区.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/xianzhi/pdf/18006-一次恶意挖矿样本分析到捕获矿池地址-先知社区.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/pdf/18007-记一次外网打点从CVE-2023-49070到CVE-2023-51467获取域控权限的过程-先知社区.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/xianzhi/pdf/18007-记一次外网打点从CVE-2023-49070到CVE-2023-51467获取域控权限的过程-先知社区.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/pdf/18008-从原生反序列化到Hessian反序列化的hook方法-先知社区.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/xianzhi/pdf/18008-从原生反序列化到Hessian反序列化的hook方法-先知社区.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/pdf/18013-高版本Fastjson：Getter调用限制及绕过方式探究-先知社区.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/xianzhi/pdf/18013-高版本Fastjson：Getter调用限制及绕过方式探究-先知社区.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xianzhi/pdf/18015-ISCC 练武初赛re+mobile wp-先知社区.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/xianzhi/pdf/18015-ISCC 练武初赛re+mobile wp-先知社区.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="34oWPxWQObDu5Mmyqq12ANNydeA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xianzhi/pdf" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\za\code\python\知识库\xianzhi\pdf" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="crawl_xz_aliyun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="知识库" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl_xz_aliyun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crawl_xz_aliyun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a61d43e-4af5-4b6c-b808-809aff6097fd" name="Default Changelist" comment="" />
+      <created>1761880385060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761880385060</updated>
+      <workItem from="1761880386352" duration="2274000" />
+      <workItem from="1761890286192" duration="22000" />
+      <workItem from="1761890472127" duration="12080000" />
+      <workItem from="1761974511071" duration="3152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$crawl_xz_aliyun.coverage" NAME="crawl_xz_aliyun Coverage Results" MODIFIED="1761893871151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
