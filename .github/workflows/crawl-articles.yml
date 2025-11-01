@@ -163,7 +163,7 @@ jobs:
             echo "没有新文章"
           else
             TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S')
-            git commit -m "🤖 自动爬取文章 - $TIMESTAMP"
+            git commit -m "自动爬取文章 - $TIMESTAMP"
             git push
           fi
       
