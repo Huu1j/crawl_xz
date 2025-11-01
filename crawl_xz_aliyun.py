@@ -645,39 +645,28 @@ if __name__ == '__main__':
     
     # 检查当前目录是否已有 chromedriver
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    chromedriver_path = os.path.join(current_dir, "chromedriver.exe")
+    chromedriver_name = "chromedriver.exe" if os.name == 'nt' else "chromedriver"
+    chromedriver_path = os.path.join(current_dir, chromedriver_name)
     
     # 创建Service对象，禁用日志输出
-    service_args = ['--silent', '--log-path=NUL']
+    service_args = ['--silent', '--log-path=/dev/null'] if os.name != 'nt' else ['--silent', '--log-path=NUL']
     
-    if os.path.exists(chromedriver_path):
-        print(f"✓ 使用本地 ChromeDriver: {chromedriver_path}")
-        service = Service(chromedriver_path, service_args=service_args)
-        
-        # 重定向stderr来彻底禁用DevTools消息
-        service.creationflags = subprocess.CREATE_NO_WINDOW if os.name == 'nt' else 0
-        
-        driver = webdriver.Chrome(service=service, options=chrome_options)
-    else:
+    # 在Linux环境下（如GitHub Actions），始终使用webdriver-manager
+    if os.name != 'nt' or not os.path.exists(chromedriver_path):
         print("正在下载匹配版本的 ChromeDriver（仅首次需要）...")
         # 使用 webdriver_manager 下载驱动
         downloaded_path = ChromeDriverManager().install()
         print(f"✓ ChromeDriver 已下载")
         
-        # 复制到当前目录，方便下次使用
-        try:
-            shutil.copy2(downloaded_path, chromedriver_path)
-            print(f"✓ ChromeDriver 已保存到: {chromedriver_path}")
-            print(f"   下次运行将直接使用本地驱动，无需重新下载")
-            service = Service(chromedriver_path, service_args=service_args)
-            service.creationflags = subprocess.CREATE_NO_WINDOW if os.name == 'nt' else 0
-            driver = webdriver.Chrome(service=service, options=chrome_options)
-        except Exception as e:
-            print(f"⚠️  无法复制驱动文件到当前目录: {e}")
-            print(f"   将使用缓存位置的驱动: {downloaded_path}")
-            service = Service(downloaded_path, service_args=service_args)
-            service.creationflags = subprocess.CREATE_NO_WINDOW if os.name == 'nt' else 0
-            driver = webdriver.Chrome(service=service, options=chrome_options)
+        service = Service(downloaded_path, service_args=service_args)
+        if os.name == 'nt':
+            service.creationflags = subprocess.CREATE_NO_WINDOW
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+    else:
+        print(f"✓ 使用本地 ChromeDriver: {chromedriver_path}")
+        service = Service(chromedriver_path, service_args=service_args)
+        service.creationflags = subprocess.CREATE_NO_WINDOW
+        driver = webdriver.Chrome(service=service, options=chrome_options)
     
     success_count = 0
     fail_count = 0
