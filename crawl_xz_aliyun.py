@@ -51,13 +51,12 @@ def html_to_pdf(html_content, output_path, title="", keep_html=True):
     html_path = output_path.replace('.pdf', '.html')
     
     try:
-        # 如果是BeautifulSoup对象，转为字符串
+        
         if hasattr(html_content, 'prettify'):
             html_str = str(html_content)
         else:
             html_str = html_content
         
-        # 添加完整的HTML结构和样式
         styled_html = f"""<!DOCTYPE html>
 <html>
 <head>
@@ -227,7 +226,7 @@ def html_to_pdf(html_content, output_path, title="", keep_html=True):
         print(f"✗ PDF处理失败: {e}")
         return False
 
-def crawl_article(driver, url, article_id, url_type="t", save_dir="./xianzhi", output_format="md", debug_mode=False):
+def crawl_article(driver, url, article_id, url_type="t", save_dir="./xianzhi", output_format="md", debug_mode=False, fast_mode=False):
     """爬取单篇文章
 
     Args:
@@ -241,10 +240,8 @@ def crawl_article(driver, url, article_id, url_type="t", save_dir="./xianzhi", o
     try:
         print(f"\n正在爬取: {url}")
         driver.get(url)
-        time.sleep(3)
-
-        # 等待页面加载完成
-        time.sleep(3)
+        wait_time = 0.5 if fast_mode else 2
+        time.sleep(wait_time)
 
         # 检查是否被重定向（通过比较文章ID）
         current_url = driver.current_url
@@ -289,8 +286,7 @@ def crawl_article(driver, url, article_id, url_type="t", save_dir="./xianzhi", o
                 f.write(html_content)
             print(f"  [调试] 已保存完整页面源码: {debug_html_path}")
         
-        # 关键修复：从页面源代码中提取 makeView 中的完整HTML内容
-        # 先知社区的文章内容存储在JavaScript的 makeView('markdown-body', "...") 调用中
+        
         article_html_from_js = None
         makeview_match = re.search(r"makeView\('markdown-body',\s*\"(.+?)\"\s*\)", html_content, re.DOTALL)
         
@@ -577,12 +573,14 @@ if __name__ == '__main__':
     parser.add_argument('--format', type=str, default='all', 
                         choices=['md', 'md+pdf', 'all'],
                         help='输出格式 (默认: all)')
-    parser.add_argument('--sleep', type=int, default=5,
-                        help='请求间隔时间（秒）(默认: 5)')
+    parser.add_argument('--sleep', type=int, default=2,
+                        help='请求间隔时间（秒）(默认: 2)')
     parser.add_argument('--dir', type=str, default='./xianzhi',
                         help='保存目录 (默认: ./xianzhi)')
     parser.add_argument('--debug', action='store_true',
                         help='调试模式：禁用无头模式，保存完整页面源码')
+    parser.add_argument('--fast', action='store_true',
+                        help='极速模式：最小等待时间（可能不稳定）')
     
     args = parser.parse_args()
     
@@ -594,6 +592,12 @@ if __name__ == '__main__':
     SAVE_DIR = args.dir
     SLEEP_TIME = args.sleep
     DEBUG_MODE = args.debug
+    FAST_MODE = args.fast
+    
+    # 极速模式：覆盖sleep时间
+    if FAST_MODE:
+        SLEEP_TIME = 0.5
+        print("⚡ 极速模式已启用")
     
     print("="*60)
     print("先知社区文章批量爬虫工具")
@@ -683,7 +687,7 @@ if __name__ == '__main__':
             article_id = str(i)
             url = f"https://xz.aliyun.com/{URL_TYPE}/{article_id}"
             
-            if crawl_article(driver, url, article_id, URL_TYPE, SAVE_DIR, OUTPUT_FORMAT, DEBUG_MODE):
+            if crawl_article(driver, url, article_id, URL_TYPE, SAVE_DIR, OUTPUT_FORMAT, DEBUG_MODE, FAST_MODE):
                 success_count += 1
             else:
                 fail_count += 1

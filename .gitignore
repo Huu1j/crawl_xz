@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ChromeDriver和浏览器驱动
+chromedriver.exe
+chromedriver
+geckodriver
+*.log
+
+# 调试文件
+debug/
+*.debug
+
+# 临时文件
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 可选：如果不想保存PDF和HTML到仓库，取消下面的注释
+*.pdf
+*.html
+images/
+
+# 可选：如果不想保存wkhtmltopdf，取消下面的注释
+# wkhtmltox/
+
