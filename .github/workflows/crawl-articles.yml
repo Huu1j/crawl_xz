@@ -41,7 +41,7 @@ jobs:
     
     steps:
       - name: 检出代码
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0  # 获取完整历史记录
       
@@ -169,7 +169,7 @@ jobs:
       
       - name: 上传爬取日志
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: crawl-logs
           path: |
