@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-11-06 01:11:36
+> 🤖 最后更新: 2025-11-07 01:10:48
 
 ## 📊 统计信息
 
-- **先知社区**: 34 篇文章
-- **奇安信攻防社区**: 33 篇文章
-- **总计**: 67 篇文章
+- **先知社区**: 41 篇文章
+- **奇安信攻防社区**: 37 篇文章
+- **总计**: 78 篇文章
 
 ---
 
-## 📖 先知社区文章 (34 篇)
+## 📖 先知社区文章 (41 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -49,10 +49,17 @@
 | 16052 | 2024 国城杯 WriteUp-先知社区 | 39.3 KB | [📄](xianzhi/16052-2024 国城杯 WriteUp-先知社区.md) [🔗](https://xz.aliyun.com/news/16052  ) |
 | 16057 | qwb-final-dataease代码审计-先知社区 | 10.2 KB | [📄](xianzhi/16057-qwb-final-dataease代码审计-先知社区.md) [🔗](https://xz.aliyun.com/news/16057  ) |
 | 16059 | PE 文件结构剖析：手工压缩与注入实战-先知社区 | 18.6 KB | [📄](xianzhi/16059-PE 文件结构剖析：手工压缩与注入实战-先知社区.md) [🔗](https://xz.aliyun.com/news/16059  ) |
+| 16061 | PolarCTF-2024冬季赛 （WEB）-先知社区 | 6.6 KB | [📄](xianzhi/16061-PolarCTF-2024冬季赛 （WEB）-先知社区.md) [🔗](https://xz.aliyun.com/news/16061  ) |
+| 16063 | x86汇编与编写shellcode-先知社区 | 33.0 KB | [📄](xianzhi/16063-x86汇编与编写shellcode-先知社区.md) [🔗](https://xz.aliyun.com/news/16063  ) |
+| 16064 | 从HECTF ezjava 入手 Vaadin 调用链挖掘-先知社区 | 35.6 KB | [📄](xianzhi/16064-从HECTF ezjava 入手 Vaadin 调用链挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/16064  ) |
+| 16067 | 代码审计 - MCMS v5.4.1 0day挖掘-先知社区 | 16.1 KB | [📄](xianzhi/16067-代码审计 - MCMS v5.4.1 0day挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/16067  ) |
+| 16068 | pyramid 框架无回显挖掘-先知社区 | 12.5 KB | [📄](xianzhi/16068-pyramid 框架无回显挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/16068  ) |
+| 16069 | 内存马生成工具JMG的哥斯拉插件：jmgg-先知社区 | 1.0 KB | [📄](xianzhi/16069-内存马生成工具JMG的哥斯拉插件：jmgg-先知社区.md) [🔗](https://xz.aliyun.com/news/16069  ) |
+| 16070 | 入门级badusb框架的实现-先知社区 | 11.3 KB | [📄](xianzhi/16070-入门级badusb框架的实现-先知社区.md) [🔗](https://xz.aliyun.com/news/16070  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (33 篇)
+## 🛡️ 奇安信攻防社区文章 (37 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -89,6 +96,10 @@
 | 2458 | superset反序列化分析 | 8.6 KB | [📄](butian/2458-superset反序列化分析.md) [🔗](https://forum.butian.net/share/2458  ) |
 | 2459 | 某cms漏洞浅析 | 6.6 KB | [📄](butian/2459-某cms漏洞浅析.md) [🔗](https://forum.butian.net/share/2459  ) |
 | 2460 | How to Forge a Kerberos Ticket by Yourself | 74.0 KB | [📄](butian/2460-How to Forge a Kerberos Ticket by Yourself.md) [🔗](https://forum.butian.net/share/2460  ) |
+| 2461 | S4UTomato - Escalate Service Account To LocalSystem via Kerberos | 23.9 KB | [📄](butian/2461-S4UTomato - Escalate Service Account To LocalSystem via Kerberos.md) [🔗](https://forum.butian.net/share/2461  ) |
+| 2462 | Revisiting a UAC Bypass By Abusing Kerberos Tickets | 24.1 KB | [📄](butian/2462-Revisiting a UAC Bypass By Abusing Kerberos Tickets.md) [🔗](https://forum.butian.net/share/2462  ) |
+| 2465 | Lilishop 开源商城系统代码审计 | 21.5 KB | [📄](butian/2465-Lilishop 开源商城系统代码审计.md) [🔗](https://forum.butian.net/share/2465  ) |
+| 2470 | 充电枪勒索攻击 | 17.5 KB | [📄](butian/2470-充电枪勒索攻击.md) [🔗](https://forum.butian.net/share/2470  ) |
 
 ---
 
