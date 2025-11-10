@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-11-09 01:17:43
+> 🤖 最后更新: 2025-11-10 01:16:30
 
 ## 📊 统计信息
 
-- **先知社区**: 55 篇文章
-- **奇安信攻防社区**: 46 篇文章
-- **总计**: 101 篇文章
+- **先知社区**: 61 篇文章
+- **奇安信攻防社区**: 50 篇文章
+- **总计**: 111 篇文章
 
 ---
 
-## 📖 先知社区文章 (55 篇)
+## 📖 先知社区文章 (61 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -70,10 +70,16 @@
 | 16088 | 实现xxl-job-executor 1.9.2阉割版Jetty服务的Handler内存马-先知社区 | 17.1 KB | [📄](xianzhi/16088-实现xxl-job-executor 1.9.2阉割版Jetty服务的Handler内存马-先知社区.md) [🔗](https://xz.aliyun.com/news/16088  ) |
 | 16089 | 分享一次 C++ PWN 出题经历——深入研究异常处理机制-先知社区 | 25.1 KB | [📄](xianzhi/16089-分享一次 C++ PWN 出题经历——深入研究异常处理机制-先知社区.md) [🔗](https://xz.aliyun.com/news/16089  ) |
 | 16090 | 对pyramid框架无回显的学习---以一道ctf题目为例-先知社区 | 10.7 KB | [📄](xianzhi/16090-对pyramid框架无回显的学习---以一道ctf题目为例-先知社区.md) [🔗](https://xz.aliyun.com/news/16090  ) |
+| 16091 | protobuf脱壳二进制漏洞总结-先知社区 | 20.9 KB | [📄](xianzhi/16091-protobuf脱壳二进制漏洞总结-先知社区.md) [🔗](https://xz.aliyun.com/news/16091  ) |
+| 16092 | 一道题了解虚拟机本身的机制实现的shellcode-先知社区 | 6.7 KB | [📄](xianzhi/16092-一道题了解虚拟机本身的机制实现的shellcode-先知社区.md) [🔗](https://xz.aliyun.com/news/16092  ) |
+| 16093 | kernel从小白到大神(六)-USMA-先知社区 | 57.6 KB | [📄](xianzhi/16093-kernel从小白到大神(六)-USMA-先知社区.md) [🔗](https://xz.aliyun.com/news/16093  ) |
+| 16094 | 从国城杯Ez_Gallery实现寻找WSGIRef内存马和Response响应头外带以及栈帧回显的尝试-先知社区 | 17.7 KB | [📄](xianzhi/16094-从国城杯Ez_Gallery实现寻找WSGIRef内存马和Response响应头外带以及栈帧回显的尝试-先知社区.md) [🔗](https://xz.aliyun.com/news/16094  ) |
+| 16096 | 求被异或算法加密文件的KEY的骚操作-先知社区 | 2.4 KB | [📄](xianzhi/16096-求被异或算法加密文件的KEY的骚操作-先知社区.md) [🔗](https://xz.aliyun.com/news/16096  ) |
+| 16098 | JsonPickle调试分析原理及WAF绕过-先知社区 | 14.5 KB | [📄](xianzhi/16098-JsonPickle调试分析原理及WAF绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/16098  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (46 篇)
+## 🛡️ 奇安信攻防社区文章 (50 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -123,6 +129,10 @@
 | 2485 | 金山终端安全系统V9.0 SQL注入漏洞 | 5.0 KB | [📄](butian/2485-金山终端安全系统V9.0 SQL注入漏洞.md) [🔗](https://forum.butian.net/share/2485  ) |
 | 2488 | PHP从零学习到Webshell免杀手册 | 52.8 KB | [📄](butian/2488-PHP从零学习到Webshell免杀手册.md) [🔗](https://forum.butian.net/share/2488  ) |
 | 2490 | 某CMS的RCE漏洞分析&思路扩展（新手学习） | 10.1 KB | [📄](butian/2490-某CMS的RCE漏洞分析&思路扩展（新手学习）.md) [🔗](https://forum.butian.net/share/2490  ) |
+| 2491 | 某系统模板注入分析 | 6.4 KB | [📄](butian/2491-某系统模板注入分析.md) [🔗](https://forum.butian.net/share/2491  ) |
+| 2492 | 某次测试从前台登录页到渲染后台功能 | 5.6 KB | [📄](butian/2492-某次测试从前台登录页到渲染后台功能.md) [🔗](https://forum.butian.net/share/2492  ) |
+| 2498 | 记一次 DebugBlocker 程序的分析 | 15.5 KB | [📄](butian/2498-记一次 DebugBlocker 程序的分析.md) [🔗](https://forum.butian.net/share/2498  ) |
+| 2499 | 记一次过滤jsp的文件上传 | 6.7 KB | [📄](butian/2499-记一次过滤jsp的文件上传.md) [🔗](https://forum.butian.net/share/2499  ) |
 
 ---
 
