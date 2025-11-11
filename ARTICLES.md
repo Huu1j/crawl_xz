@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-11-10 01:16:30
+> 🤖 最后更新: 2025-11-11 01:14:01
 
 ## 📊 统计信息
 
-- **先知社区**: 61 篇文章
-- **奇安信攻防社区**: 50 篇文章
-- **总计**: 111 篇文章
+- **先知社区**: 69 篇文章
+- **奇安信攻防社区**: 54 篇文章
+- **总计**: 123 篇文章
 
 ---
 
-## 📖 先知社区文章 (61 篇)
+## 📖 先知社区文章 (69 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -76,10 +76,18 @@
 | 16094 | 从国城杯Ez_Gallery实现寻找WSGIRef内存马和Response响应头外带以及栈帧回显的尝试-先知社区 | 17.7 KB | [📄](xianzhi/16094-从国城杯Ez_Gallery实现寻找WSGIRef内存马和Response响应头外带以及栈帧回显的尝试-先知社区.md) [🔗](https://xz.aliyun.com/news/16094  ) |
 | 16096 | 求被异或算法加密文件的KEY的骚操作-先知社区 | 2.4 KB | [📄](xianzhi/16096-求被异或算法加密文件的KEY的骚操作-先知社区.md) [🔗](https://xz.aliyun.com/news/16096  ) |
 | 16098 | JsonPickle调试分析原理及WAF绕过-先知社区 | 14.5 KB | [📄](xianzhi/16098-JsonPickle调试分析原理及WAF绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/16098  ) |
+| 16101 | 2024 polarctf 冬季个人挑战赛 web wp-先知社区 | 4.3 KB | [📄](xianzhi/16101-2024 polarctf 冬季个人挑战赛 web wp-先知社区.md) [🔗](https://xz.aliyun.com/news/16101  ) |
+| 16102 | Web安全--业务逻辑漏洞篇-先知社区 | 17.2 KB | [📄](xianzhi/16102-Web安全--业务逻辑漏洞篇-先知社区.md) [🔗](https://xz.aliyun.com/news/16102  ) |
+| 16103 | PolarD&N--2024冬季个人挑战赛--Crypto-WP-先知社区 | 21.6 KB | [📄](xianzhi/16103-PolarD&N--2024冬季个人挑战赛--Crypto-WP-先知社区.md) [🔗](https://xz.aliyun.com/news/16103  ) |
+| 16104 | Apache Common Jelly浅析-先知社区 | 26.6 KB | [📄](xianzhi/16104-Apache Common Jelly浅析-先知社区.md) [🔗](https://xz.aliyun.com/news/16104  ) |
+| 16105 | 基于armv7l架构的进程注入研究——使用ptrace注入shellcode-先知社区 | 28.0 KB | [📄](xianzhi/16105-基于armv7l架构的进程注入研究——使用ptrace注入shellcode-先知社区.md) [🔗](https://xz.aliyun.com/news/16105  ) |
+| 16107 | 总结在 CTF-PWN 中遇到的 shellcode 利用-先知社区 | 12.6 KB | [📄](xianzhi/16107-总结在 CTF-PWN 中遇到的 shellcode 利用-先知社区.md) [🔗](https://xz.aliyun.com/news/16107  ) |
+| 16109 | Ptmalloc2源代码分析（Glibc内存管理）-先知社区 | 60.9 KB | [📄](xianzhi/16109-Ptmalloc2源代码分析（Glibc内存管理）-先知社区.md) [🔗](https://xz.aliyun.com/news/16109  ) |
+| 16110 | 实战自动化加解密&加密场景下的暴力破解-先知社区 | 8.9 KB | [📄](xianzhi/16110-实战自动化加解密&加密场景下的暴力破解-先知社区.md) [🔗](https://xz.aliyun.com/news/16110  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (50 篇)
+## 🛡️ 奇安信攻防社区文章 (54 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -133,6 +141,10 @@
 | 2492 | 某次测试从前台登录页到渲染后台功能 | 5.6 KB | [📄](butian/2492-某次测试从前台登录页到渲染后台功能.md) [🔗](https://forum.butian.net/share/2492  ) |
 | 2498 | 记一次 DebugBlocker 程序的分析 | 15.5 KB | [📄](butian/2498-记一次 DebugBlocker 程序的分析.md) [🔗](https://forum.butian.net/share/2498  ) |
 | 2499 | 记一次过滤jsp的文件上传 | 6.7 KB | [📄](butian/2499-记一次过滤jsp的文件上传.md) [🔗](https://forum.butian.net/share/2499  ) |
+| 2501 | 【Web实战】记一次对某停车场系统的测试 | 8.9 KB | [📄](butian/2501-【Web实战】记一次对某停车场系统的测试.md) [🔗](https://forum.butian.net/share/2501  ) |
+| 2506 | 【Web实战】记一次前台getshell组合拳审计的完整过程 | 8.6 KB | [📄](butian/2506-【Web实战】记一次前台getshell组合拳审计的完整过程.md) [🔗](https://forum.butian.net/share/2506  ) |
+| 2509 | 【Web实战】记一次日志泄露到GetShell | 5.3 KB | [📄](butian/2509-【Web实战】记一次日志泄露到GetShell.md) [🔗](https://forum.butian.net/share/2509  ) |
+| 2510 | 【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞 | 3.7 KB | [📄](butian/2510-【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞.md) [🔗](https://forum.butian.net/share/2510  ) |
 
 ---
 
