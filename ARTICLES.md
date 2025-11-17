@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-11-16 01:23:30
+> 🤖 最后更新: 2025-11-17 01:13:16
 
 ## 📊 统计信息
 
-- **先知社区**: 111 篇文章
-- **奇安信攻防社区**: 74 篇文章
-- **总计**: 185 篇文章
+- **先知社区**: 116 篇文章
+- **奇安信攻防社区**: 77 篇文章
+- **总计**: 193 篇文章
 
 ---
 
-## 📖 先知社区文章 (111 篇)
+## 📖 先知社区文章 (116 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -126,10 +126,15 @@
 | 16158 | 达梦数据库DMSQL-SQL注入小记-先知社区 | 12.3 KB | [📄](xianzhi/16158-达梦数据库DMSQL-SQL注入小记-先知社区.md) [🔗](https://xz.aliyun.com/news/16158  ) |
 | 16159 | 基于house_of_botcake的绕过tcachebin保护的攻击-先知社区 | 12.2 KB | [📄](xianzhi/16159-基于house_of_botcake的绕过tcachebin保护的攻击-先知社区.md) [🔗](https://xz.aliyun.com/news/16159  ) |
 | 16160 | JAVA安全之RMI命令执行深度刨析-先知社区 | 64.7 KB | [📄](xianzhi/16160-JAVA安全之RMI命令执行深度刨析-先知社区.md) [🔗](https://xz.aliyun.com/news/16160  ) |
+| 16161 | JAVA安全之JDK8u141版本绕过研究-先知社区 | 19.9 KB | [📄](xianzhi/16161-JAVA安全之JDK8u141版本绕过研究-先知社区.md) [🔗](https://xz.aliyun.com/news/16161  ) |
+| 16164 | 第二届CN-fnstCTF  web题解-先知社区 | 4.3 KB | [📄](xianzhi/16164-第二届CN-fnstCTF  web题解-先知社区.md) [🔗](https://xz.aliyun.com/news/16164  ) |
+| 16167 | Host碰撞，从此成功隐藏资产挖掘机！！！-先知社区 | 7.2 KB | [📄](xianzhi/16167-Host碰撞，从此成功隐藏资产挖掘机！！！-先知社区.md) [🔗](https://xz.aliyun.com/news/16167  ) |
+| 16168 | Java Web内存马深入分析：从注入原理到检测查杀-先知社区 | 50.6 KB | [📄](xianzhi/16168-Java Web内存马深入分析：从注入原理到检测查杀-先知社区.md) [🔗](https://xz.aliyun.com/news/16168  ) |
+| 16169 | 国城杯Re方向题解-先知社区 | 39.2 KB | [📄](xianzhi/16169-国城杯Re方向题解-先知社区.md) [🔗](https://xz.aliyun.com/news/16169  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (74 篇)
+## 🛡️ 奇安信攻防社区文章 (77 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -207,6 +212,9 @@
 | 2557 | 【Web实战】浅谈reactor netty httpclient请求解析过程 | 9.6 KB | [📄](butian/2557-【Web实战】浅谈reactor netty httpclient请求解析过程.md) [🔗](https://forum.butian.net/share/2557  ) |
 | 2559 | 【Web实战】浅谈PlantUML回显SSRF漏洞（CVE-2023-3432） | 11.8 KB | [📄](butian/2559-【Web实战】浅谈PlantUML回显SSRF漏洞（CVE-2023-3432）.md) [🔗](https://forum.butian.net/share/2559  ) |
 | 2560 | 记一次绕过waf的文件上传 | 6.2 KB | [📄](butian/2560-记一次绕过waf的文件上传.md) [🔗](https://forum.butian.net/share/2560  ) |
+| 2566 | 【Web实战】ActiveMQ漏洞分析保姆教程（CVE-2023-46604） | 12.2 KB | [📄](butian/2566-【Web实战】ActiveMQ漏洞分析保姆教程（CVE-2023-46604）.md) [🔗](https://forum.butian.net/share/2566  ) |
+| 2569 | 【Web实战】浅谈Jersey中常见的鉴权措施 | 17.5 KB | [📄](butian/2569-【Web实战】浅谈Jersey中常见的鉴权措施.md) [🔗](https://forum.butian.net/share/2569  ) |
+| 2570 | 【Web实战】零基础微信小程序逆向 | 17.3 KB | [📄](butian/2570-【Web实战】零基础微信小程序逆向.md) [🔗](https://forum.butian.net/share/2570  ) |
 
 ---
 
