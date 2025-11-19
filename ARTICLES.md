@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-11-18 01:15:34
+> 🤖 最后更新: 2025-11-19 01:12:59
 
 ## 📊 统计信息
 
-- **先知社区**: 125 篇文章
-- **奇安信攻防社区**: 81 篇文章
-- **总计**: 206 篇文章
+- **先知社区**: 131 篇文章
+- **奇安信攻防社区**: 85 篇文章
+- **总计**: 216 篇文章
 
 ---
 
-## 📖 先知社区文章 (125 篇)
+## 📖 先知社区文章 (131 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -140,10 +140,16 @@
 | 16178 | Windows应急响应之命令行排查-先知社区 | 9.6 KB | [📄](xianzhi/16178-Windows应急响应之命令行排查-先知社区.md) [🔗](https://xz.aliyun.com/news/16178  ) |
 | 16179 | aliyun ctf chain17 回顾(超详细解读)-先知社区 | 20.3 KB | [📄](xianzhi/16179-aliyun ctf chain17 回顾(超详细解读)-先知社区.md) [🔗](https://xz.aliyun.com/news/16179  ) |
 | 16180 | fnstCTF 题解-先知社区 | 6.4 KB | [📄](xianzhi/16180-fnstCTF 题解-先知社区.md) [🔗](https://xz.aliyun.com/news/16180  ) |
+| 16182 | 某次大学的渗透测试经历-先知社区 | 5.5 KB | [📄](xianzhi/16182-某次大学的渗透测试经历-先知社区.md) [🔗](https://xz.aliyun.com/news/16182  ) |
+| 16183 | 记一次渗透到审计-先知社区 | 3.8 KB | [📄](xianzhi/16183-记一次渗透到审计-先知社区.md) [🔗](https://xz.aliyun.com/news/16183  ) |
+| 16184 | 记一次客户系统的测试--多种经典类型漏洞-先知社区 | 4.4 KB | [📄](xianzhi/16184-记一次客户系统的测试--多种经典类型漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/16184  ) |
+| 16185 | HITCTF pipe_snake详解-先知社区 | 7.6 KB | [📄](xianzhi/16185-HITCTF pipe_snake详解-先知社区.md) [🔗](https://xz.aliyun.com/news/16185  ) |
+| 16187 | 第十八届信息安全大赛 && 第二届长城杯 - WEB WP-先知社区 | 7.4 KB | [📄](xianzhi/16187-第十八届信息安全大赛 && 第二届长城杯 - WEB WP-先知社区.md) [🔗](https://xz.aliyun.com/news/16187  ) |
+| 16188 | 第十八届信息安全大赛 && 第二届长城杯 - pwn-先知社区 | 13.9 KB | [📄](xianzhi/16188-第十八届信息安全大赛 && 第二届长城杯 - pwn-先知社区.md) [🔗](https://xz.aliyun.com/news/16188  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (81 篇)
+## 🛡️ 奇安信攻防社区文章 (85 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -228,6 +234,10 @@
 | 2575 | 无痕制作钓鱼邮件 | 17.8 KB | [📄](butian/2575-无痕制作钓鱼邮件.md) [🔗](https://forum.butian.net/share/2575  ) |
 | 2577 | 【Web】SysAid On-Prem Software CVE-2023-47246 目录穿越RCE | 4.5 KB | [📄](butian/2577-【Web】SysAid On-Prem Software CVE-2023-47246 目录穿越RCE.md) [🔗](https://forum.butian.net/share/2577  ) |
 | 2580 | 【Web实战】浅谈Reactor Netty HTTP Server目录穿越漏洞（CVE-2023-34062） | 9.0 KB | [📄](butian/2580-【Web实战】浅谈Reactor Netty HTTP Server目录穿越漏洞（CVE-2023-34062）.md) [🔗](https://forum.butian.net/share/2580  ) |
+| 2583 | 【Web实战】记某次攻防演练之内网遨游 | 5.1 KB | [📄](butian/2583-【Web实战】记某次攻防演练之内网遨游.md) [🔗](https://forum.butian.net/share/2583  ) |
+| 2585 | 【Web实战】Oracle注入专题——注入注意点+排序注入绕过实战之踩坑篇 | 8.0 KB | [📄](butian/2585-【Web实战】Oracle注入专题——注入注意点+排序注入绕过实战之踩坑篇.md) [🔗](https://forum.butian.net/share/2585  ) |
+| 2586 | 【Web实战】浅谈Apache Shiro FORM URL Redirect漏洞(CVE-2023-46750) | 12.9 KB | [📄](butian/2586-【Web实战】浅谈Apache Shiro FORM URL Redirect漏洞(CVE-2023-46750).md) [🔗](https://forum.butian.net/share/2586  ) |
+| 2588 | 【Web实战】一次从子域名接管到RCE的渗透经历 | 26.2 KB | [📄](butian/2588-【Web实战】一次从子域名接管到RCE的渗透经历.md) [🔗](https://forum.butian.net/share/2588  ) |
 
 ---
 
