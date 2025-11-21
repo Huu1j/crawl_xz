@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-11-20 01:10:17
+> 🤖 最后更新: 2025-11-21 01:07:50
 
 ## 📊 统计信息
 
-- **先知社区**: 133 篇文章
-- **奇安信攻防社区**: 92 篇文章
-- **总计**: 225 篇文章
+- **先知社区**: 136 篇文章
+- **奇安信攻防社区**: 95 篇文章
+- **总计**: 231 篇文章
 
 ---
 
-## 📖 先知社区文章 (133 篇)
+## 📖 先知社区文章 (136 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -148,10 +148,13 @@
 | 16188 | 第十八届信息安全大赛 && 第二届长城杯 - pwn-先知社区 | 13.9 KB | [📄](xianzhi/16188-第十八届信息安全大赛 && 第二届长城杯 - pwn-先知社区.md) [🔗](https://xz.aliyun.com/news/16188  ) |
 | 16192 | 第十八届信息安全大赛 && 第二届长城杯  - web&re  wp-先知社区 | 12.1 KB | [📄](xianzhi/16192-第十八届信息安全大赛 && 第二届长城杯  - web&re  wp-先知社区.md) [🔗](https://xz.aliyun.com/news/16192  ) |
 | 16196 | 第十八届信息安全大赛 && 第二届长城杯 - zeroshell1~5，WinFT_1~2，sc05_1-先知社区 | 3.7 KB | [📄](xianzhi/16196-第十八届信息安全大赛 && 第二届长城杯 - zeroshell1~5，WinFT_1~2，sc05_1-先知社区.md) [🔗](https://xz.aliyun.com/news/16196  ) |
+| 16203 | 第十八届信息安全大赛 && 第二届长城杯 - re-先知社区 | 5.9 KB | [📄](xianzhi/16203-第十八届信息安全大赛 && 第二届长城杯 - re-先知社区.md) [🔗](https://xz.aliyun.com/news/16203  ) |
+| 16208 | Ucum-java XXE漏洞分析(CVE-2024-55887)-先知社区 | 2.9 KB | [📄](xianzhi/16208-Ucum-java XXE漏洞分析(CVE-2024-55887)-先知社区.md) [🔗](https://xz.aliyun.com/news/16208  ) |
+| 16209 | m0leCon Beginner CTF2024部分wp-先知社区 | 7.0 KB | [📄](xianzhi/16209-m0leCon Beginner CTF2024部分wp-先知社区.md) [🔗](https://xz.aliyun.com/news/16209  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (92 篇)
+## 🛡️ 奇安信攻防社区文章 (95 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -247,6 +250,9 @@
 | 2596 | 【Web实战】某头部直辖市攻防演练纪实-如何不用0day打下n个点 | 11.8 KB | [📄](butian/2596-【Web实战】某头部直辖市攻防演练纪实-如何不用0day打下n个点.md) [🔗](https://forum.butian.net/share/2596  ) |
 | 2598 | IDocView前台远程代码执行漏洞分析 | 6.7 KB | [📄](butian/2598-IDocView前台远程代码执行漏洞分析.md) [🔗](https://forum.butian.net/share/2598  ) |
 | 2600 | I DOC VIEW前台RCE分析 | 3.9 KB | [📄](butian/2600-I DOC VIEW前台RCE分析.md) [🔗](https://forum.butian.net/share/2600  ) |
+| 2601 | 一场跨越十年的超时空思维碰撞 | 11.3 KB | [📄](butian/2601-一场跨越十年的超时空思维碰撞.md) [🔗](https://forum.butian.net/share/2601  ) |
+| 2602 | 验证码渗透最全总结 | 8.4 KB | [📄](butian/2602-验证码渗透最全总结.md) [🔗](https://forum.butian.net/share/2602  ) |
+| 2606 | 浅谈SpringWeb中获取当前请求路径的方式 | 16.8 KB | [📄](butian/2606-浅谈SpringWeb中获取当前请求路径的方式.md) [🔗](https://forum.butian.net/share/2606  ) |
 
 ---
 
