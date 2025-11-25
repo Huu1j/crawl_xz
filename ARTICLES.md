@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-11-24 01:16:53
+> 🤖 最后更新: 2025-11-25 01:13:38
 
 ## 📊 统计信息
 
-- **先知社区**: 154 篇文章
-- **奇安信攻防社区**: 110 篇文章
-- **总计**: 264 篇文章
+- **先知社区**: 162 篇文章
+- **奇安信攻防社区**: 113 篇文章
+- **总计**: 275 篇文章
 
 ---
 
-## 📖 先知社区文章 (154 篇)
+## 📖 先知社区文章 (162 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -169,10 +169,18 @@
 | 16237 | 深入Pyd逆向-先知社区 | 19.7 KB | [📄](xianzhi/16237-深入Pyd逆向-先知社区.md) [🔗](https://xz.aliyun.com/news/16237  ) |
 | 16238 | 2024国城杯线上signal出题文档-先知社区 | 9.0 KB | [📄](xianzhi/16238-2024国城杯线上signal出题文档-先知社区.md) [🔗](https://xz.aliyun.com/news/16238  ) |
 | 16239 | 从hello-web入手反混淆和disable_function绕过-先知社区 | 11.1 KB | [📄](xianzhi/16239-从hello-web入手反混淆和disable_function绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/16239  ) |
+| 16241 | CTF一些有意思考点+例题详细分析系列-先知社区 | 22.4 KB | [📄](xianzhi/16241-CTF一些有意思考点+例题详细分析系列-先知社区.md) [🔗](https://xz.aliyun.com/news/16241  ) |
+| 16242 | 最近做的一些有意思的ctf赛题详细分析-先知社区 | 24.9 KB | [📄](xianzhi/16242-最近做的一些有意思的ctf赛题详细分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16242  ) |
+| 16243 | 红队权限维持策略——实用版（r3-r0）-先知社区 | 8.4 KB | [📄](xianzhi/16243-红队权限维持策略——实用版（r3-r0）-先知社区.md) [🔗](https://xz.aliyun.com/news/16243  ) |
+| 16245 | Guns后台任意文件上传漏洞分析-先知社区 | 4.1 KB | [📄](xianzhi/16245-Guns后台任意文件上传漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16245  ) |
+| 16246 | Sharp4RemoveLog：一款通过调用wevtutil进程实现痕迹清理的工具-先知社区 | 8.6 KB | [📄](xianzhi/16246-Sharp4RemoveLog：一款通过调用wevtutil进程实现痕迹清理的工具-先知社区.md) [🔗](https://xz.aliyun.com/news/16246  ) |
+| 16247 | 第四届伏魔挑战赛如约来袭，诚邀各路高手来战！-先知社区 | 0.3 KB | [📄](xianzhi/16247-第四届伏魔挑战赛如约来袭，诚邀各路高手来战！-先知社区.md) [🔗](https://xz.aliyun.com/news/16247  ) |
+| 16248 | 2025 ciscn novel1详细解析-先知社区 | 6.9 KB | [📄](xianzhi/16248-2025 ciscn novel1详细解析-先知社区.md) [🔗](https://xz.aliyun.com/news/16248  ) |
+| 16250 | 域渗透实战之HTB-Certified-先知社区 | 7.2 KB | [📄](xianzhi/16250-域渗透实战之HTB-Certified-先知社区.md) [🔗](https://xz.aliyun.com/news/16250  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (110 篇)
+## 🛡️ 奇安信攻防社区文章 (113 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -286,6 +294,9 @@
 | 2638 | Docker容器逃逸 | 23.5 KB | [📄](butian/2638-Docker容器逃逸.md) [🔗](https://forum.butian.net/share/2638  ) |
 | 2639 | 非常规环境下编辑器的一些Bypass思路 | 8.4 KB | [📄](butian/2639-非常规环境下编辑器的一些Bypass思路.md) [🔗](https://forum.butian.net/share/2639  ) |
 | 2640 | 基于被钓鱼主机的快速应急响应 | 5.6 KB | [📄](butian/2640-基于被钓鱼主机的快速应急响应.md) [🔗](https://forum.butian.net/share/2640  ) |
+| 2645 | 记一次SQL注入绕过宝塔+云waf | 5.8 KB | [📄](butian/2645-记一次SQL注入绕过宝塔+云waf.md) [🔗](https://forum.butian.net/share/2645  ) |
+| 2646 | 微软产品里的‘小惊喜’：两个有趣漏洞浅析 | 8.0 KB | [📄](butian/2646-微软产品里的‘小惊喜’：两个有趣漏洞浅析.md) [🔗](https://forum.butian.net/share/2646  ) |
+| 2648 | CRMEB开源版代码审计 | 36.3 KB | [📄](butian/2648-CRMEB开源版代码审计.md) [🔗](https://forum.butian.net/share/2648  ) |
 
 ---
 
