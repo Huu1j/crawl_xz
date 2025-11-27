@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-11-26 01:16:01
+> 🤖 最后更新: 2025-11-27 01:12:29
 
 ## 📊 统计信息
 
-- **先知社区**: 169 篇文章
-- **奇安信攻防社区**: 118 篇文章
-- **总计**: 287 篇文章
+- **先知社区**: 176 篇文章
+- **奇安信攻防社区**: 124 篇文章
+- **总计**: 300 篇文章
 
 ---
 
-## 📖 先知社区文章 (169 篇)
+## 📖 先知社区文章 (176 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -184,10 +184,17 @@
 | 16257 | 先知安全沙龙(上海站) - Linux沙箱技术(权限机制、资源隔离与安全防御)-先知社区 | 2.2 KB | [📄](xianzhi/16257-先知安全沙龙(上海站) - Linux沙箱技术(权限机制、资源隔离与安全防御)-先知社区.md) [🔗](https://xz.aliyun.com/news/16257  ) |
 | 16258 | 先知安全沙龙(上海站) - 红队武器开发之基于合法服务的隐蔽C2-先知社区 | 1.8 KB | [📄](xianzhi/16258-先知安全沙龙(上海站) - 红队武器开发之基于合法服务的隐蔽C2-先知社区.md) [🔗](https://xz.aliyun.com/news/16258  ) |
 | 16260 | 先知安全沙龙(上海站) - 后渗透阶段主机关键信息自动化狩猎的实现与应用-先知社区 | 3.4 KB | [📄](xianzhi/16260-先知安全沙龙(上海站) - 后渗透阶段主机关键信息自动化狩猎的实现与应用-先知社区.md) [🔗](https://xz.aliyun.com/news/16260  ) |
+| 16261 | 【CVE-2025-50379】利用cursor解读tomcat 条件竞争导致RCE漏洞-先知社区 | 15.6 KB | [📄](xianzhi/16261-【CVE-2025-50379】利用cursor解读tomcat 条件竞争导致RCE漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/16261  ) |
+| 16262 | 一次 house of force 练习：HTB pwn - Fancy names-先知社区 | 18.3 KB | [📄](xianzhi/16262-一次 house of force 练习：HTB pwn - Fancy names-先知社区.md) [🔗](https://xz.aliyun.com/news/16262  ) |
+| 16264 | 记一次5000万资产的渗透测试-先知社区 | 2.7 KB | [📄](xianzhi/16264-记一次5000万资产的渗透测试-先知社区.md) [🔗](https://xz.aliyun.com/news/16264  ) |
+| 16265 | 万字长文窥探信息收集真正的艺术-先知社区 | 48.4 KB | [📄](xianzhi/16265-万字长文窥探信息收集真正的艺术-先知社区.md) [🔗](https://xz.aliyun.com/news/16265  ) |
+| 16266 | 应急响应记录之水坑挂马事件分析与恢复-先知社区 | 435.3 KB | [📄](xianzhi/16266-应急响应记录之水坑挂马事件分析与恢复-先知社区.md) [🔗](https://xz.aliyun.com/news/16266  ) |
+| 16268 | Spring FatJar写文件到RCE分析-先知社区 | 24.4 KB | [📄](xianzhi/16268-Spring FatJar写文件到RCE分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16268  ) |
+| 16269 | 浅析实战攻防中的信息收集-先知社区 | 43.6 KB | [📄](xianzhi/16269-浅析实战攻防中的信息收集-先知社区.md) [🔗](https://xz.aliyun.com/news/16269  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (118 篇)
+## 🛡️ 奇安信攻防社区文章 (124 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -309,6 +316,12 @@
 | 2653 | 汽车CAN总线-03 测试方法演示 | 4.8 KB | [📄](butian/2653-汽车CAN总线-03 测试方法演示.md) [🔗](https://forum.butian.net/share/2653  ) |
 | 2658 | 某云的反序列漏洞及绕过思路分析 | 11.0 KB | [📄](butian/2658-某云的反序列漏洞及绕过思路分析.md) [🔗](https://forum.butian.net/share/2658  ) |
 | 2659 | 某OA漏洞复现分析 | 9.1 KB | [📄](butian/2659-某OA漏洞复现分析.md) [🔗](https://forum.butian.net/share/2659  ) |
+| 2661 | 【代码审计】某系统反序列化漏洞复现及分析 | 10.7 KB | [📄](butian/2661-【代码审计】某系统反序列化漏洞复现及分析.md) [🔗](https://forum.butian.net/share/2661  ) |
+| 2664 | 任意文件读取&下载漏洞的全面解析及利用 | 10.8 KB | [📄](butian/2664-任意文件读取&下载漏洞的全面解析及利用.md) [🔗](https://forum.butian.net/share/2664  ) |
+| 2667 | Damn Vulnerable DeFi Challenges | 18.3 KB | [📄](butian/2667-Damn Vulnerable DeFi Challenges.md) [🔗](https://forum.butian.net/share/2667  ) |
+| 2668 | Euler Finance闪电贷攻击分析复现 | 13.8 KB | [📄](butian/2668-Euler Finance闪电贷攻击分析复现.md) [🔗](https://forum.butian.net/share/2668  ) |
+| 2669 | 计算地址实现内存免杀 | 14.0 KB | [📄](butian/2669-计算地址实现内存免杀.md) [🔗](https://forum.butian.net/share/2669  ) |
+| 2670 | PHP无框架代码审计 | 11.2 KB | [📄](butian/2670-PHP无框架代码审计.md) [🔗](https://forum.butian.net/share/2670  ) |
 
 ---
 
