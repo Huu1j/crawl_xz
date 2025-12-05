@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-12-04 01:14:28
+> 🤖 最后更新: 2025-12-05 01:19:29
 
 ## 📊 统计信息
 
-- **先知社区**: 181 篇文章
-- **奇安信攻防社区**: 131 篇文章
-- **总计**: 312 篇文章
+- **先知社区**: 189 篇文章
+- **奇安信攻防社区**: 136 篇文章
+- **总计**: 325 篇文章
 
 ---
 
-## 📖 先知社区文章 (181 篇)
+## 📖 先知社区文章 (189 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -196,10 +196,18 @@
 | 16273 | 初识AFL：工具安装与基本用法-先知社区 | 17.7 KB | [📄](xianzhi/16273-初识AFL：工具安装与基本用法-先知社区.md) [🔗](https://xz.aliyun.com/news/16273  ) |
 | 16274 | 银狐黑产组织最新免杀样本详细分析-先知社区 | 5.0 KB | [📄](xianzhi/16274-银狐黑产组织最新免杀样本详细分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16274  ) |
 | 16278 | 某系统代码审计到getshell-先知社区 | 6.5 KB | [📄](xianzhi/16278-某系统代码审计到getshell-先知社区.md) [🔗](https://xz.aliyun.com/news/16278  ) |
+| 16282 | 某系统审计权限绕过-CVE-2024-9554-先知社区 | 1.8 KB | [📄](xianzhi/16282-某系统审计权限绕过-CVE-2024-9554-先知社区.md) [🔗](https://xz.aliyun.com/news/16282  ) |
+| 16283 | 2024年第九届“楚慧杯”湖北省网络与数据安全实践能力竞赛 web&pwn&Crypto-先知社区 | 13.8 KB | [📄](xianzhi/16283-2024年第九届“楚慧杯”湖北省网络与数据安全实践能力竞赛 web&pwn&Crypto-先知社区.md) [🔗](https://xz.aliyun.com/news/16283  ) |
+| 16284 | 2024年第九届“楚慧杯”湖北省网络与数据安全实践能力竞赛 WP-先知社区 | 18.5 KB | [📄](xianzhi/16284-2024年第九届“楚慧杯”湖北省网络与数据安全实践能力竞赛 WP-先知社区.md) [🔗](https://xz.aliyun.com/news/16284  ) |
+| 16285 | 代码审计-某物联网系统RCE-先知社区 | 3.6 KB | [📄](xianzhi/16285-代码审计-某物联网系统RCE-先知社区.md) [🔗](https://xz.aliyun.com/news/16285  ) |
+| 16286 | 2024年第九届“楚慧杯”湖北省网络与数据安全实践能力竞赛 pwn全解-先知社区 | 7.4 KB | [📄](xianzhi/16286-2024年第九届“楚慧杯”湖北省网络与数据安全实践能力竞赛 pwn全解-先知社区.md) [🔗](https://xz.aliyun.com/news/16286  ) |
+| 16287 | 2024年第九届“楚慧杯”湖北省网络与数据安全实践能力竞赛-RE-先知社区 | 7.1 KB | [📄](xianzhi/16287-2024年第九届“楚慧杯”湖北省网络与数据安全实践能力竞赛-RE-先知社区.md) [🔗](https://xz.aliyun.com/news/16287  ) |
+| 16289 | 基于优化的大模型越狱技术分析与实战-先知社区 | 34.4 KB | [📄](xianzhi/16289-基于优化的大模型越狱技术分析与实战-先知社区.md) [🔗](https://xz.aliyun.com/news/16289  ) |
+| 16290 | Linux渗透实战之不一样的XSS-先知社区 | 6.3 KB | [📄](xianzhi/16290-Linux渗透实战之不一样的XSS-先知社区.md) [🔗](https://xz.aliyun.com/news/16290  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (131 篇)
+## 🛡️ 奇安信攻防社区文章 (136 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -334,6 +342,11 @@
 | 2676 | ModStartCMS-7.2.0 代码审计 | 18.4 KB | [📄](butian/2676-ModStartCMS-7.2.0 代码审计.md) [🔗](https://forum.butian.net/share/2676  ) |
 | 2677 | 从某教学视频应用云平台入门.net审计 | 20.1 KB | [📄](butian/2677-从某教学视频应用云平台入门.net审计.md) [🔗](https://forum.butian.net/share/2677  ) |
 | 2678 | 【PHP代码审计】站点中的Phar反序列化漏洞 | 8.2 KB | [📄](butian/2678-【PHP代码审计】站点中的Phar反序列化漏洞.md) [🔗](https://forum.butian.net/share/2678  ) |
+| 2681 | 探究Wallet Drainers使用Create2 Bypass钱包安全告警 | 14.0 KB | [📄](butian/2681-探究Wallet Drainers使用Create2 Bypass钱包安全告警.md) [🔗](https://forum.butian.net/share/2681  ) |
+| 2682 | Apache OFBiz groovy 远程代码执行漏洞分析（CVE-2023-51467） | 8.5 KB | [📄](butian/2682-Apache OFBiz groovy 远程代码执行漏洞分析（CVE-2023-51467）.md) [🔗](https://forum.butian.net/share/2682  ) |
+| 2683 | Java代码审计初试 | 9.0 KB | [📄](butian/2683-Java代码审计初试.md) [🔗](https://forum.butian.net/share/2683  ) |
+| 2686 | Apache ActiveMQ jolokia 远程代码执行漏洞分析（CVE-2022-41678） | 10.1 KB | [📄](butian/2686-Apache ActiveMQ jolokia 远程代码执行漏洞分析（CVE-2022-41678）.md) [🔗](https://forum.butian.net/share/2686  ) |
+| 2687 | Apache Jackrabbit 反序列化漏洞分析（CVE-2023-37895） | 6.5 KB | [📄](butian/2687-Apache Jackrabbit 反序列化漏洞分析（CVE-2023-37895）.md) [🔗](https://forum.butian.net/share/2687  ) |
 
 ---
 
