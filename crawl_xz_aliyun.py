@@ -303,11 +303,11 @@ def crawl_article(driver, url, article_id, url_type="t", save_dir="./xianzhi", o
             decoded_html = decoded_html.replace('\\r', '\r')
             
             # 处理Unicode转义（如 \u90a6）
-            try:
-                import codecs
-                decoded_html = codecs.decode(decoded_html, 'unicode_escape')
-            except:
-                pass
+            def decode_match(match):
+                return chr(int(match.group(1), 16))
+            
+            # 正则匹配 \uXXXX 并转换，忽略其他非法转义符
+            decoded_html = re.sub(r'\\u([0-9a-fA-F]{4})', decode_match, decoded_html)
             
             article_html_from_js = decoded_html
             print(f"✓ 从makeView提取文章内容 ({len(decoded_html)} 字符)")
