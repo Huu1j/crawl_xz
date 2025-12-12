@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-12-11 01:16:49
+> 🤖 最后更新: 2025-12-12 01:15:34
 
 ## 📊 统计信息
 
-- **先知社区**: 230 篇文章
-- **奇安信攻防社区**: 155 篇文章
-- **总计**: 385 篇文章
+- **先知社区**: 236 篇文章
+- **奇安信攻防社区**: 157 篇文章
+- **总计**: 393 篇文章
 
 ---
 
-## 📖 先知社区文章 (230 篇)
+## 📖 先知社区文章 (236 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -245,10 +245,16 @@
 | 16348 | Linux渗透实战之Nullbyte靶场提权-先知社区 | 17.9 KB | [📄](xianzhi/16348-Linux渗透实战之Nullbyte靶场提权-先知社区.md) [🔗](https://xz.aliyun.com/news/16348  ) |
 | 16349 | Java安全-WebShell免杀的多种方式-先知社区 | 26.9 KB | [📄](xianzhi/16349-Java安全-WebShell免杀的多种方式-先知社区.md) [🔗](https://xz.aliyun.com/news/16349  ) |
 | 16350 | 记一次某红蓝演练经历-先知社区 | 9.0 KB | [📄](xianzhi/16350-记一次某红蓝演练经历-先知社区.md) [🔗](https://xz.aliyun.com/news/16350  ) |
+| 16351 | 应急响应系列靶场解析-先知社区 | 13.2 KB | [📄](xianzhi/16351-应急响应系列靶场解析-先知社区.md) [🔗](https://xz.aliyun.com/news/16351  ) |
+| 16353 | AFL工具使用实践：以libtiff为例的使用指南-先知社区 | 4.9 KB | [📄](xianzhi/16353-AFL工具使用实践：以libtiff为例的使用指南-先知社区.md) [🔗](https://xz.aliyun.com/news/16353  ) |
+| 16356 | 前端加解密对抗encrypt-labs-先知社区 | 14.6 KB | [📄](xianzhi/16356-前端加解密对抗encrypt-labs-先知社区.md) [🔗](https://xz.aliyun.com/news/16356  ) |
+| 16357 | ciscn2024 androidso_re分析-先知社区 | 9.6 KB | [📄](xianzhi/16357-ciscn2024 androidso_re分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16357  ) |
+| 16359 | 期待硬核议题！2025阿里白帽大会议题征集启动！-先知社区 | 0.8 KB | [📄](xianzhi/16359-期待硬核议题！2025阿里白帽大会议题征集启动！-先知社区.md) [🔗](https://xz.aliyun.com/news/16359  ) |
+| 16360 | Apache mina CVE-2024-52046漏洞分析复现-先知社区 | 4.3 KB | [📄](xianzhi/16360-Apache mina CVE-2024-52046漏洞分析复现-先知社区.md) [🔗](https://xz.aliyun.com/news/16360  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (155 篇)
+## 🛡️ 奇安信攻防社区文章 (157 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -407,6 +413,8 @@
 | 2745 | 记一次普元Primeton EOS Platform反序列化漏洞的利用链报错问题调整 | 5.5 KB | [📄](butian/2745-记一次普元Primeton EOS Platform反序列化漏洞的利用链报错问题调整.md) [🔗](https://forum.butian.net/share/2745  ) |
 | 2747 | 某web365-v8.*挖掘调试学习 | 21.0 KB | [📄](butian/2747-某web365-v8. 挖掘调试学习.md) [🔗](https://forum.butian.net/share/2747  ) |
 | 2750 | 手把手掌握-弱类型比较漏洞 | 18.5 KB | [📄](butian/2750-手把手掌握-弱类型比较漏洞.md) [🔗](https://forum.butian.net/share/2750  ) |
+| 2751 | 由浅继深的了解JNDI安全 | 25.6 KB | [📄](butian/2751-由浅继深的了解JNDI安全.md) [🔗](https://forum.butian.net/share/2751  ) |
+| 2752 | 通过补丁分析Jenkins任意文件读取漏洞（CVE-2024-23897） | 2.6 KB | [📄](butian/2752-通过补丁分析Jenkins任意文件读取漏洞（CVE-2024-23897）.md) [🔗](https://forum.butian.net/share/2752  ) |
 
 ---
 
