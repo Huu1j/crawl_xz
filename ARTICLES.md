@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-12-16 01:20:49
+> 🤖 最后更新: 2025-12-17 01:14:51
 
 ## 📊 统计信息
 
-- **先知社区**: 261 篇文章
-- **奇安信攻防社区**: 180 篇文章
-- **总计**: 441 篇文章
+- **先知社区**: 268 篇文章
+- **奇安信攻防社区**: 187 篇文章
+- **总计**: 455 篇文章
 
 ---
 
-## 📖 先知社区文章 (261 篇)
+## 📖 先知社区文章 (268 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -276,10 +276,17 @@
 | 16397 | 哥斯拉流量PHP3种加密方式讲解及PHP_XOR_BASE64爆破密钥思路-先知社区 | 7.3 KB | [📄](xianzhi/16397-哥斯拉流量PHP3种加密方式讲解及PHP_XOR_BASE64爆破密钥思路-先知社区.md) [🔗](https://xz.aliyun.com/news/16397  ) |
 | 16398 | 安卓逆向入门全面解析入口点定位,资源文件,四大组件,native,java层逆向(带实战例题)-先知社区 | 86.9 KB | [📄](xianzhi/16398-安卓逆向入门全面解析入口点定位,资源文件,四大组件,native,java层逆向(带实战例题)-先知社区.md) [🔗](https://xz.aliyun.com/news/16398  ) |
 | 16399 | JAVA安全之Java Agent打内存马-先知社区 | 37.4 KB | [📄](xianzhi/16399-JAVA安全之Java Agent打内存马-先知社区.md) [🔗](https://xz.aliyun.com/news/16399  ) |
+| 16402 | 【免杀技术】WinApi规避 - 字符串HASH与动态调用 （完美的IAT隐藏技术）-先知社区 | 8.0 KB | [📄](xianzhi/16402-【免杀技术】WinApi规避 - 字符串HASH与动态调用 （完美的IAT隐藏技术）-先知社区.md) [🔗](https://xz.aliyun.com/news/16402  ) |
+| 16403 | 浅谈密码相关原理及代码实现-先知社区 | 38.9 KB | [📄](xianzhi/16403-浅谈密码相关原理及代码实现-先知社区.md) [🔗](https://xz.aliyun.com/news/16403  ) |
+| 16404 | AWS云之EFS 挂载安全-先知社区 | 11.5 KB | [📄](xianzhi/16404-AWS云之EFS 挂载安全-先知社区.md) [🔗](https://xz.aliyun.com/news/16404  ) |
+| 16405 | 初探webshell免杀的艺术-先知社区 | 15.2 KB | [📄](xianzhi/16405-初探webshell免杀的艺术-先知社区.md) [🔗](https://xz.aliyun.com/news/16405  ) |
+| 16406 | JAVA代码审计-jfinal-先知社区 | 23.2 KB | [📄](xianzhi/16406-JAVA代码审计-jfinal-先知社区.md) [🔗](https://xz.aliyun.com/news/16406  ) |
+| 16408 | 【免杀技术】致盲组件 - AMSI内存修复 （修改一个字节就能绕过AMSI？）-先知社区 | 6.0 KB | [📄](xianzhi/16408-【免杀技术】致盲组件 - AMSI内存修复 （修改一个字节就能绕过AMSI？）-先知社区.md) [🔗](https://xz.aliyun.com/news/16408  ) |
+| 16409 | 记一次渗透测试实战之Sea-先知社区 | 3.4 KB | [📄](xianzhi/16409-记一次渗透测试实战之Sea-先知社区.md) [🔗](https://xz.aliyun.com/news/16409  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (180 篇)
+## 🛡️ 奇安信攻防社区文章 (187 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -463,6 +470,13 @@
 | 2792 | BashFuck学习 | 5.3 KB | [📄](butian/2792-BashFuck学习.md) [🔗](https://forum.butian.net/share/2792  ) |
 | 2796 | 若依最新版后台RCE | 11.3 KB | [📄](butian/2796-若依最新版后台RCE.md) [🔗](https://forum.butian.net/share/2796  ) |
 | 2800 | 代码审计&漏洞分析：74cmsSE 系列 | 11.3 KB | [📄](butian/2800-代码审计&漏洞分析：74cmsSE 系列.md) [🔗](https://forum.butian.net/share/2800  ) |
+| 2801 | CVE-2024-27198 JetBrains TeamCity身份验证绕过漏洞浅析 | 9.9 KB | [📄](butian/2801-CVE-2024-27198 JetBrains TeamCity身份验证绕过漏洞浅析.md) [🔗](https://forum.butian.net/share/2801  ) |
+| 2803 | 网络空间指纹：新型网络犯罪研判的关键路径 | 25.3 KB | [📄](butian/2803-网络空间指纹：新型网络犯罪研判的关键路径.md) [🔗](https://forum.butian.net/share/2803  ) |
+| 2806 | 帆软channel接口反序列化漏洞分析 | 30.0 KB | [📄](butian/2806-帆软channel接口反序列化漏洞分析.md) [🔗](https://forum.butian.net/share/2806  ) |
+| 2807 | AI安全：生成式AI原理与应用分析 | 11.9 KB | [📄](butian/2807-AI安全：生成式AI原理与应用分析.md) [🔗](https://forum.butian.net/share/2807  ) |
+| 2808 | Open_basedir绕过学习 | 12.8 KB | [📄](butian/2808-Open_basedir绕过学习.md) [🔗](https://forum.butian.net/share/2808  ) |
+| 2809 | 粉碎状态机:Web条件竞争的真正潜力 | 17.7 KB | [📄](butian/2809-粉碎状态机 Web条件竞争的真正潜力.md) [🔗](https://forum.butian.net/share/2809  ) |
+| 2810 | CVE-2024-22259(CVE-2024-22243绕过)浅析 | 12.7 KB | [📄](butian/2810-CVE-2024-22259(CVE-2024-22243绕过)浅析.md) [🔗](https://forum.butian.net/share/2810  ) |
 
 ---
 
