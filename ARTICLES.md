@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-12-19 01:18:05
+> 🤖 最后更新: 2025-12-20 01:14:13
 
 ## 📊 统计信息
 
-- **先知社区**: 282 篇文章
-- **奇安信攻防社区**: 194 篇文章
-- **总计**: 476 篇文章
+- **先知社区**: 287 篇文章
+- **奇安信攻防社区**: 199 篇文章
+- **总计**: 486 篇文章
 
 ---
 
-## 📖 先知社区文章 (282 篇)
+## 📖 先知社区文章 (287 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -297,10 +297,15 @@
 | 16428 | 春秋云镜—专业徽章—Initial-先知社区 | 10.5 KB | [📄](xianzhi/16428-春秋云镜—专业徽章—Initial-先知社区.md) [🔗](https://xz.aliyun.com/news/16428  ) |
 | 16429 | 蚁景网安实验室-双层内网渗透虚拟仿真实战-先知社区 | 12.7 KB | [📄](xianzhi/16429-蚁景网安实验室-双层内网渗透虚拟仿真实战-先知社区.md) [🔗](https://xz.aliyun.com/news/16429  ) |
 | 16430 | 传统Office结构下的后门和利用手段解析-先知社区 | 18.0 KB | [📄](xianzhi/16430-传统Office结构下的后门和利用手段解析-先知社区.md) [🔗](https://xz.aliyun.com/news/16430  ) |
+| 16431 | Sharp4UACPASS：一款通过调用CMSTP进程绕过UAC的工具-先知社区 | 7.2 KB | [📄](xianzhi/16431-Sharp4UACPASS：一款通过调用CMSTP进程绕过UAC的工具-先知社区.md) [🔗](https://xz.aliyun.com/news/16431  ) |
+| 16432 | Linux渗透实战之Hackademic: RTB1靶场提权-先知社区 | 12.8 KB | [📄](xianzhi/16432-Linux渗透实战之Hackademic  RTB1靶场提权-先知社区.md) [🔗](https://xz.aliyun.com/news/16432  ) |
+| 16435 | WP-0ops2024-pwn-<IP Management System>-先知社区 | 17.3 KB | [📄](xianzhi/16435-WP-0ops2024-pwn- IP Management System -先知社区.md) [🔗](https://xz.aliyun.com/news/16435  ) |
+| 16436 | cJSON库函数存在的堆溢出漏洞分析-先知社区 | 11.0 KB | [📄](xianzhi/16436-cJSON库函数存在的堆溢出漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16436  ) |
+| 16440 | Sekiro+Yakit 热加载无痛绕sign-先知社区 | 6.3 KB | [📄](xianzhi/16440-Sekiro+Yakit 热加载无痛绕sign-先知社区.md) [🔗](https://xz.aliyun.com/news/16440  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (194 篇)
+## 🛡️ 奇安信攻防社区文章 (199 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -498,6 +503,11 @@
 | 2825 | 某知名大型系统代码审计 | 18.5 KB | [📄](butian/2825-某知名大型系统代码审计.md) [🔗](https://forum.butian.net/share/2825  ) |
 | 2828 | 域渗透之Kerberos FAST突破 | 9.7 KB | [📄](butian/2828-域渗透之Kerberos FAST突破.md) [🔗](https://forum.butian.net/share/2828  ) |
 | 2829 | 一次有趣的锐捷前台无条件RCE漏洞分析 | 7.7 KB | [📄](butian/2829-一次有趣的锐捷前台无条件RCE漏洞分析.md) [🔗](https://forum.butian.net/share/2829  ) |
+| 2832 | BYOVD技术实战：利用内核驱动关闭杀软进程 | 13.5 KB | [📄](butian/2832-BYOVD技术实战：利用内核驱动关闭杀软进程.md) [🔗](https://forum.butian.net/share/2832  ) |
+| 2835 | 深入浅出-Hash长度拓展攻击 | 24.5 KB | [📄](butian/2835-深入浅出-Hash长度拓展攻击.md) [🔗](https://forum.butian.net/share/2835  ) |
+| 2836 | Jeecg-commonController文件上传漏洞分析 | 4.5 KB | [📄](butian/2836-Jeecg-commonController文件上传漏洞分析.md) [🔗](https://forum.butian.net/share/2836  ) |
+| 2839 | 内部网络安全纵深防御体系构建（方案设计与实施） | 38.9 KB | [📄](butian/2839-内部网络安全纵深防御体系构建（方案设计与实施）.md) [🔗](https://forum.butian.net/share/2839  ) |
+| 2840 | 万字总结护网知识(基础知识,top10漏洞,应急响应,设备知识,挖矿总结,内网知识) | 41.9 KB | [📄](butian/2840-万字总结护网知识(基础知识,top10漏洞,应急响应,设备知识,挖矿总结,内网知识).md) [🔗](https://forum.butian.net/share/2840  ) |
 
 ---
 
