@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2025-12-31 01:20:38
+> 🤖 最后更新: 2026-01-01 01:22:15
 
 ## 📊 统计信息
 
-- **先知社区**: 348 篇文章
-- **奇安信攻防社区**: 256 篇文章
-- **总计**: 604 篇文章
+- **先知社区**: 350 篇文章
+- **奇安信攻防社区**: 258 篇文章
+- **总计**: 608 篇文章
 
 ---
 
-## 📖 先知社区文章 (348 篇)
+## 📖 先知社区文章 (350 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -363,10 +363,12 @@
 | 16545 | Mysql8新特性:table注入分析总结-先知社区 | 13.3 KB | [📄](xianzhi/16545-Mysql8新特性 table注入分析总结-先知社区.md) [🔗](https://xz.aliyun.com/news/16545  ) |
 | 16546 | 通过模糊测试实现提示注入攻击-先知社区 | 32.1 KB | [📄](xianzhi/16546-通过模糊测试实现提示注入攻击-先知社区.md) [🔗](https://xz.aliyun.com/news/16546  ) |
 | 16548 | python shellcode免杀的常用手法-先知社区 | 29.5 KB | [📄](xianzhi/16548-python shellcode免杀的常用手法-先知社区.md) [🔗](https://xz.aliyun.com/news/16548  ) |
+| 16552 | CakePHP 反序列化漏洞分析-先知社区 | 4.9 KB | [📄](xianzhi/16552-CakePHP 反序列化漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16552  ) |
+| 16553 | 先知社区系统升级以及迁移公告-先知社区 | 0.4 KB | [📄](xianzhi/16553-先知社区系统升级以及迁移公告-先知社区.md) [🔗](https://xz.aliyun.com/news/16553  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (256 篇)
+## 🛡️ 奇安信攻防社区文章 (258 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -626,6 +628,8 @@
 | 2948 | Jayway JsonPath参数走私导致的权限绕过 | 11.7 KB | [📄](butian/2948-Jayway JsonPath参数走私导致的权限绕过.md) [🔗](https://forum.butian.net/share/2948  ) |
 | 2949 | 某积分商城任意金额支付漏洞分析利用及思考 | 5.1 KB | [📄](butian/2949-某积分商城任意金额支付漏洞分析利用及思考.md) [🔗](https://forum.butian.net/share/2949  ) |
 | 2950 | 记第一次AWD与ISW之旅 | 16.0 KB | [📄](butian/2950-记第一次AWD与ISW之旅.md) [🔗](https://forum.butian.net/share/2950  ) |
+| 2958 | 记一次pearcmd文件包含+session序列化 | 29.5 KB | [📄](butian/2958-记一次pearcmd文件包含+session序列化.md) [🔗](https://forum.butian.net/share/2958  ) |
+| 2960 | JNDI高版本JDK绕过--C3P0/HikariCP | 9.7 KB | [📄](butian/2960-JNDI高版本JDK绕过--C3P0 HikariCP.md) [🔗](https://forum.butian.net/share/2960  ) |
 
 ---
 
