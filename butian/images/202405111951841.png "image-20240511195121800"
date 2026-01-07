@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>695DB4E04F5FBB3936BC44BD</RequestId>
+  <HostId>mc-imgup.oss-cn-beijing.aliyuncs.com</HostId>
+  <Key>202405111951841.png "image-20240511195121800"</Key>
+  <EC>0026-00000001</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0026-00000001</RecommendDoc>
+</Error>
