@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-01-08 01:16:47
+> 🤖 最后更新: 2026-01-09 01:16:13
 
 ## 📊 统计信息
 
-- **先知社区**: 368 篇文章
-- **奇安信攻防社区**: 285 篇文章
-- **总计**: 653 篇文章
+- **先知社区**: 373 篇文章
+- **奇安信攻防社区**: 291 篇文章
+- **总计**: 664 篇文章
 
 ---
 
-## 📖 先知社区文章 (368 篇)
+## 📖 先知社区文章 (373 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -383,10 +383,15 @@
 | 16617 | 记一次渗透测试实战之Usage-先知社区 | 4.8 KB | [📄](xianzhi/16617-记一次渗透测试实战之Usage-先知社区.md) [🔗](https://xz.aliyun.com/news/16617  ) |
 | 16626 | XLCTF-湘岚杯-WEB题解-先知社区 | 9.1 KB | [📄](xianzhi/16626-XLCTF-湘岚杯-WEB题解-先知社区.md) [🔗](https://xz.aliyun.com/news/16626  ) |
 | 16629 | 2024西湖论剑初赛部分wp-先知社区 | 7.1 KB | [📄](xianzhi/16629-2024西湖论剑初赛部分wp-先知社区.md) [🔗](https://xz.aliyun.com/news/16629  ) |
+| 16635 | 劫持杂谈—被动逃逸-先知社区 | 33.3 KB | [📄](xianzhi/16635-劫持杂谈—被动逃逸-先知社区.md) [🔗](https://xz.aliyun.com/news/16635  ) |
+| 16636 | 深入了解固件写马(UEFI.BIOS)-先知社区 | 46.8 KB | [📄](xianzhi/16636-深入了解固件写马(UEFI.BIOS)-先知社区.md) [🔗](https://xz.aliyun.com/news/16636  ) |
+| 16637 | 另辟蹊径的bypass—罗技-先知社区 | 25.6 KB | [📄](xianzhi/16637-另辟蹊径的bypass—罗技-先知社区.md) [🔗](https://xz.aliyun.com/news/16637  ) |
+| 16638 | 万字谈近源-先知社区 | 83.6 KB | [📄](xianzhi/16638-万字谈近源-先知社区.md) [🔗](https://xz.aliyun.com/news/16638  ) |
+| 16639 | CakePHP 5.1.14最新版本 挖掘两条gadget链子-先知社区 | 9.8 KB | [📄](xianzhi/16639-CakePHP 5.1.14最新版本 挖掘两条gadget链子-先知社区.md) [🔗](https://xz.aliyun.com/news/16639  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (285 篇)
+## 🛡️ 奇安信攻防社区文章 (291 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -675,6 +680,12 @@
 | 3026 | 深入探索软件注册机制：从硬编码到软编码 | 10.8 KB | [📄](butian/3026-深入探索软件注册机制：从硬编码到软编码.md) [🔗](https://forum.butian.net/share/3026  ) |
 | 3027 | Apache InLong < 1.12.0 JDBC反序列化漏洞（CVE-2024-26579）浅析 | 11.2 KB | [📄](butian/3027-Apache InLong   1.12.0 JDBC反序列化漏洞（CVE-2024-26579）浅析.md) [🔗](https://forum.butian.net/share/3027  ) |
 | 3030 | 越狱大语言模型-通过自动化生成隐蔽提示 | 29.5 KB | [📄](butian/3030-越狱大语言模型-通过自动化生成隐蔽提示.md) [🔗](https://forum.butian.net/share/3030  ) |
+| 3033 | windows符号链接利用技术详解 | 33.6 KB | [📄](butian/3033-windows符号链接利用技术详解.md) [🔗](https://forum.butian.net/share/3033  ) |
+| 3034 | CVE-2024-21111 Oracle VirtualBox 本地权限提升漏洞分析 | 27.6 KB | [📄](butian/3034-CVE-2024-21111 Oracle VirtualBox 本地权限提升漏洞分析.md) [🔗](https://forum.butian.net/share/3034  ) |
+| 3037 | CVE-2024-27460 HP Plantronics Hub 本地提权及任意文件读取漏洞分析 | 16.8 KB | [📄](butian/3037-CVE-2024-27460 HP Plantronics Hub 本地提权及任意文件读取漏洞分析.md) [🔗](https://forum.butian.net/share/3037  ) |
+| 3038 | 记一次执行顺序问题导致的SQL注入绕过 | 13.3 KB | [📄](butian/3038-记一次执行顺序问题导致的SQL注入绕过.md) [🔗](https://forum.butian.net/share/3038  ) |
+| 3039 | CVE-2018-5701 System Mechanic 内核提权漏洞分析 | 32.5 KB | [📄](butian/3039-CVE-2018-5701 System Mechanic 内核提权漏洞分析.md) [🔗](https://forum.butian.net/share/3039  ) |
+| 3040 | CVE-2024-32002 Git 远程代码执行漏洞分析 | 11.7 KB | [📄](butian/3040-CVE-2024-32002 Git 远程代码执行漏洞分析.md) [🔗](https://forum.butian.net/share/3040  ) |
 
 ---
 
