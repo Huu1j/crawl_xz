@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-01-12 01:17:37
+> 🤖 最后更新: 2026-01-13 01:37:45
 
 ## 📊 统计信息
 
-- **先知社区**: 385 篇文章
+- **先知社区**: 391 篇文章
 - **奇安信攻防社区**: 304 篇文章
-- **总计**: 689 篇文章
+- **总计**: 695 篇文章
 
 ---
 
-## 📖 先知社区文章 (385 篇)
+## 📖 先知社区文章 (391 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -400,6 +400,12 @@
 | 16662 | volatility3 安装、性能优化和符号表制作排坑指南-先知社区 | 30.6 KB | [📄](xianzhi/16662-volatility3 安装、性能优化和符号表制作排坑指南-先知社区.md) [🔗](https://xz.aliyun.com/news/16662  ) |
 | 16664 | PHP反序列化总结（POP链）-先知社区 | 18.8 KB | [📄](xianzhi/16664-PHP反序列化总结（POP链）-先知社区.md) [🔗](https://xz.aliyun.com/news/16664  ) |
 | 16666 | 2025春秋杯冬季赛pwn方向题解-先知社区 | 11.4 KB | [📄](xianzhi/16666-2025春秋杯冬季赛pwn方向题解-先知社区.md) [🔗](https://xz.aliyun.com/news/16666  ) |
+| 16671 | 记一次无附件单靶机逆向题目求解-Bitdance-先知社区 | 8.8 KB | [📄](xianzhi/16671-记一次无附件单靶机逆向题目求解-Bitdance-先知社区.md) [🔗](https://xz.aliyun.com/news/16671  ) |
+| 16672 | HTB赛季靶场引发对Havoc SSRF+RCE组合漏洞的思考和研究-先知社区 | 22.6 KB | [📄](xianzhi/16672-HTB赛季靶场引发对Havoc SSRF+RCE组合漏洞的思考和研究-先知社区.md) [🔗](https://xz.aliyun.com/news/16672  ) |
+| 16673 | 初探鸿蒙应用逆向分析(奇妙的Math逻辑运算)-先知社区 | 5.2 KB | [📄](xianzhi/16673-初探鸿蒙应用逆向分析(奇妙的Math逻辑运算)-先知社区.md) [🔗](https://xz.aliyun.com/news/16673  ) |
+| 16674 | JAVA代码审计之某cms-先知社区 | 6.6 KB | [📄](xianzhi/16674-JAVA代码审计之某cms-先知社区.md) [🔗](https://xz.aliyun.com/news/16674  ) |
+| 16677 | Java代码审计-泰山CMS(tarzancms)审计-先知社区 | 10.3 KB | [📄](xianzhi/16677-Java代码审计-泰山CMS(tarzancms)审计-先知社区.md) [🔗](https://xz.aliyun.com/news/16677  ) |
+| 16680 | wangmarket代码审计-先知社区 | 6.6 KB | [📄](xianzhi/16680-wangmarket代码审计-先知社区.md) [🔗](https://xz.aliyun.com/news/16680  ) |
 
 ---
 
