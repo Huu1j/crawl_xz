@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-01-14 01:23:33
+> 🤖 最后更新: 2026-01-15 01:18:41
 
 ## 📊 统计信息
 
-- **先知社区**: 398 篇文章
-- **奇安信攻防社区**: 312 篇文章
-- **总计**: 710 篇文章
+- **先知社区**: 399 篇文章
+- **奇安信攻防社区**: 317 篇文章
+- **总计**: 716 篇文章
 
 ---
 
-## 📖 先知社区文章 (398 篇)
+## 📖 先知社区文章 (399 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -413,10 +413,11 @@
 | 16688 | GestioIP 3.5.7 文件上传漏洞分析(CVE-2024-48760)-先知社区 | 1.8 KB | [📄](xianzhi/16688-GestioIP 3.5.7 文件上传漏洞分析(CVE-2024-48760)-先知社区.md) [🔗](https://xz.aliyun.com/news/16688  ) |
 | 16689 | ThemeGlow JobBoard Job文件上传漏洞分析(CVE-2024-43243)-先知社区 | 6.8 KB | [📄](xianzhi/16689-ThemeGlow JobBoard Job文件上传漏洞分析(CVE-2024-43243)-先知社区.md) [🔗](https://xz.aliyun.com/news/16689  ) |
 | 16690 | seacms 前台 sql 注入详细分析-先知社区 | 5.9 KB | [📄](xianzhi/16690-seacms 前台 sql 注入详细分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16690  ) |
+| 16692 | 第一届“启航杯”网络安全挑战赛WP-先知社区 | 7.3 KB | [📄](xianzhi/16692-第一届“启航杯”网络安全挑战赛WP-先知社区.md) [🔗](https://xz.aliyun.com/news/16692  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (312 篇)
+## 🛡️ 奇安信攻防社区文章 (317 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -732,6 +733,11 @@
 | 3087 | 利用few-shot方法越狱大模型 | 28.8 KB | [📄](butian/3087-利用few-shot方法越狱大模型.md) [🔗](https://forum.butian.net/share/3087  ) |
 | 3088 | 基于安全解码防御越狱攻击 | 20.8 KB | [📄](butian/3088-基于安全解码防御越狱攻击.md) [🔗](https://forum.butian.net/share/3088  ) |
 | 3090 | Apache OFBiz 最新Grovvy代码执行分析（CVE-2024-36104） | 9.3 KB | [📄](butian/3090-Apache OFBiz 最新Grovvy代码执行分析（CVE-2024-36104）.md) [🔗](https://forum.butian.net/share/3090  ) |
+| 3091 | 排版图像越狱多模态大模型 | 15.8 KB | [📄](butian/3091-排版图像越狱多模态大模型.md) [🔗](https://forum.butian.net/share/3091  ) |
+| 3096 | 【两万字原创长文】零基础入门Fastjson系列漏洞（提高篇1） | 60.3 KB | [📄](butian/3096-【两万字原创长文】零基础入门Fastjson系列漏洞（提高篇1）.md) [🔗](https://forum.butian.net/share/3096  ) |
+| 3097 | 硬件断点实现的HOOK与UNHOOK技术 | 32.3 KB | [📄](butian/3097-硬件断点实现的HOOK与UNHOOK技术.md) [🔗](https://forum.butian.net/share/3097  ) |
+| 3099 | 记一次代码审计rce测试学习过程 | 9.9 KB | [📄](butian/3099-记一次代码审计rce测试学习过程.md) [🔗](https://forum.butian.net/share/3099  ) |
+| 3100 | 漏洞挖掘之再探某园区系统 | 9.6 KB | [📄](butian/3100-漏洞挖掘之再探某园区系统.md) [🔗](https://forum.butian.net/share/3100  ) |
 
 ---
 
