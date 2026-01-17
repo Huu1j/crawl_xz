@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-01-16 01:17:10
+> 🤖 最后更新: 2026-01-17 01:19:08
 
 ## 📊 统计信息
 
-- **先知社区**: 401 篇文章
-- **奇安信攻防社区**: 321 篇文章
-- **总计**: 722 篇文章
+- **先知社区**: 407 篇文章
+- **奇安信攻防社区**: 326 篇文章
+- **总计**: 733 篇文章
 
 ---
 
-## 📖 先知社区文章 (401 篇)
+## 📖 先知社区文章 (407 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -416,10 +416,16 @@
 | 16692 | 第一届“启航杯”网络安全挑战赛WP-先知社区 | 7.3 KB | [📄](xianzhi/16692-第一届“启航杯”网络安全挑战赛WP-先知社区.md) [🔗](https://xz.aliyun.com/news/16692  ) |
 | 16702 | 2024楚慧杯决赛pwn方向题解-先知社区 | 13.3 KB | [📄](xianzhi/16702-2024楚慧杯决赛pwn方向题解-先知社区.md) [🔗](https://xz.aliyun.com/news/16702  ) |
 | 16708 | 【深度解析】从docker底层原因到CVE-2020-15257-先知社区 | 16.9 KB | [📄](xianzhi/16708-【深度解析】从docker底层原因到CVE-2020-15257-先知社区.md) [🔗](https://xz.aliyun.com/news/16708  ) |
+| 16711 | [IoT]D-LINK DIR-830L路由器漏洞挖掘汇总-先知社区 | 14.2 KB | [📄](xianzhi/16711-[IoT]D-LINK DIR-830L路由器漏洞挖掘汇总-先知社区.md) [🔗](https://xz.aliyun.com/news/16711  ) |
+| 16712 | 一次研究如何获得wifi密码的过程-先知社区 | 24.7 KB | [📄](xianzhi/16712-一次研究如何获得wifi密码的过程-先知社区.md) [🔗](https://xz.aliyun.com/news/16712  ) |
+| 16713 | 三层渗透测试-DMZ区域 & 二三层设备区域-先知社区 | 22.6 KB | [📄](xianzhi/16713-三层渗透测试-DMZ区域 & 二三层设备区域-先知社区.md) [🔗](https://xz.aliyun.com/news/16713  ) |
+| 16714 | 某luo数据包加密逆向分析-先知社区 | 5.6 KB | [📄](xianzhi/16714-某luo数据包加密逆向分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16714  ) |
+| 16715 | 记一次渗透测试实战之Sightless-先知社区 | 5.3 KB | [📄](xianzhi/16715-记一次渗透测试实战之Sightless-先知社区.md) [🔗](https://xz.aliyun.com/news/16715  ) |
+| 16719 | frp 源码学习-先知社区 | 103.0 KB | [📄](xianzhi/16719-frp 源码学习-先知社区.md) [🔗](https://xz.aliyun.com/news/16719  ) |
 
 ---
 
-## 🛡️ 奇安信攻防社区文章 (321 篇)
+## 🛡️ 奇安信攻防社区文章 (326 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -744,6 +750,11 @@
 | 3103 | 记一次某src挖掘 | 7.4 KB | [📄](butian/3103-记一次某src挖掘.md) [🔗](https://forum.butian.net/share/3103  ) |
 | 3108 | AI风控之生成图像鉴伪实战 | 19.5 KB | [📄](butian/3108-AI风控之生成图像鉴伪实战.md) [🔗](https://forum.butian.net/share/3108  ) |
 | 3109 | 某人力系统的代码审计 | 11.4 KB | [📄](butian/3109-某人力系统的代码审计.md) [🔗](https://forum.butian.net/share/3109  ) |
+| 3112 | SCRIPTBLOCK Smuggling：伪装 PowerShell 安全日志并绕过 AMSI 防护，无需使用REFLECTION和PATCHING | 9.1 KB | [📄](butian/3112-SCRIPTBLOCK Smuggling：伪装 PowerShell 安全日志并绕过 AMSI 防护，无需使用REFLECTION和PATCHING.md) [🔗](https://forum.butian.net/share/3112  ) |
+| 3113 | 新的 Diamorphine rootkit 变体在野外被发现 | 8.9 KB | [📄](butian/3113-新的 Diamorphine rootkit 变体在野外被发现.md) [🔗](https://forum.butian.net/share/3113  ) |
+| 3117 | CVE-2024-25065 分析：Apache OFBiz 身份验证绕过 | 14.8 KB | [📄](butian/3117-CVE-2024-25065 分析：Apache OFBiz 身份验证绕过.md) [🔗](https://forum.butian.net/share/3117  ) |
+| 3118 | UI for Apache Kafka 两个远程代码执行漏洞分析 | 10.7 KB | [📄](butian/3118-UI for Apache Kafka 两个远程代码执行漏洞分析.md) [🔗](https://forum.butian.net/share/3118  ) |
+| 3120 | 大模型安全：平滑方法防御越狱攻击 | 17.2 KB | [📄](butian/3120-大模型安全：平滑方法防御越狱攻击.md) [🔗](https://forum.butian.net/share/3120  ) |
 
 ---
 
