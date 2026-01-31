@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-01-30 01:28:18
+> 🤖 最后更新: 2026-01-31 01:22:44
 
 ## 📊 统计信息
 
-- **先知社区**: 452 篇文章
+- **先知社区**: 457 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 785 篇文章
+- **总计**: 790 篇文章
 
 ---
 
-## 📖 先知社区文章 (452 篇)
+## 📖 先知社区文章 (457 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -467,6 +467,11 @@
 | 16841 | Lumma Stealer最新攻击链样本详细分析-先知社区 | 6.5 KB | [📄](xianzhi/16841-Lumma Stealer最新攻击链样本详细分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16841  ) |
 | 16842 | GuLoader恶意软件最新攻击链样本详细分析-先知社区 | 4.6 KB | [📄](xianzhi/16842-GuLoader恶意软件最新攻击链样本详细分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16842  ) |
 | 16843 | Patchwork APT最新攻击样本与威胁情报分析-先知社区 | 3.4 KB | [📄](xianzhi/16843-Patchwork APT最新攻击样本与威胁情报分析-先知社区.md) [🔗](https://xz.aliyun.com/news/16843  ) |
+| 16853 | JNDI 高版本MemoryUserDatabaseFactory 利用-先知社区 | 16.8 KB | [📄](xianzhi/16853-JNDI 高版本MemoryUserDatabaseFactory 利用-先知社区.md) [🔗](https://xz.aliyun.com/news/16853  ) |
+| 16854 | fastjson 原生配合 jdk 原生的利用总结-先知社区 | 19.9 KB | [📄](xianzhi/16854-fastjson 原生配合 jdk 原生的利用总结-先知社区.md) [🔗](https://xz.aliyun.com/news/16854  ) |
+| 16857 | 应用通信安全防护方案-先知社区 | 7.3 KB | [📄](xianzhi/16857-应用通信安全防护方案-先知社区.md) [🔗](https://xz.aliyun.com/news/16857  ) |
+| 16858 | java 静态方法 load+写文件组合拳利用-先知社区 | 6.2 KB | [📄](xianzhi/16858-java 静态方法 load+写文件组合拳利用-先知社区.md) [🔗](https://xz.aliyun.com/news/16858  ) |
+| 16859 | 0~1深入解析PE文件结构+做实验-先知社区 | 27.5 KB | [📄](xianzhi/16859-0~1深入解析PE文件结构+做实验-先知社区.md) [🔗](https://xz.aliyun.com/news/16859  ) |
 
 ---
 
