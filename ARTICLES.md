@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-02-05 01:26:59
+> 🤖 最后更新: 2026-02-06 01:27:17
 
 ## 📊 统计信息
 
-- **先知社区**: 481 篇文章
+- **先知社区**: 485 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 814 篇文章
+- **总计**: 818 篇文章
 
 ---
 
-## 📖 先知社区文章 (481 篇)
+## 📖 先知社区文章 (485 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -496,6 +496,10 @@
 | 16906 | 尝试CodeQL自动化分析2025 SUCTF SU_Solon-先知社区 | 19.8 KB | [📄](xianzhi/16906-尝试CodeQL自动化分析2025 SUCTF SU_Solon-先知社区.md) [🔗](https://xz.aliyun.com/news/16906  ) |
 | 16908 | 某游戏管家 signature逆向-先知社区 | 2.9 KB | [📄](xianzhi/16908-某游戏管家 signature逆向-先知社区.md) [🔗](https://xz.aliyun.com/news/16908  ) |
 | 16910 | 某某新闻 app sign逆向-先知社区 | 6.0 KB | [📄](xianzhi/16910-某某新闻 app sign逆向-先知社区.md) [🔗](https://xz.aliyun.com/news/16910  ) |
+| 16916 | 高版本JDK下Derby配合Druid转换JNDI注入为Jdbc攻击绕过-先知社区 | 12.5 KB | [📄](xianzhi/16916-高版本JDK下Derby配合Druid转换JNDI注入为Jdbc攻击绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/16916  ) |
+| 16917 | 软件攻防赛JDBCParty赛后解-先知社区 | 11.1 KB | [📄](xianzhi/16917-软件攻防赛JDBCParty赛后解-先知社区.md) [🔗](https://xz.aliyun.com/news/16917  ) |
+| 16918 | Codeql全新版本从0到1-先知社区 | 7.3 KB | [📄](xianzhi/16918-Codeql全新版本从0到1-先知社区.md) [🔗](https://xz.aliyun.com/news/16918  ) |
+| 16920 | CakePHP反序列化链：从原理到实战挖掘-先知社区 | 13.0 KB | [📄](xianzhi/16920-CakePHP反序列化链：从原理到实战挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/16920  ) |
 
 ---
 
