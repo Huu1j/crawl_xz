@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-02-17 01:32:32
+> 🤖 最后更新: 2026-02-18 01:33:00
 
 ## 📊 统计信息
 
-- **先知社区**: 550 篇文章
+- **先知社区**: 556 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 883 篇文章
+- **总计**: 889 篇文章
 
 ---
 
-## 📖 先知社区文章 (550 篇)
+## 📖 先知社区文章 (556 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -565,6 +565,12 @@
 | 17028 | 从CVE-2025-1548 学习图像上传功能挖掘之SSRF-先知社区 | 15.7 KB | [📄](xianzhi/17028-从CVE-2025-1548 学习图像上传功能挖掘之SSRF-先知社区.md) [🔗](https://xz.aliyun.com/news/17028  ) |
 | 17029 | 第三届阿里云CTF官方Writeup-先知社区 | 187.0 KB | [📄](xianzhi/17029-第三届阿里云CTF官方Writeup-先知社区.md) [🔗](https://xz.aliyun.com/news/17029  ) |
 | 17030 | 免杀基础-dll侧加载-先知社区 | 11.0 KB | [📄](xianzhi/17030-免杀基础-dll侧加载-先知社区.md) [🔗](https://xz.aliyun.com/news/17030  ) |
+| 17031 | 某读 数据包加密分析-先知社区 | 5.7 KB | [📄](xianzhi/17031-某读 数据包加密分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17031  ) |
+| 17032 | 由 zip 压缩绕过目录穿越限制导致的 getshell 分析-先知社区 | 11.1 KB | [📄](xianzhi/17032-由 zip 压缩绕过目录穿越限制导致的 getshell 分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17032  ) |
+| 17034 | pwnpasi CTF PWN一键栈溢出利用工具-先知社区 | 1.8 KB | [📄](xianzhi/17034-pwnpasi CTF PWN一键栈溢出利用工具-先知社区.md) [🔗](https://xz.aliyun.com/news/17034  ) |
+| 17036 | HTB Auth-or-not：一个自实现堆管理的pwn练习-先知社区 | 13.4 KB | [📄](xianzhi/17036-HTB Auth-or-not：一个自实现堆管理的pwn练习-先知社区.md) [🔗](https://xz.aliyun.com/news/17036  ) |
+| 17038 | tabby在vaadin反序列化链寻找的应用-先知社区 | 13.6 KB | [📄](xianzhi/17038-tabby在vaadin反序列化链寻找的应用-先知社区.md) [🔗](https://xz.aliyun.com/news/17038  ) |
+| 17040 | 一键过滤burpsuite杂包，实现精准抓包-先知社区 | 3.1 KB | [📄](xianzhi/17040-一键过滤burpsuite杂包，实现精准抓包-先知社区.md) [🔗](https://xz.aliyun.com/news/17040  ) |
 
 ---
 
