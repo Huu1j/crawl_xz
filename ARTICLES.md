@@ -1,22 +1,22 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-02-19 01:33:01
+> 🤖 最后更新: 2026-02-20 01:30:12
 
 ## 📊 统计信息
 
-- **先知社区**: 562 篇文章
+- **先知社区**: 570 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 895 篇文章
+- **总计**: 903 篇文章
 
 ---
 
-## 📖 先知社区文章 (562 篇)
+## 📖 先知社区文章 (570 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
-|  | 未知标题 | 0.0 KB | [📄](xianzhi/16984-从本地代码审计到拿下项目作者服务器？-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/16939-io_uring源码分析-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/16984-从本地代码审计到拿下项目作者服务器？-先知社区.md) [🔗]() |
 | 16000 | 一次红队恶意程序分析溯源-先知社区 | 1.8 KB | [📄](xianzhi/16000-一次红队恶意程序分析溯源-先知社区.md) [🔗](https://xz.aliyun.com/news/16000  ) |
 | 16001 | burpsuite数据包自动加解密插件，autoDecoder详细安装+使用-先知社区 | 16.1 KB | [📄](xianzhi/16001-burpsuite数据包自动加解密插件，autoDecoder详细安装+使用-先知社区.md) [🔗](https://xz.aliyun.com/news/16001  ) |
 | 16003 | 基于environ变量的堆题攻击栈空间-先知社区 | 21.8 KB | [📄](xianzhi/16003-基于environ变量的堆题攻击栈空间-先知社区.md) [🔗](https://xz.aliyun.com/news/16003  ) |
@@ -577,6 +577,14 @@
 | 17048 | Realworld下的堡垒机SQL RCE漏洞-先知社区 | 7.4 KB | [📄](xianzhi/17048-Realworld下的堡垒机SQL RCE漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/17048  ) |
 | 17049 | Bottle框架内存马-先知社区 | 3.4 KB | [📄](xianzhi/17049-Bottle框架内存马-先知社区.md) [🔗](https://xz.aliyun.com/news/17049  ) |
 | 17050 | 从sql 注入到rce 的挖掘分析-先知社区 | 6.4 KB | [📄](xianzhi/17050-从sql 注入到rce 的挖掘分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17050  ) |
+| 17051 | spring架构解析路由过程&可能的绕过手法分析-先知社区 | 16.1 KB | [📄](xianzhi/17051-spring架构解析路由过程&可能的绕过手法分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17051  ) |
+| 17053 | 从0到1学习eks安全-先知社区 | 23.3 KB | [📄](xianzhi/17053-从0到1学习eks安全-先知社区.md) [🔗](https://xz.aliyun.com/news/17053  ) |
+| 17054 | mybatis下的ognl注入分析-先知社区 | 9.4 KB | [📄](xianzhi/17054-mybatis下的ognl注入分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17054  ) |
+| 17055 | 一次从注册功能隐藏到发现的sql注入漏洞-先知社区 | 5.5 KB | [📄](xianzhi/17055-一次从注册功能隐藏到发现的sql注入漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/17055  ) |
+| 17056 | jsonpath-plus远程代码执行漏洞 CVE-2024-21534 ->CVE-2025-1302-先知社区 | 15.4 KB | [📄](xianzhi/17056-jsonpath-plus远程代码执行漏洞 CVE-2024-21534 - CVE-2025-1302-先知社区.md) [🔗](https://xz.aliyun.com/news/17056  ) |
+| 17058 | 流量检测形同虚设？Merlin Agent远控木马的逃逸高招-先知社区 | 29.2 KB | [📄](xianzhi/17058-流量检测形同虚设？Merlin Agent远控木马的逃逸高招-先知社区.md) [🔗](https://xz.aliyun.com/news/17058  ) |
+| 17059 | Tomcat下java原生环境获取StandardContext的办法-先知社区 | 54.4 KB | [📄](xianzhi/17059-Tomcat下java原生环境获取StandardContext的办法-先知社区.md) [🔗](https://xz.aliyun.com/news/17059  ) |
+| 17060 | 织梦管理系统任意文件删除从 0 开始的挖掘思路分析-先知社区 | 11.0 KB | [📄](xianzhi/17060-织梦管理系统任意文件删除从 0 开始的挖掘思路分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17060  ) |
 
 ---
 
