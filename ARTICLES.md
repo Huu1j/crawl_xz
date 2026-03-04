@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-03-03 01:32:11
+> 🤖 最后更新: 2026-03-04 01:27:57
 
 ## 📊 统计信息
 
-- **先知社区**: 639 篇文章
+- **先知社区**: 647 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 972 篇文章
+- **总计**: 980 篇文章
 
 ---
 
-## 📖 先知社区文章 (639 篇)
+## 📖 先知社区文章 (647 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -654,6 +654,14 @@
 | 17166 | 某某会sign值分析-先知社区 | 11.1 KB | [📄](xianzhi/17166-某某会sign值分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17166  ) |
 | 17167 | 关于LACTF 2025 mmapro知识点思考-先知社区 | 7.5 KB | [📄](xianzhi/17167-关于LACTF 2025 mmapro知识点思考-先知社区.md) [🔗](https://xz.aliyun.com/news/17167  ) |
 | 17170 | 动态获取API函数（又称隐藏IAT）实现免杀-先知社区 | 36.5 KB | [📄](xianzhi/17170-动态获取API函数（又称隐藏IAT）实现免杀-先知社区.md) [🔗](https://xz.aliyun.com/news/17170  ) |
+| 17172 | GHCTF2025-Crypto-WP-先知社区 | 68.1 KB | [📄](xianzhi/17172-GHCTF2025-Crypto-WP-先知社区.md) [🔗](https://xz.aliyun.com/news/17172  ) |
+| 17173 | 某cms的漏洞分析-先知社区 | 19.7 KB | [📄](xianzhi/17173-某cms的漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17173  ) |
+| 17174 | 【实战】nike 版本更新绕过-先知社区 | 3.5 KB | [📄](xianzhi/17174-【实战】nike 版本更新绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/17174  ) |
+| 17175 | SmartAdmin-3.13.0-”假”权限绕过分析-先知社区 | 4.7 KB | [📄](xianzhi/17175-SmartAdmin-3.13.0-”假”权限绕过分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17175  ) |
+| 17177 | AI-Sense  AI 对敏感文件自动识别-先知社区 | 21.5 KB | [📄](xianzhi/17177-AI-Sense  AI 对敏感文件自动识别-先知社区.md) [🔗](https://xz.aliyun.com/news/17177  ) |
+| 17178 | 从0到1挖掘freemaker 模板注入-先知社区 | 10.7 KB | [📄](xianzhi/17178-从0到1挖掘freemaker 模板注入-先知社区.md) [🔗](https://xz.aliyun.com/news/17178  ) |
+| 17179 | 深入解析 AWS Lambda：权限管理与提权技巧全揭秘-先知社区 | 18.7 KB | [📄](xianzhi/17179-深入解析 AWS Lambda：权限管理与提权技巧全揭秘-先知社区.md) [🔗](https://xz.aliyun.com/news/17179  ) |
+| 17180 | 通过某哔哩实现白加黑-先知社区 | 2.6 KB | [📄](xianzhi/17180-通过某哔哩实现白加黑-先知社区.md) [🔗](https://xz.aliyun.com/news/17180  ) |
 
 ---
 
