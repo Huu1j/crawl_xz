@@ -450,24 +450,89 @@ def crawl_article(driver, url, article_id, url_type="t", save_dir="./xianzhi", o
 
         # 下载图片并替换HTML中的路径
         downloaded_count = 0
-        for img_tag in img_tags:
-            img_url = img_tag.get("src")
+        
+        # 获取驱动的Cookies，用于requests请求
+        cookies = {c['name']: c['value'] for c in driver.get_cookies()}
+        
+        for idx, img_tag in enumerate(img_tags):
+            # 兼容处理：尝试多个属性，并清洗 URL 中的空格、换行、反引号
+            img_url = (img_tag.get("src") or img_tag.get("data-src") or img_tag.get("data-original-src") or "")
+            img_url = img_url.strip().strip('`').strip()
+            
             if img_url and img_url.startswith("http"):
                 try:
+                    # 使用原有的文件名提取逻辑
                     img_name = os.path.basename(img_url.split('?')[0])
+                    
+                    # 兼容处理：如果文件名太短或包含非法字符，补全后缀或生成序号
+                    if not img_name or len(img_name) < 3 or '.' not in img_name:
+                        img_name = f"img_{article_id}_{idx:03d}.png"
+                        
                     img_path = os.path.join(images_dir, img_name)
 
-                    if not os.path.exists(img_path):
-                        img_data = requests.get(img_url, headers=headers, timeout=10).content
-                        with open(img_path, "wb") as f:
-                            f.write(img_data)
-                        downloaded_count += 1
+                    # 校验文件是否有效（防止旧的报错页面干扰）
+                    is_file_valid = False
+                    if os.path.exists(img_path):
+                        if os.path.getsize(img_path) > 2048: # 大于2KB初步判定有效
+                            try:
+                                with open(img_path, 'rb') as f:
+                                    header = f.read(100).lower()
+                                    if b'<html' not in header and b'<!doctype' not in header:
+                                        is_file_valid = True
+                            except: pass
+                        
+                        if not is_file_valid:
+                            os.remove(img_path) # 删除无效文件
+
+                    if not is_file_valid:
+                        # 尝试不同的 Referer 策略绕过防盗链
+                        referers = ["", "https://xz.aliyun.com/", "https://www.jianshu.com/"]
+                        success = False
+                        
+                        for ref in referers:
+                            try:
+                                img_headers = {
+                                    "User-Agent": driver.execute_script("return navigator.userAgent"),
+                                    "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+                                    "Referer": ref 
+                                }
+                                response = requests.get(img_url, headers=img_headers, cookies=cookies, timeout=15, stream=True)
+                                
+                                # 只有状态码为 200 且内容是图片时才保存
+                                if response.status_code == 200:
+                                    content_type = response.headers.get('Content-Type', '').lower()
+                                    if 'image' in content_type or 'octet-stream' in content_type:
+                                        with open(img_path, "wb") as f:
+                                            for chunk in response.iter_content(chunk_size=8192):
+                                                f.write(chunk)
+                                        
+                                        # 二次检查：防止某些 CDN 返回 200 但内容是 HTML 报错页
+                                        if os.path.getsize(img_path) < 1024:
+                                            with open(img_path, 'rb') as f:
+                                                if b'<html' in f.read(100).lower():
+                                                    os.remove(img_path)
+                                                    continue
+                                                    
+                                        success = True
+                                        downloaded_count += 1
+                                        break # 成功下载，跳出 Referer 循环
+                                    else:
+                                        if DEBUG_MODE: print(f"  [调试] 非图片内容: {content_type} ({img_url})")
+                                else:
+                                    if DEBUG_MODE: print(f"  [调试] HTTP {response.status_code} (Referer: '{ref}')")
+                            except Exception as e:
+                                if DEBUG_MODE: print(f"  [调试] 请求异常: {e}")
+                                continue
+                        
+                        if not success:
+                            print(f"  ⚠️  图片下载失败 (所有策略均无效): {img_url}")
                     
-                    # 更新HTML中的图片路径（用于PDF生成）
-                    img_tag['src'] = f"images/{img_name}"
+                    # 只有本地确实存在该文件时，才更新 HTML 路径
+                    if os.path.exists(img_path):
+                        img_tag['src'] = f"images/{img_name}"
                     
                 except Exception as e:
-                    print(f"  ⚠️  图片下载失败: {e}")
+                    print(f"  ⚠️  图片下载失败 ({img_url}): {e}")
         
         if downloaded_count > 0:
             print(f"✓ 下载了 {downloaded_count} 张图片")
@@ -651,22 +716,41 @@ if __name__ == '__main__':
     # 创建Service对象，禁用日志输出
     service_args = ['--silent', '--log-path=/dev/null'] if os.name != 'nt' else ['--silent', '--log-path=NUL']
     
-    # 在Linux环境下（如GitHub Actions），始终使用webdriver-manager
-    if os.name != 'nt' or not os.path.exists(chromedriver_path):
-        print("正在下载匹配版本的 ChromeDriver（仅首次需要）...")
-        # 使用 webdriver_manager 下载驱动
-        downloaded_path = ChromeDriverManager().install()
-        print(f"✓ ChromeDriver 已下载")
-        
-        service = Service(downloaded_path, service_args=service_args)
-        if os.name == 'nt':
-            service.creationflags = subprocess.CREATE_NO_WINDOW
-        driver = webdriver.Chrome(service=service, options=chrome_options)
-    else:
-        print(f"✓ 使用本地 ChromeDriver: {chromedriver_path}")
-        service = Service(chromedriver_path, service_args=service_args)
-        service.creationflags = subprocess.CREATE_NO_WINDOW
-        driver = webdriver.Chrome(service=service, options=chrome_options)
+    driver = None
+    
+    # 尝试初始化浏览器，处理版本不匹配问题
+    try:
+        if os.path.exists(chromedriver_path):
+            print(f"✓ 尝试使用本地 ChromeDriver: {chromedriver_path}")
+            service = Service(chromedriver_path, service_args=service_args)
+            if os.name == 'nt':
+                service.creationflags = subprocess.CREATE_NO_WINDOW
+            driver = webdriver.Chrome(service=service, options=chrome_options)
+        else:
+            raise FileNotFoundError("未发现本地 ChromeDriver")
+            
+    except Exception as e:
+        if "session not created" in str(e).lower() or isinstance(e, FileNotFoundError):
+            if not isinstance(e, FileNotFoundError):
+                print(f"⚠️  本地 ChromeDriver 版本不匹配，正在自动下载适配版本...")
+            else:
+                print("正在下载匹配版本的 ChromeDriver（仅首次需要）...")
+            
+            try:
+                # 使用 webdriver_manager 下载驱动
+                downloaded_path = ChromeDriverManager().install()
+                print(f"✓ 适配版本的 ChromeDriver 已就绪")
+                
+                service = Service(downloaded_path, service_args=service_args)
+                if os.name == 'nt':
+                    service.creationflags = subprocess.CREATE_NO_WINDOW
+                driver = webdriver.Chrome(service=service, options=chrome_options)
+            except Exception as e2:
+                print(f"✗ 无法初始化浏览器: {e2}")
+                exit(1)
+        else:
+            print(f"✗ 浏览器初始化失败: {e}")
+            exit(1)
     
     success_count = 0
     fail_count = 0
