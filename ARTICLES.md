@@ -1,21 +1,22 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-03-17 01:30:58
+> 🤖 最后更新: 2026-03-18 01:44:13
 
 ## 📊 统计信息
 
-- **先知社区**: 736 篇文章
+- **先知社区**: 745 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1069 篇文章
+- **总计**: 1078 篇文章
 
 ---
 
-## 📖 先知社区文章 (736 篇)
+## 📖 先知社区文章 (745 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/16984-从本地代码审计到拿下项目作者服务器？-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/17319-防御间接提示注入攻击-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17215-WDAC 在终端对抗中的应用-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17202-一文学会各种子域名收集方法-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/16939-io_uring源码分析-先知社区.md) [🔗]() |
@@ -751,6 +752,14 @@
 | 17305 | 第二届“长城杯” 铁人三项赛应急响应wp(部分)-先知社区 | 7.0 KB | [📄](xianzhi/17305-第二届“长城杯” 铁人三项赛应急响应wp(部分)-先知社区.md) [🔗](https://xz.aliyun.com/news/17305  ) |
 | 17306 | 从RWX权限内存遍历到Dirty Vanity-先知社区 | 12.3 KB | [📄](xianzhi/17306-从RWX权限内存遍历到Dirty Vanity-先知社区.md) [🔗](https://xz.aliyun.com/news/17306  ) |
 | 17310 | 深入理解白加黑-先知社区 | 18.0 KB | [📄](xianzhi/17310-深入理解白加黑-先知社区.md) [🔗](https://xz.aliyun.com/news/17310  ) |
+| 17311 | CISCN&CCB25半决赛pwn题解-先知社区 | 13.7 KB | [📄](xianzhi/17311-CISCN&CCB25半决赛pwn题解-先知社区.md) [🔗](https://xz.aliyun.com/news/17311  ) |
+| 17312 | ADCS攻击指北-权限维持-先知社区 | 7.8 KB | [📄](xianzhi/17312-ADCS攻击指北-权限维持-先知社区.md) [🔗](https://xz.aliyun.com/news/17312  ) |
+| 17313 | CISCN2025 半决赛 AWDP rng-assistant-先知社区 | 4.9 KB | [📄](xianzhi/17313-CISCN2025 半决赛 AWDP rng-assistant-先知社区.md) [🔗](https://xz.aliyun.com/news/17313  ) |
+| 17315 | firmAE模拟仿真DIR815栈溢出漏洞复现-先知社区 | 14.5 KB | [📄](xianzhi/17315-firmAE模拟仿真DIR815栈溢出漏洞复现-先知社区.md) [🔗](https://xz.aliyun.com/news/17315  ) |
+| 17316 | wow64log劫持-先知社区 | 38.7 KB | [📄](xianzhi/17316-wow64log劫持-先知社区.md) [🔗](https://xz.aliyun.com/news/17316  ) |
+| 17317 | 某台球app sign逆向分析-先知社区 | 3.7 KB | [📄](xianzhi/17317-某台球app sign逆向分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17317  ) |
+| 17318 | Redis下的python模板魔术方法攻击-先知社区 | 10.3 KB | [📄](xianzhi/17318-Redis下的python模板魔术方法攻击-先知社区.md) [🔗](https://xz.aliyun.com/news/17318  ) |
+| 17320 | CVE-2025-1743 漏洞代码审计分析-先知社区 | 2.2 KB | [📄](xianzhi/17320-CVE-2025-1743 漏洞代码审计分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17320  ) |
 
 ---
 
