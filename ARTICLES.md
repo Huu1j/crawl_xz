@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-04-02 01:48:55
+> 🤖 最后更新: 2026-04-03 01:57:54
 
 ## 📊 统计信息
 
-- **先知社区**: 833 篇文章
+- **先知社区**: 842 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1166 篇文章
+- **总计**: 1175 篇文章
 
 ---
 
-## 📖 先知社区文章 (833 篇)
+## 📖 先知社区文章 (842 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -848,6 +848,15 @@
 | 17468 | 什么是Oblivious Transfer协议-先知社区 | 17.1 KB | [📄](xianzhi/17468-什么是Oblivious Transfer协议-先知社区.md) [🔗](https://xz.aliyun.com/news/17468  ) |
 | 17469 | XSLeaks 技术利用-先知社区 | 8.8 KB | [📄](xianzhi/17469-XSLeaks 技术利用-先知社区.md) [🔗](https://xz.aliyun.com/news/17469  ) |
 | 17470 | webshell免杀之浅谈phpwebshell中如何控制传入内容-先知社区 | 10.9 KB | [📄](xianzhi/17470-webshell免杀之浅谈phpwebshell中如何控制传入内容-先知社区.md) [🔗](https://xz.aliyun.com/news/17470  ) |
+| 17471 | 利用链寻找利器 CodeQL：如何精准定位二次反序列化漏洞-先知社区 | 13.3 KB | [📄](xianzhi/17471-利用链寻找利器 CodeQL：如何精准定位二次反序列化漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/17471  ) |
+| 17472 | Sharp4SluiUAC：一款通过 slui.exe 白名单进程绕过 UAC 实现提升权限-先知社区 | 3.8 KB | [📄](xianzhi/17472-Sharp4SluiUAC：一款通过 slui.exe 白名单进程绕过 UAC 实现提升权限-先知社区.md) [🔗](https://xz.aliyun.com/news/17472  ) |
+| 17473 | Golang项目cmall-go代码审计-先知社区 | 8.3 KB | [📄](xianzhi/17473-Golang项目cmall-go代码审计-先知社区.md) [🔗](https://xz.aliyun.com/news/17473  ) |
+| 17474 | WolvCTF 2025 Re+取证 WP-先知社区 | 39.1 KB | [📄](xianzhi/17474-WolvCTF 2025 Re+取证 WP-先知社区.md) [🔗](https://xz.aliyun.com/news/17474  ) |
+| 17476 | justDeserialize 绕过黑名单挖掘利用链-先知社区 | 31.0 KB | [📄](xianzhi/17476-justDeserialize 绕过黑名单挖掘利用链-先知社区.md) [🔗](https://xz.aliyun.com/news/17476  ) |
+| 17477 | 一次对多重混淆技术的恶意BAT文件简要分析-先知社区 | 4.8 KB | [📄](xianzhi/17477-一次对多重混淆技术的恶意BAT文件简要分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17477  ) |
+| 17478 | ISCC线下如何配置代理攻击其他私地及高地-先知社区 | 5.9 KB | [📄](xianzhi/17478-ISCC线下如何配置代理攻击其他私地及高地-先知社区.md) [🔗](https://xz.aliyun.com/news/17478  ) |
+| 17479 | JAVA安全之XMLDecoder反序列化分析研究-先知社区 | 16.2 KB | [📄](xianzhi/17479-JAVA安全之XMLDecoder反序列化分析研究-先知社区.md) [🔗](https://xz.aliyun.com/news/17479  ) |
+| 17480 | 我用NodeJS+electron自研了个C2和木马并绕过了360+火绒内存扫描(附源码)-先知社区 | 4.7 KB | [📄](xianzhi/17480-我用NodeJS+electron自研了个C2和木马并绕过了360+火绒内存扫描(附源码)-先知社区.md) [🔗](https://xz.aliyun.com/news/17480  ) |
 
 ---
 
