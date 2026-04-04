@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-04-03 01:57:54
+> 🤖 最后更新: 2026-04-04 01:35:47
 
 ## 📊 统计信息
 
-- **先知社区**: 842 篇文章
+- **先知社区**: 849 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1175 篇文章
+- **总计**: 1182 篇文章
 
 ---
 
-## 📖 先知社区文章 (842 篇)
+## 📖 先知社区文章 (849 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -857,6 +857,13 @@
 | 17478 | ISCC线下如何配置代理攻击其他私地及高地-先知社区 | 5.9 KB | [📄](xianzhi/17478-ISCC线下如何配置代理攻击其他私地及高地-先知社区.md) [🔗](https://xz.aliyun.com/news/17478  ) |
 | 17479 | JAVA安全之XMLDecoder反序列化分析研究-先知社区 | 16.2 KB | [📄](xianzhi/17479-JAVA安全之XMLDecoder反序列化分析研究-先知社区.md) [🔗](https://xz.aliyun.com/news/17479  ) |
 | 17480 | 我用NodeJS+electron自研了个C2和木马并绕过了360+火绒内存扫描(附源码)-先知社区 | 4.7 KB | [📄](xianzhi/17480-我用NodeJS+electron自研了个C2和木马并绕过了360+火绒内存扫描(附源码)-先知社区.md) [🔗](https://xz.aliyun.com/news/17480  ) |
+| 17481 | 红队视角：Gitlab已知攻击面与潜在风险-先知社区 | 63.2 KB | [📄](xianzhi/17481-红队视角：Gitlab已知攻击面与潜在风险-先知社区.md) [🔗](https://xz.aliyun.com/news/17481  ) |
+| 17484 | Tomcat 漏洞分析(CVE-2025-24813)-先知社区 | 3.9 KB | [📄](xianzhi/17484-Tomcat 漏洞分析(CVE-2025-24813)-先知社区.md) [🔗](https://xz.aliyun.com/news/17484  ) |
+| 17486 | IOT渗透测试：从信息收集到msf,ExploitDB攻击渗透思路实录分享-先知社区 | 48.5 KB | [📄](xianzhi/17486-IOT渗透测试：从信息收集到msf,ExploitDB攻击渗透思路实录分享-先知社区.md) [🔗](https://xz.aliyun.com/news/17486  ) |
+| 17487 | 记一次样本分析-先知社区 | 2.1 KB | [📄](xianzhi/17487-记一次样本分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17487  ) |
+| 17488 | Vite 任意文件读取漏洞(CVE-2025-30208)-先知社区 | 14.7 KB | [📄](xianzhi/17488-Vite 任意文件读取漏洞(CVE-2025-30208)-先知社区.md) [🔗](https://xz.aliyun.com/news/17488  ) |
+| 17489 | 记某众测Fastjson<=1.2.68反序列化RCE过程-先知社区 | 10.1 KB | [📄](xianzhi/17489-记某众测Fastjson =1.2.68反序列化RCE过程-先知社区.md) [🔗](https://xz.aliyun.com/news/17489  ) |
+| 17490 | 使用XML变形webshell免杀思路-先知社区 | 3.5 KB | [📄](xianzhi/17490-使用XML变形webshell免杀思路-先知社区.md) [🔗](https://xz.aliyun.com/news/17490  ) |
 
 ---
 
