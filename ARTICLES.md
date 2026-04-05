@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-04-04 01:35:47
+> 🤖 最后更新: 2026-04-05 02:02:54
 
 ## 📊 统计信息
 
-- **先知社区**: 849 篇文章
+- **先知社区**: 855 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1182 篇文章
+- **总计**: 1188 篇文章
 
 ---
 
-## 📖 先知社区文章 (849 篇)
+## 📖 先知社区文章 (855 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -864,6 +864,12 @@
 | 17488 | Vite 任意文件读取漏洞(CVE-2025-30208)-先知社区 | 14.7 KB | [📄](xianzhi/17488-Vite 任意文件读取漏洞(CVE-2025-30208)-先知社区.md) [🔗](https://xz.aliyun.com/news/17488  ) |
 | 17489 | 记某众测Fastjson<=1.2.68反序列化RCE过程-先知社区 | 10.1 KB | [📄](xianzhi/17489-记某众测Fastjson =1.2.68反序列化RCE过程-先知社区.md) [🔗](https://xz.aliyun.com/news/17489  ) |
 | 17490 | 使用XML变形webshell免杀思路-先知社区 | 3.5 KB | [📄](xianzhi/17490-使用XML变形webshell免杀思路-先知社区.md) [🔗](https://xz.aliyun.com/news/17490  ) |
+| 17491 | 基于强化学习的DQN智能体自动生成XSS-先知社区 | 34.8 KB | [📄](xianzhi/17491-基于强化学习的DQN智能体自动生成XSS-先知社区.md) [🔗](https://xz.aliyun.com/news/17491  ) |
+| 17492 | PEAR组件在Docker生态中的无文件RCE-先知社区 | 10.0 KB | [📄](xianzhi/17492-PEAR组件在Docker生态中的无文件RCE-先知社区.md) [🔗](https://xz.aliyun.com/news/17492  ) |
+| 17493 | DVWA Vulnerability: Cryptography Problems-先知社区 | 17.0 KB | [📄](xianzhi/17493-DVWA Vulnerability  Cryptography Problems-先知社区.md) [🔗](https://xz.aliyun.com/news/17493  ) |
+| 17498 | Qt免杀样本分析-先知社区 | 7.7 KB | [📄](xianzhi/17498-Qt免杀样本分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17498  ) |
+| 17499 | 银狐木马伪装投毒分析-先知社区 | 3.2 KB | [📄](xianzhi/17499-银狐木马伪装投毒分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17499  ) |
+| 17500 | Cyber Apocalypse CTF 2025  部分web wp-先知社区 | 11.4 KB | [📄](xianzhi/17500-Cyber Apocalypse CTF 2025  部分web wp-先知社区.md) [🔗](https://xz.aliyun.com/news/17500  ) |
 
 ---
 
