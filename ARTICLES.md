@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-04-05 02:02:54
+> 🤖 最后更新: 2026-04-06 02:05:34
 
 ## 📊 统计信息
 
-- **先知社区**: 855 篇文章
+- **先知社区**: 863 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1188 篇文章
+- **总计**: 1196 篇文章
 
 ---
 
-## 📖 先知社区文章 (855 篇)
+## 📖 先知社区文章 (863 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -870,6 +870,14 @@
 | 17498 | Qt免杀样本分析-先知社区 | 7.7 KB | [📄](xianzhi/17498-Qt免杀样本分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17498  ) |
 | 17499 | 银狐木马伪装投毒分析-先知社区 | 3.2 KB | [📄](xianzhi/17499-银狐木马伪装投毒分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17499  ) |
 | 17500 | Cyber Apocalypse CTF 2025  部分web wp-先知社区 | 11.4 KB | [📄](xianzhi/17500-Cyber Apocalypse CTF 2025  部分web wp-先知社区.md) [🔗](https://xz.aliyun.com/news/17500  ) |
+| 17501 | ai越狱实践（二）-先知社区 | 8.2 KB | [📄](xianzhi/17501-ai越狱实践（二）-先知社区.md) [🔗](https://xz.aliyun.com/news/17501  ) |
+| 17502 | 基于VxWorks的固件分析-修复篇-先知社区 | 11.0 KB | [📄](xianzhi/17502-基于VxWorks的固件分析-修复篇-先知社区.md) [🔗](https://xz.aliyun.com/news/17502  ) |
+| 17505 | Apache mina反序列化漏洞-先知社区 | 7.9 KB | [📄](xianzhi/17505-Apache mina反序列化漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/17505  ) |
+| 17506 | 一次JAVA项目的漏洞挖掘-先知社区 | 2.1 KB | [📄](xianzhi/17506-一次JAVA项目的漏洞挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/17506  ) |
+| 17507 | 华为HG532路由器RCE漏洞-先知社区 | 7.9 KB | [📄](xianzhi/17507-华为HG532路由器RCE漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/17507  ) |
+| 17508 | 内核提权案例分析一-先知社区 | 35.8 KB | [📄](xianzhi/17508-内核提权案例分析一-先知社区.md) [🔗](https://xz.aliyun.com/news/17508  ) |
+| 17509 | springSecurity框架在 WebFlux 下的权限饶过-先知社区 | 13.8 KB | [📄](xianzhi/17509-springSecurity框架在 WebFlux 下的权限饶过-先知社区.md) [🔗](https://xz.aliyun.com/news/17509  ) |
+| 17510 | 浅析CCSSSC软件攻防赛druid+Hsql依赖题解-先知社区 | 14.2 KB | [📄](xianzhi/17510-浅析CCSSSC软件攻防赛druid+Hsql依赖题解-先知社区.md) [🔗](https://xz.aliyun.com/news/17510  ) |
 
 ---
 
