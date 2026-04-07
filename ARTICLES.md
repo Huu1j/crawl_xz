@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-04-06 02:05:34
+> 🤖 最后更新: 2026-04-07 01:57:26
 
 ## 📊 统计信息
 
-- **先知社区**: 863 篇文章
+- **先知社区**: 869 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1196 篇文章
+- **总计**: 1202 篇文章
 
 ---
 
-## 📖 先知社区文章 (863 篇)
+## 📖 先知社区文章 (869 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -22,6 +22,7 @@
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17202-一文学会各种子域名收集方法-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17215-WDAC 在终端对抗中的应用-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/16939-io_uring源码分析-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/17519-TPCTF2025复现(全)-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/16984-从本地代码审计到拿下项目作者服务器？-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17226-FalconToolbox之无缝集成oneforall-先知社区.md) [🔗]() |
 | 16000 | 一次红队恶意程序分析溯源-先知社区 | 1.8 KB | [📄](xianzhi/16000-一次红队恶意程序分析溯源-先知社区.md) [🔗](https://xz.aliyun.com/news/16000  ) |
@@ -878,6 +879,11 @@
 | 17508 | 内核提权案例分析一-先知社区 | 35.8 KB | [📄](xianzhi/17508-内核提权案例分析一-先知社区.md) [🔗](https://xz.aliyun.com/news/17508  ) |
 | 17509 | springSecurity框架在 WebFlux 下的权限饶过-先知社区 | 13.8 KB | [📄](xianzhi/17509-springSecurity框架在 WebFlux 下的权限饶过-先知社区.md) [🔗](https://xz.aliyun.com/news/17509  ) |
 | 17510 | 浅析CCSSSC软件攻防赛druid+Hsql依赖题解-先知社区 | 14.2 KB | [📄](xianzhi/17510-浅析CCSSSC软件攻防赛druid+Hsql依赖题解-先知社区.md) [🔗](https://xz.aliyun.com/news/17510  ) |
+| 17512 | 睡眠混淆技术分享(sleep obfuscation)-先知社区 | 10.2 KB | [📄](xianzhi/17512-睡眠混淆技术分享(sleep obfuscation)-先知社区.md) [🔗](https://xz.aliyun.com/news/17512  ) |
+| 17513 | redis安全攻防-windows-先知社区 | 4.3 KB | [📄](xianzhi/17513-redis安全攻防-windows-先知社区.md) [🔗](https://xz.aliyun.com/news/17513  ) |
+| 17515 | 记一次提取APP游戏资源文件的骚操作-先知社区 | 1214.0 KB | [📄](xianzhi/17515-记一次提取APP游戏资源文件的骚操作-先知社区.md) [🔗](https://xz.aliyun.com/news/17515  ) |
+| 17516 | spring 下的 SSRF 漏洞绕过分析以及成因-先知社区 | 21.4 KB | [📄](xianzhi/17516-spring 下的 SSRF 漏洞绕过分析以及成因-先知社区.md) [🔗](https://xz.aliyun.com/news/17516  ) |
+| 17520 | YARA规则编写与实战-先知社区 | 8.7 KB | [📄](xianzhi/17520-YARA规则编写与实战-先知社区.md) [🔗](https://xz.aliyun.com/news/17520  ) |
 
 ---
 
