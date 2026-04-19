@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-04-18 01:55:17
+> 🤖 最后更新: 2026-04-19 02:05:52
 
 ## 📊 统计信息
 
-- **先知社区**: 913 篇文章
+- **先知社区**: 916 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1246 篇文章
+- **总计**: 1249 篇文章
 
 ---
 
-## 📖 先知社区文章 (913 篇)
+## 📖 先知社区文章 (916 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -928,6 +928,9 @@
 | 17624 | 泛微云桥20240725存在未授权文件上传fileUploadForCowork_fileUpload-先知社区 | 16.9 KB | [📄](xianzhi/17624-泛微云桥20240725存在未授权文件上传fileUploadForCowork_fileUpload-先知社区.md) [🔗](https://xz.aliyun.com/news/17624  ) |
 | 17625 | clickhouse注入手法总结-先知社区 | 259.5 KB | [📄](xianzhi/17625-clickhouse注入手法总结-先知社区.md) [🔗](https://xz.aliyun.com/news/17625  ) |
 | 17629 | 原生新链-SPring AOP 原生链挖掘思路分析-先知社区 | 23.0 KB | [📄](xianzhi/17629-原生新链-SPring AOP 原生链挖掘思路分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17629  ) |
+| 17631 | 第四届阿里云伏魔挑战赛PHP WebShell记录-先知社区 | 18.4 KB | [📄](xianzhi/17631-第四届阿里云伏魔挑战赛PHP WebShell记录-先知社区.md) [🔗](https://xz.aliyun.com/news/17631  ) |
+| 17638 | JDK 高版本下 JNDI 注入深度剖析-先知社区 | 28.9 KB | [📄](xianzhi/17638-JDK 高版本下 JNDI 注入深度剖析-先知社区.md) [🔗](https://xz.aliyun.com/news/17638  ) |
+| 17640 | SpringAop新链实现任意无参方法调用-先知社区 | 12.8 KB | [📄](xianzhi/17640-SpringAop新链实现任意无参方法调用-先知社区.md) [🔗](https://xz.aliyun.com/news/17640  ) |
 
 ---
 
