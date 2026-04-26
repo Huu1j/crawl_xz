@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-04-25 01:59:46
+> 🤖 最后更新: 2026-04-26 02:07:51
 
 ## 📊 统计信息
 
-- **先知社区**: 943 篇文章
+- **先知社区**: 945 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1276 篇文章
+- **总计**: 1278 篇文章
 
 ---
 
-## 📖 先知社区文章 (943 篇)
+## 📖 先知社区文章 (945 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -958,6 +958,8 @@
 | 17697 | ssti之Request浅析利用-先知社区 | 9.2 KB | [📄](xianzhi/17697-ssti之Request浅析利用-先知社区.md) [🔗](https://xz.aliyun.com/news/17697  ) |
 | 17699 | Sharp4GetNTDS：提取 NTDS 文件获取 Windows 域环境资产信息-先知社区 | 6.4 KB | [📄](xianzhi/17699-Sharp4GetNTDS：提取 NTDS 文件获取 Windows 域环境资产信息-先知社区.md) [🔗](https://xz.aliyun.com/news/17699  ) |
 | 17700 | 从getter到jndi之LdapAttribute反序列化链-先知社区 | 17.1 KB | [📄](xianzhi/17700-从getter到jndi之LdapAttribute反序列化链-先知社区.md) [🔗](https://xz.aliyun.com/news/17700  ) |
+| 17706 | 劫持SUID程序提权彻底理解Dirty_Pipe：从源码解析到内核调试-先知社区 | 78.3 KB | [📄](xianzhi/17706-劫持SUID程序提权彻底理解Dirty_Pipe：从源码解析到内核调试-先知社区.md) [🔗](https://xz.aliyun.com/news/17706  ) |
+| 17710 | Webshell命令执行失败实战场景下解决思路-先知社区 | 4.8 KB | [📄](xianzhi/17710-Webshell命令执行失败实战场景下解决思路-先知社区.md) [🔗](https://xz.aliyun.com/news/17710  ) |
 
 ---
 
