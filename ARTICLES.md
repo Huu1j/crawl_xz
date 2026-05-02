@@ -1,24 +1,26 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-01 02:30:27
+> 🤖 最后更新: 2026-05-02 02:13:23
 
 ## 📊 统计信息
 
-- **先知社区**: 969 篇文章
+- **先知社区**: 975 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1302 篇文章
+- **总计**: 1308 篇文章
 
 ---
 
-## 📖 先知社区文章 (969 篇)
+## 📖 先知社区文章 (975 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17725-由一道CTF引发的技术思考(wafbypass)-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/16939-io_uring源码分析-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/17765-MCP 安全检查清单：AI工具生态系统安全指南-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17406-Next.js 中间件鉴权绕过漏洞 (CVE-2025-29927)-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17215-WDAC 在终端对抗中的应用-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/17762-Frida-Labs-Java层操作指南-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17347-Gröbner 基学习与CTF题目实践应用-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17226-FalconToolbox之无缝集成oneforall-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17430-Bottle框架的模板引擎安全问题分析-先知社区.md) [🔗]() |
@@ -984,6 +986,10 @@
 | 17748 | TGCTF2025逆向方向部分wp-先知社区 | 23.5 KB | [📄](xianzhi/17748-TGCTF2025逆向方向部分wp-先知社区.md) [🔗](https://xz.aliyun.com/news/17748  ) |
 | 17753 | TGCTF-pwn复现-先知社区 | 11.3 KB | [📄](xianzhi/17753-TGCTF-pwn复现-先知社区.md) [🔗](https://xz.aliyun.com/news/17753  ) |
 | 17760 | 记一次诈骗网站渗透测试-先知社区 | 3.7 KB | [📄](xianzhi/17760-记一次诈骗网站渗透测试-先知社区.md) [🔗](https://xz.aliyun.com/news/17760  ) |
+| 17763 | 从Nacos derby RCE学习derby数据库的利用-先知社区 | 18.9 KB | [📄](xianzhi/17763-从Nacos derby RCE学习derby数据库的利用-先知社区.md) [🔗](https://xz.aliyun.com/news/17763  ) |
+| 17764 | 堆学习之利用bss段伪造堆块-先知社区 | 15.0 KB | [📄](xianzhi/17764-堆学习之利用bss段伪造堆块-先知社区.md) [🔗](https://xz.aliyun.com/news/17764  ) |
+| 17766 | CC注入Tomcat Upgrade/Executor/WebSocket内存马-先知社区 | 79.3 KB | [📄](xianzhi/17766-CC注入Tomcat Upgrade Executor WebSocket内存马-先知社区.md) [🔗](https://xz.aliyun.com/news/17766  ) |
+| 17768 | Ethernaut_WP（6-10）-先知社区 | 21.3 KB | [📄](xianzhi/17768-Ethernaut_WP（6-10）-先知社区.md) [🔗](https://xz.aliyun.com/news/17768  ) |
 
 ---
 
