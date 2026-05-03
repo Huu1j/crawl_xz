@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-02 02:13:23
+> 🤖 最后更新: 2026-05-03 02:17:11
 
 ## 📊 统计信息
 
-- **先知社区**: 975 篇文章
+- **先知社区**: 979 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1308 篇文章
+- **总计**: 1312 篇文章
 
 ---
 
-## 📖 先知社区文章 (975 篇)
+## 📖 先知社区文章 (979 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -990,6 +990,10 @@
 | 17764 | 堆学习之利用bss段伪造堆块-先知社区 | 15.0 KB | [📄](xianzhi/17764-堆学习之利用bss段伪造堆块-先知社区.md) [🔗](https://xz.aliyun.com/news/17764  ) |
 | 17766 | CC注入Tomcat Upgrade/Executor/WebSocket内存马-先知社区 | 79.3 KB | [📄](xianzhi/17766-CC注入Tomcat Upgrade Executor WebSocket内存马-先知社区.md) [🔗](https://xz.aliyun.com/news/17766  ) |
 | 17768 | Ethernaut_WP（6-10）-先知社区 | 21.3 KB | [📄](xianzhi/17768-Ethernaut_WP（6-10）-先知社区.md) [🔗](https://xz.aliyun.com/news/17768  ) |
+| 17774 | 1.6K主机全域沦陷实录：从单点突破到域控接管的终极横向渗透链-先知社区 | 17.3 KB | [📄](xianzhi/17774-1.6K主机全域沦陷实录：从单点突破到域控接管的终极横向渗透链-先知社区.md) [🔗](https://xz.aliyun.com/news/17774  ) |
+| 17775 | Java Agent 注入 WebSocket 篇-先知社区 | 7.6 KB | [📄](xianzhi/17775-Java Agent 注入 WebSocket 篇-先知社区.md) [🔗](https://xz.aliyun.com/news/17775  ) |
+| 17776 | TGCTF-misc全解-先知社区 | 6.6 KB | [📄](xianzhi/17776-TGCTF-misc全解-先知社区.md) [🔗](https://xz.aliyun.com/news/17776  ) |
+| 17777 | 混淆重定向SVG钓鱼邮件技术分析-先知社区 | 25.9 KB | [📄](xianzhi/17777-混淆重定向SVG钓鱼邮件技术分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17777  ) |
 
 ---
 
