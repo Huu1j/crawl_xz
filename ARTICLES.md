@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-03 02:17:11
+> 🤖 最后更新: 2026-05-04 02:14:51
 
 ## 📊 统计信息
 
-- **先知社区**: 979 篇文章
+- **先知社区**: 986 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1312 篇文章
+- **总计**: 1319 篇文章
 
 ---
 
-## 📖 先知社区文章 (979 篇)
+## 📖 先知社区文章 (986 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -994,6 +994,13 @@
 | 17775 | Java Agent 注入 WebSocket 篇-先知社区 | 7.6 KB | [📄](xianzhi/17775-Java Agent 注入 WebSocket 篇-先知社区.md) [🔗](https://xz.aliyun.com/news/17775  ) |
 | 17776 | TGCTF-misc全解-先知社区 | 6.6 KB | [📄](xianzhi/17776-TGCTF-misc全解-先知社区.md) [🔗](https://xz.aliyun.com/news/17776  ) |
 | 17777 | 混淆重定向SVG钓鱼邮件技术分析-先知社区 | 25.9 KB | [📄](xianzhi/17777-混淆重定向SVG钓鱼邮件技术分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17777  ) |
+| 17783 | AI大模型越狱：攻击技术深度解析与防御体系构-先知社区 | 7.1 KB | [📄](xianzhi/17783-AI大模型越狱：攻击技术深度解析与防御体系构-先知社区.md) [🔗](https://xz.aliyun.com/news/17783  ) |
+| 17784 | Wiener's Attack——连分数如何攻破低解密指数RSA-先知社区 | 8.6 KB | [📄](xianzhi/17784-Wiener's Attack——连分数如何攻破低解密指数RSA-先知社区.md) [🔗](https://xz.aliyun.com/news/17784  ) |
+| 17785 | 利用pwntools脚本联动内置gdb函数优雅的调试docker中的pwn程序-先知社区 | 3.8 KB | [📄](xianzhi/17785-利用pwntools脚本联动内置gdb函数优雅的调试docker中的pwn程序-先知社区.md) [🔗](https://xz.aliyun.com/news/17785  ) |
+| 17786 | AI大模型越狱攻防实战：从黑盒对抗到白盒逆向的深层技术剖析-先知社区 | 6.6 KB | [📄](xianzhi/17786-AI大模型越狱攻防实战：从黑盒对抗到白盒逆向的深层技术剖析-先知社区.md) [🔗](https://xz.aliyun.com/news/17786  ) |
+| 17787 | jdk17的高版本jndi绕过导致文件写入新思路-先知社区 | 13.4 KB | [📄](xianzhi/17787-jdk17的高版本jndi绕过导致文件写入新思路-先知社区.md) [🔗](https://xz.aliyun.com/news/17787  ) |
+| 17788 | CTF_Crypto_剪枝-先知社区 | 21.2 KB | [📄](xianzhi/17788-CTF_Crypto_剪枝-先知社区.md) [🔗](https://xz.aliyun.com/news/17788  ) |
+| 17789 | 云对象存储桶验证漏洞？模型和数据被投毒、机器沦陷？- AI & 云安全-先知社区 | 13.6 KB | [📄](xianzhi/17789-云对象存储桶验证漏洞？模型和数据被投毒、机器沦陷？- AI & 云安全-先知社区.md) [🔗](https://xz.aliyun.com/news/17789  ) |
 
 ---
 
