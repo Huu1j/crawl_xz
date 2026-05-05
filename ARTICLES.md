@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-04 02:14:51
+> 🤖 最后更新: 2026-05-05 02:15:34
 
 ## 📊 统计信息
 
-- **先知社区**: 986 篇文章
+- **先知社区**: 992 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1319 篇文章
+- **总计**: 1325 篇文章
 
 ---
 
-## 📖 先知社区文章 (986 篇)
+## 📖 先知社区文章 (992 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1001,6 +1001,12 @@
 | 17787 | jdk17的高版本jndi绕过导致文件写入新思路-先知社区 | 13.4 KB | [📄](xianzhi/17787-jdk17的高版本jndi绕过导致文件写入新思路-先知社区.md) [🔗](https://xz.aliyun.com/news/17787  ) |
 | 17788 | CTF_Crypto_剪枝-先知社区 | 21.2 KB | [📄](xianzhi/17788-CTF_Crypto_剪枝-先知社区.md) [🔗](https://xz.aliyun.com/news/17788  ) |
 | 17789 | 云对象存储桶验证漏洞？模型和数据被投毒、机器沦陷？- AI & 云安全-先知社区 | 13.6 KB | [📄](xianzhi/17789-云对象存储桶验证漏洞？模型和数据被投毒、机器沦陷？- AI & 云安全-先知社区.md) [🔗](https://xz.aliyun.com/news/17789  ) |
+| 17791 | Frida-Labs-Native层操作指南-先知社区 | 17.2 KB | [📄](xianzhi/17791-Frida-Labs-Native层操作指南-先知社区.md) [🔗](https://xz.aliyun.com/news/17791  ) |
+| 17794 | 杭州师范大学TGCTF web 全解-先知社区 | 23.5 KB | [📄](xianzhi/17794-杭州师范大学TGCTF web 全解-先知社区.md) [🔗](https://xz.aliyun.com/news/17794  ) |
+| 17795 | CVE-2025-22228 Spring Security 超长密码处理不当漏洞分析-先知社区 | 5.8 KB | [📄](xianzhi/17795-CVE-2025-22228 Spring Security 超长密码处理不当漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17795  ) |
+| 17796 | Fake CAPTCHA传播XWorm RAT远控样本分析-先知社区 | 3.3 KB | [📄](xianzhi/17796-Fake CAPTCHA传播XWorm RAT远控样本分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17796  ) |
+| 17797 | 2025国赛暨长城杯AWDP-TimeCapsule完整题解-先知社区 | 32.4 KB | [📄](xianzhi/17797-2025国赛暨长城杯AWDP-TimeCapsule完整题解-先知社区.md) [🔗](https://xz.aliyun.com/news/17797  ) |
+| 17800 | Sharp4FromTrust：一种借助 TrustedInstaller 服务，实现 SYSTEM 权限的隐匿执行的工具-先知社区 | 7.0 KB | [📄](xianzhi/17800-Sharp4FromTrust：一种借助 TrustedInstaller 服务，实现 SYSTEM 权限的隐匿执行的工具-先知社区.md) [🔗](https://xz.aliyun.com/news/17800  ) |
 
 ---
 
