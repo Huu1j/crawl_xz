@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-05 02:15:34
+> 🤖 最后更新: 2026-05-06 02:15:52
 
 ## 📊 统计信息
 
-- **先知社区**: 992 篇文章
+- **先知社区**: 996 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1325 篇文章
+- **总计**: 1329 篇文章
 
 ---
 
-## 📖 先知社区文章 (992 篇)
+## 📖 先知社区文章 (996 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1007,6 +1007,10 @@
 | 17796 | Fake CAPTCHA传播XWorm RAT远控样本分析-先知社区 | 3.3 KB | [📄](xianzhi/17796-Fake CAPTCHA传播XWorm RAT远控样本分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17796  ) |
 | 17797 | 2025国赛暨长城杯AWDP-TimeCapsule完整题解-先知社区 | 32.4 KB | [📄](xianzhi/17797-2025国赛暨长城杯AWDP-TimeCapsule完整题解-先知社区.md) [🔗](https://xz.aliyun.com/news/17797  ) |
 | 17800 | Sharp4FromTrust：一种借助 TrustedInstaller 服务，实现 SYSTEM 权限的隐匿执行的工具-先知社区 | 7.0 KB | [📄](xianzhi/17800-Sharp4FromTrust：一种借助 TrustedInstaller 服务，实现 SYSTEM 权限的隐匿执行的工具-先知社区.md) [🔗](https://xz.aliyun.com/news/17800  ) |
+| 17803 | emlog文件上传漏洞分析（CNVD-2025-04611）-先知社区 | 3.6 KB | [📄](xianzhi/17803-emlog文件上传漏洞分析（CNVD-2025-04611）-先知社区.md) [🔗](https://xz.aliyun.com/news/17803  ) |
+| 17804 | 2025游戏安全技术竞赛-Android-初赛WriteUp-先知社区 | 29.7 KB | [📄](xianzhi/17804-2025游戏安全技术竞赛-Android-初赛WriteUp-先知社区.md) [🔗](https://xz.aliyun.com/news/17804  ) |
+| 17805 | 海洋CMS 远程命令执行 漏洞复现（CVE-2024-42599） 安装教程 + 超详细分析-先知社区 | 4.5 KB | [📄](xianzhi/17805-海洋CMS 远程命令执行 漏洞复现（CVE-2024-42599） 安装教程 + 超详细分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17805  ) |
+| 17808 | WordPress插件WP Umbrella 存在本地文件包含漏洞(CNVD-2024-47708)-先知社区 | 2.8 KB | [📄](xianzhi/17808-WordPress插件WP Umbrella 存在本地文件包含漏洞(CNVD-2024-47708)-先知社区.md) [🔗](https://xz.aliyun.com/news/17808  ) |
 
 ---
 
