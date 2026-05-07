@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-06 02:15:52
+> 🤖 最后更新: 2026-05-07 02:20:21
 
 ## 📊 统计信息
 
-- **先知社区**: 996 篇文章
+- **先知社区**: 1002 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1329 篇文章
+- **总计**: 1335 篇文章
 
 ---
 
-## 📖 先知社区文章 (996 篇)
+## 📖 先知社区文章 (1002 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1011,6 +1011,12 @@
 | 17804 | 2025游戏安全技术竞赛-Android-初赛WriteUp-先知社区 | 29.7 KB | [📄](xianzhi/17804-2025游戏安全技术竞赛-Android-初赛WriteUp-先知社区.md) [🔗](https://xz.aliyun.com/news/17804  ) |
 | 17805 | 海洋CMS 远程命令执行 漏洞复现（CVE-2024-42599） 安装教程 + 超详细分析-先知社区 | 4.5 KB | [📄](xianzhi/17805-海洋CMS 远程命令执行 漏洞复现（CVE-2024-42599） 安装教程 + 超详细分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17805  ) |
 | 17808 | WordPress插件WP Umbrella 存在本地文件包含漏洞(CNVD-2024-47708)-先知社区 | 2.8 KB | [📄](xianzhi/17808-WordPress插件WP Umbrella 存在本地文件包含漏洞(CNVD-2024-47708)-先知社区.md) [🔗](https://xz.aliyun.com/news/17808  ) |
+| 17811 | HessianServlet、HessianServiceExporter场景下的Payload-先知社区 | 6.6 KB | [📄](xianzhi/17811-HessianServlet、HessianServiceExporter场景下的Payload-先知社区.md) [🔗](https://xz.aliyun.com/news/17811  ) |
+| 17812 | pbootcms前台sql注入XSS再到后台rce-先知社区 | 12.0 KB | [📄](xianzhi/17812-pbootcms前台sql注入XSS再到后台rce-先知社区.md) [🔗](https://xz.aliyun.com/news/17812  ) |
+| 17813 | IDA如何调试So文件-先知社区 | 2.7 KB | [📄](xianzhi/17813-IDA如何调试So文件-先知社区.md) [🔗](https://xz.aliyun.com/news/17813  ) |
+| 17818 | 对抗样本引导的文生图越狱技术-先知社区 | 23.3 KB | [📄](xianzhi/17818-对抗样本引导的文生图越狱技术-先知社区.md) [🔗](https://xz.aliyun.com/news/17818  ) |
+| 17819 | 记一次奇妙的Oracle注入绕WAF之旅-先知社区 | 6.4 KB | [📄](xianzhi/17819-记一次奇妙的Oracle注入绕WAF之旅-先知社区.md) [🔗](https://xz.aliyun.com/news/17819  ) |
+| 17820 | 告别手工验证！MCP SSE结合AI实现FOFA+PoC全自动化漏洞挖掘-先知社区 | 13.7 KB | [📄](xianzhi/17820-告别手工验证！MCP SSE结合AI实现FOFA+PoC全自动化漏洞挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/17820  ) |
 
 ---
 
