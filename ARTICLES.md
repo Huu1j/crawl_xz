@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-07 02:20:21
+> 🤖 最后更新: 2026-05-08 02:37:54
 
 ## 📊 统计信息
 
-- **先知社区**: 1002 篇文章
+- **先知社区**: 1008 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1335 篇文章
+- **总计**: 1341 篇文章
 
 ---
 
-## 📖 先知社区文章 (1002 篇)
+## 📖 先知社区文章 (1008 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1017,6 +1017,12 @@
 | 17818 | 对抗样本引导的文生图越狱技术-先知社区 | 23.3 KB | [📄](xianzhi/17818-对抗样本引导的文生图越狱技术-先知社区.md) [🔗](https://xz.aliyun.com/news/17818  ) |
 | 17819 | 记一次奇妙的Oracle注入绕WAF之旅-先知社区 | 6.4 KB | [📄](xianzhi/17819-记一次奇妙的Oracle注入绕WAF之旅-先知社区.md) [🔗](https://xz.aliyun.com/news/17819  ) |
 | 17820 | 告别手工验证！MCP SSE结合AI实现FOFA+PoC全自动化漏洞挖掘-先知社区 | 13.7 KB | [📄](xianzhi/17820-告别手工验证！MCP SSE结合AI实现FOFA+PoC全自动化漏洞挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/17820  ) |
+| 17821 | DudeSuite 一键解锁攻防演练小程序渗透新姿势 | 红队小白不再被劝退-先知社区 | 3.1 KB | [📄](xianzhi/17821-DudeSuite 一键解锁攻防演练小程序渗透新姿势   红队小白不再被劝退-先知社区.md) [🔗](https://xz.aliyun.com/news/17821  ) |
+| 17824 | IDEA Structural Search 抛砖引玉-先知社区 | 12.8 KB | [📄](xianzhi/17824-IDEA Structural Search 抛砖引玉-先知社区.md) [🔗](https://xz.aliyun.com/news/17824  ) |
+| 17825 | 记一次从外网到内网的渗透测试-先知社区 | 14.4 KB | [📄](xianzhi/17825-记一次从外网到内网的渗透测试-先知社区.md) [🔗](https://xz.aliyun.com/news/17825  ) |
+| 17826 | CVE-2024-45436：Ollama ZIP文件解压导致的命令执行漏洞-先知社区 | 6.7 KB | [📄](xianzhi/17826-CVE-2024-45436：Ollama ZIP文件解压导致的命令执行漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/17826  ) |
+| 17827 | Windows Shellcode开发（x86 stager）-先知社区 | 64.4 KB | [📄](xianzhi/17827-Windows Shellcode开发（x86 stager）-先知社区.md) [🔗](https://xz.aliyun.com/news/17827  ) |
+| 17830 | 从JDBC MySQL不出网攻击到spring临时文件利用-先知社区 | 50.5 KB | [📄](xianzhi/17830-从JDBC MySQL不出网攻击到spring临时文件利用-先知社区.md) [🔗](https://xz.aliyun.com/news/17830  ) |
 
 ---
 
