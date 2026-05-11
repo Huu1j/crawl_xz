@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-10 02:22:54
+> 🤖 最后更新: 2026-05-11 02:46:15
 
 ## 📊 统计信息
 
-- **先知社区**: 1018 篇文章
+- **先知社区**: 1027 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1351 篇文章
+- **总计**: 1360 篇文章
 
 ---
 
-## 📖 先知社区文章 (1018 篇)
+## 📖 先知社区文章 (1027 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1033,6 +1033,15 @@
 | 17845 | 2025数字中国创新大赛-移动互联网（APP）安全积分争夺赛决赛 Writeup-先知社区 | 18.4 KB | [📄](xianzhi/17845-2025数字中国创新大赛-移动互联网（APP）安全积分争夺赛决赛 Writeup-先知社区.md) [🔗](https://xz.aliyun.com/news/17845  ) |
 | 17846 | Fuzz挖掘sudo提权漏洞：一次堆溢出如何逆向分析出提权思路-先知社区 | 74.6 KB | [📄](xianzhi/17846-Fuzz挖掘sudo提权漏洞：一次堆溢出如何逆向分析出提权思路-先知社区.md) [🔗](https://xz.aliyun.com/news/17846  ) |
 | 17850 | 主动堆栈欺骗-先知社区 | 12.0 KB | [📄](xianzhi/17850-主动堆栈欺骗-先知社区.md) [🔗](https://xz.aliyun.com/news/17850  ) |
+| 17851 | 反编译小程序、数据加密解密、sign值绕过-先知社区 | 9.1 KB | [📄](xianzhi/17851-反编译小程序、数据加密解密、sign值绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/17851  ) |
+| 17852 | Sharp4BypassWDAC：一种通过上传定制化策略文件绕过 Windows Defender-先知社区 | 9.2 KB | [📄](xianzhi/17852-Sharp4BypassWDAC：一种通过上传定制化策略文件绕过 Windows Defender-先知社区.md) [🔗](https://xz.aliyun.com/news/17852  ) |
+| 17853 | 物联网相关协议流量分析-先知社区 | 82.6 KB | [📄](xianzhi/17853-物联网相关协议流量分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17853  ) |
+| 17854 | dongtai agent分析-先知社区 | 43.5 KB | [📄](xianzhi/17854-dongtai agent分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17854  ) |
+| 17855 | web+wx浏览器组合拳拿下edu证书站-先知社区 | 2.6 KB | [📄](xianzhi/17855-web+wx浏览器组合拳拿下edu证书站-先知社区.md) [🔗](https://xz.aliyun.com/news/17855  ) |
+| 17857 | Spring Security EnableMethodSecurity注解授权绕过（CVE-2025-22223）-先知社区 | 10.9 KB | [📄](xianzhi/17857-Spring Security EnableMethodSecurity注解授权绕过（CVE-2025-22223）-先知社区.md) [🔗](https://xz.aliyun.com/news/17857  ) |
+| 17858 | Spring-Security大小写敏感比较授权绕过（CVE-2024-38827）-先知社区 | 3.9 KB | [📄](xianzhi/17858-Spring-Security大小写敏感比较授权绕过（CVE-2024-38827）-先知社区.md) [🔗](https://xz.aliyun.com/news/17858  ) |
+| 17859 | WebFlux集成Spring-Security受限静态资源访问授权绕过（CVE-2024-38821）-先知社区 | 20.8 KB | [📄](xianzhi/17859-WebFlux集成Spring-Security受限静态资源访问授权绕过（CVE-2024-38821）-先知社区.md) [🔗](https://xz.aliyun.com/news/17859  ) |
+| 17860 | RASP之内存马后渗透浅析-先知社区 | 31.2 KB | [📄](xianzhi/17860-RASP之内存马后渗透浅析-先知社区.md) [🔗](https://xz.aliyun.com/news/17860  ) |
 
 ---
 
