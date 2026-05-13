@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-12 02:30:39
+> 🤖 最后更新: 2026-05-13 02:40:56
 
 ## 📊 统计信息
 
-- **先知社区**: 1032 篇文章
+- **先知社区**: 1037 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1365 篇文章
+- **总计**: 1370 篇文章
 
 ---
 
-## 📖 先知社区文章 (1032 篇)
+## 📖 先知社区文章 (1037 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -23,6 +23,7 @@
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17215-WDAC 在终端对抗中的应用-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17762-Frida-Labs-Java层操作指南-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17347-Gröbner 基学习与CTF题目实践应用-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/17880-利用whisper模型隐藏数据-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17226-FalconToolbox之无缝集成oneforall-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17430-Bottle框架的模板引擎安全问题分析-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17319-防御间接提示注入攻击-先知社区.md) [🔗]() |
@@ -1047,6 +1048,10 @@
 | 17863 | 车联网、工控协议测试——MQTT协议篇-先知社区 | 27.0 KB | [📄](xianzhi/17863-车联网、工控协议测试——MQTT协议篇-先知社区.md) [🔗](https://xz.aliyun.com/news/17863  ) |
 | 17864 | 利用Google OAuth和DKIM重放攻击的钓鱼技术分析-先知社区 | 20.5 KB | [📄](xianzhi/17864-利用Google OAuth和DKIM重放攻击的钓鱼技术分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17864  ) |
 | 17868 | Vite 开发服务器任意文件读取漏洞分析-先知社区 | 10.2 KB | [📄](xianzhi/17868-Vite 开发服务器任意文件读取漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17868  ) |
+| 17872 | 浅析Java反序列化题目的一般思路-先知社区 | 7.5 KB | [📄](xianzhi/17872-浅析Java反序列化题目的一般思路-先知社区.md) [🔗](https://xz.aliyun.com/news/17872  ) |
+| 17876 | ctf-Crypto密码学-LFSR线性反馈移位寄存器-先知社区 | 19.3 KB | [📄](xianzhi/17876-ctf-Crypto密码学-LFSR线性反馈移位寄存器-先知社区.md) [🔗](https://xz.aliyun.com/news/17876  ) |
+| 17877 | 记一次DarkCrystal木马投毒分析-先知社区 | 4.2 KB | [📄](xianzhi/17877-记一次DarkCrystal木马投毒分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17877  ) |
+| 17879 | Vulnerability: API Security-先知社区 | 10.7 KB | [📄](xianzhi/17879-Vulnerability  API Security-先知社区.md) [🔗](https://xz.aliyun.com/news/17879  ) |
 
 ---
 
