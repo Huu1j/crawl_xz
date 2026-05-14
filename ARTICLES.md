@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-13 02:40:56
+> 🤖 最后更新: 2026-05-14 02:48:40
 
 ## 📊 统计信息
 
-- **先知社区**: 1037 篇文章
+- **先知社区**: 1043 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1370 篇文章
+- **总计**: 1376 篇文章
 
 ---
 
-## 📖 先知社区文章 (1037 篇)
+## 📖 先知社区文章 (1043 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1052,6 +1052,12 @@
 | 17876 | ctf-Crypto密码学-LFSR线性反馈移位寄存器-先知社区 | 19.3 KB | [📄](xianzhi/17876-ctf-Crypto密码学-LFSR线性反馈移位寄存器-先知社区.md) [🔗](https://xz.aliyun.com/news/17876  ) |
 | 17877 | 记一次DarkCrystal木马投毒分析-先知社区 | 4.2 KB | [📄](xianzhi/17877-记一次DarkCrystal木马投毒分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17877  ) |
 | 17879 | Vulnerability: API Security-先知社区 | 10.7 KB | [📄](xianzhi/17879-Vulnerability  API Security-先知社区.md) [🔗](https://xz.aliyun.com/news/17879  ) |
+| 17883 | free源码调试分析-先知社区 | 25.9 KB | [📄](xianzhi/17883-free源码调试分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17883  ) |
+| 17885 | 第二届“长城杯”半决赛ISW赛后复现-详细-先知社区 | 15.0 KB | [📄](xianzhi/17885-第二届“长城杯”半决赛ISW赛后复现-详细-先知社区.md) [🔗](https://xz.aliyun.com/news/17885  ) |
+| 17886 | Go-Zero框架代码审计-先知社区 | 5.5 KB | [📄](xianzhi/17886-Go-Zero框架代码审计-先知社区.md) [🔗](https://xz.aliyun.com/news/17886  ) |
+| 17887 | 基于GRUB2的Bootkit：疑似与NSA方程式组织关联的新型恶意软件威胁-先知社区 | 17.5 KB | [📄](xianzhi/17887-基于GRUB2的Bootkit：疑似与NSA方程式组织关联的新型恶意软件威胁-先知社区.md) [🔗](https://xz.aliyun.com/news/17887  ) |
+| 17888 | 记一次项目中拿下某oa过程-先知社区 | 3.3 KB | [📄](xianzhi/17888-记一次项目中拿下某oa过程-先知社区.md) [🔗](https://xz.aliyun.com/news/17888  ) |
+| 17890 | ruoyi4.8后台RCE分析-先知社区 | 4.6 KB | [📄](xianzhi/17890-ruoyi4.8后台RCE分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17890  ) |
 
 ---
 
