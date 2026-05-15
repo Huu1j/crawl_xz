@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-14 02:48:40
+> 🤖 最后更新: 2026-05-15 02:44:14
 
 ## 📊 统计信息
 
-- **先知社区**: 1043 篇文章
+- **先知社区**: 1051 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1376 篇文章
+- **总计**: 1384 篇文章
 
 ---
 
-## 📖 先知社区文章 (1043 篇)
+## 📖 先知社区文章 (1051 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1058,6 +1058,14 @@
 | 17887 | 基于GRUB2的Bootkit：疑似与NSA方程式组织关联的新型恶意软件威胁-先知社区 | 17.5 KB | [📄](xianzhi/17887-基于GRUB2的Bootkit：疑似与NSA方程式组织关联的新型恶意软件威胁-先知社区.md) [🔗](https://xz.aliyun.com/news/17887  ) |
 | 17888 | 记一次项目中拿下某oa过程-先知社区 | 3.3 KB | [📄](xianzhi/17888-记一次项目中拿下某oa过程-先知社区.md) [🔗](https://xz.aliyun.com/news/17888  ) |
 | 17890 | ruoyi4.8后台RCE分析-先知社区 | 4.6 KB | [📄](xianzhi/17890-ruoyi4.8后台RCE分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17890  ) |
+| 17891 | 2025年第十六届蓝桥杯网络安全赛项wp-先知社区 | 10.7 KB | [📄](xianzhi/17891-2025年第十六届蓝桥杯网络安全赛项wp-先知社区.md) [🔗](https://xz.aliyun.com/news/17891  ) |
+| 17892 | 某info开源系统getshell漏洞挖掘-先知社区 | 3.3 KB | [📄](xianzhi/17892-某info开源系统getshell漏洞挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/17892  ) |
+| 17895 | 基于Hessian2反序列化挖掘Spring原生利用链-先知社区 | 8.2 KB | [📄](xianzhi/17895-基于Hessian2反序列化挖掘Spring原生利用链-先知社区.md) [🔗](https://xz.aliyun.com/news/17895  ) |
+| 17896 | 2025蓝桥杯网络安全全部wp-先知社区 | 10.2 KB | [📄](xianzhi/17896-2025蓝桥杯网络安全全部wp-先知社区.md) [🔗](https://xz.aliyun.com/news/17896  ) |
+| 17897 | AI的攻与防：基于大模型漏洞基因库的威胁狩猎与企业级纵深防御-先知社区 | 24.1 KB | [📄](xianzhi/17897-AI的攻与防：基于大模型漏洞基因库的威胁狩猎与企业级纵深防御-先知社区.md) [🔗](https://xz.aliyun.com/news/17897  ) |
+| 17898 | Syscall原理及其地狱之门家族代码详解-先知社区 | 21.8 KB | [📄](xianzhi/17898-Syscall原理及其地狱之门家族代码详解-先知社区.md) [🔗](https://xz.aliyun.com/news/17898  ) |
+| 17899 | foritgate 后利用-先知社区 | 5.9 KB | [📄](xianzhi/17899-foritgate 后利用-先知社区.md) [🔗](https://xz.aliyun.com/news/17899  ) |
+| 17900 | ACTF2025 unstoppable 题解-先知社区 | 7.8 KB | [📄](xianzhi/17900-ACTF2025 unstoppable 题解-先知社区.md) [🔗](https://xz.aliyun.com/news/17900  ) |
 
 ---
 
