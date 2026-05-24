@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-23 02:31:37
+> 🤖 最后更新: 2026-05-24 02:50:33
 
 ## 📊 统计信息
 
-- **先知社区**: 1091 篇文章
+- **先知社区**: 1096 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1424 篇文章
+- **总计**: 1429 篇文章
 
 ---
 
-## 📖 先知社区文章 (1091 篇)
+## 📖 先知社区文章 (1096 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1106,6 +1106,11 @@
 | 17977 | 从XSS到"RCE"的PC端利用链构建-先知社区 | 10.9 KB | [📄](xianzhi/17977-从XSS到 RCE 的PC端利用链构建-先知社区.md) [🔗](https://xz.aliyun.com/news/17977  ) |
 | 17978 | 针对 glibc 中 realloc() 函数源码在 2.2x ~ 2.3x 版本的深度解析-先知社区 | 26.1 KB | [📄](xianzhi/17978-针对 glibc 中 realloc() 函数源码在 2.2x ~ 2.3x 版本的深度解析-先知社区.md) [🔗](https://xz.aliyun.com/news/17978  ) |
 | 17980 | java之jdk17反射机制绕过深入剖析-先知社区 | 20.1 KB | [📄](xianzhi/17980-java之jdk17反射机制绕过深入剖析-先知社区.md) [🔗](https://xz.aliyun.com/news/17980  ) |
+| 17981 | 从MINILCTF ezCC 学习Springboot内存马缩短方式-先知社区 | 18.9 KB | [📄](xianzhi/17981-从MINILCTF ezCC 学习Springboot内存马缩短方式-先知社区.md) [🔗](https://xz.aliyun.com/news/17981  ) |
+| 17983 | 御网杯wp-先知社区 | 8.6 KB | [📄](xianzhi/17983-御网杯wp-先知社区.md) [🔗](https://xz.aliyun.com/news/17983  ) |
+| 17987 | 2025御网杯 misc+crypto+web全解+re1-先知社区 | 18.9 KB | [📄](xianzhi/17987-2025御网杯 misc+crypto+web全解+re1-先知社区.md) [🔗](https://xz.aliyun.com/news/17987  ) |
+| 17989 | MCMS代码安全审计小记-先知社区 | 33.8 KB | [📄](xianzhi/17989-MCMS代码安全审计小记-先知社区.md) [🔗](https://xz.aliyun.com/news/17989  ) |
+| 17990 | HotSwappableTargetSource+XString利用分析-先知社区 | 18.7 KB | [📄](xianzhi/17990-HotSwappableTargetSource+XString利用分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17990  ) |
 
 ---
 
