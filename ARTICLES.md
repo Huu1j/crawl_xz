@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-24 02:50:33
+> 🤖 最后更新: 2026-05-25 02:57:46
 
 ## 📊 统计信息
 
-- **先知社区**: 1096 篇文章
+- **先知社区**: 1101 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1429 篇文章
+- **总计**: 1434 篇文章
 
 ---
 
-## 📖 先知社区文章 (1096 篇)
+## 📖 先知社区文章 (1101 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1111,6 +1111,11 @@
 | 17987 | 2025御网杯 misc+crypto+web全解+re1-先知社区 | 18.9 KB | [📄](xianzhi/17987-2025御网杯 misc+crypto+web全解+re1-先知社区.md) [🔗](https://xz.aliyun.com/news/17987  ) |
 | 17989 | MCMS代码安全审计小记-先知社区 | 33.8 KB | [📄](xianzhi/17989-MCMS代码安全审计小记-先知社区.md) [🔗](https://xz.aliyun.com/news/17989  ) |
 | 17990 | HotSwappableTargetSource+XString利用分析-先知社区 | 18.7 KB | [📄](xianzhi/17990-HotSwappableTargetSource+XString利用分析-先知社区.md) [🔗](https://xz.aliyun.com/news/17990  ) |
+| 17991 | 关于Mirth Connect的一些利用方式-先知社区 | 5.3 KB | [📄](xianzhi/17991-关于Mirth Connect的一些利用方式-先知社区.md) [🔗](https://xz.aliyun.com/news/17991  ) |
+| 17992 | 深入理解曼彻斯特编码及其变种-先知社区 | 74.3 KB | [📄](xianzhi/17992-深入理解曼彻斯特编码及其变种-先知社区.md) [🔗](https://xz.aliyun.com/news/17992  ) |
+| 17993 | Linux Shellcode开发（Stager & Reverse Shell）-先知社区 | 49.3 KB | [📄](xianzhi/17993-Linux Shellcode开发（Stager & Reverse Shell）-先知社区.md) [🔗](https://xz.aliyun.com/news/17993  ) |
+| 17994 | MT19937算法的逆向和预测以及random库逆向-先知社区 | 16.9 KB | [📄](xianzhi/17994-MT19937算法的逆向和预测以及random库逆向-先知社区.md) [🔗](https://xz.aliyun.com/news/17994  ) |
+| 17998 | [HTB] 靶机学习 Bucket-先知社区 | 11.0 KB | [📄](xianzhi/17998-[HTB] 靶机学习 Bucket-先知社区.md) [🔗](https://xz.aliyun.com/news/17998  ) |
 
 ---
 
