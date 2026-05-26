@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-05-25 02:57:46
+> 🤖 最后更新: 2026-05-26 02:40:57
 
 ## 📊 统计信息
 
-- **先知社区**: 1101 篇文章
+- **先知社区**: 1106 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1434 篇文章
+- **总计**: 1439 篇文章
 
 ---
 
-## 📖 先知社区文章 (1101 篇)
+## 📖 先知社区文章 (1106 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1116,6 +1116,11 @@
 | 17993 | Linux Shellcode开发（Stager & Reverse Shell）-先知社区 | 49.3 KB | [📄](xianzhi/17993-Linux Shellcode开发（Stager & Reverse Shell）-先知社区.md) [🔗](https://xz.aliyun.com/news/17993  ) |
 | 17994 | MT19937算法的逆向和预测以及random库逆向-先知社区 | 16.9 KB | [📄](xianzhi/17994-MT19937算法的逆向和预测以及random库逆向-先知社区.md) [🔗](https://xz.aliyun.com/news/17994  ) |
 | 17998 | [HTB] 靶机学习 Bucket-先知社区 | 11.0 KB | [📄](xianzhi/17998-[HTB] 靶机学习 Bucket-先知社区.md) [🔗](https://xz.aliyun.com/news/17998  ) |
+| 18001 | Sharp4BypassAMSI：一款通过 Patch 内存绕过 AMSI 检测的工具-先知社区 | 9.9 KB | [📄](xianzhi/18001-Sharp4BypassAMSI：一款通过 Patch 内存绕过 AMSI 检测的工具-先知社区.md) [🔗](https://xz.aliyun.com/news/18001  ) |
+| 18005 | 堆栈不在，何必欺骗？-先知社区 | 10.0 KB | [📄](xianzhi/18005-堆栈不在，何必欺骗？-先知社区.md) [🔗](https://xz.aliyun.com/news/18005  ) |
+| 18006 | 一次恶意挖矿样本分析到捕获矿池地址-先知社区 | 7.8 KB | [📄](xianzhi/18006-一次恶意挖矿样本分析到捕获矿池地址-先知社区.md) [🔗](https://xz.aliyun.com/news/18006  ) |
+| 18007 | 记一次外网打点从CVE-2023-49070到CVE-2023-51467获取域控权限的过程-先知社区 | 5.5 KB | [📄](xianzhi/18007-记一次外网打点从CVE-2023-49070到CVE-2023-51467获取域控权限的过程-先知社区.md) [🔗](https://xz.aliyun.com/news/18007  ) |
+| 18008 | 从原生反序列化到Hessian反序列化的hook方法-先知社区 | 11.5 KB | [📄](xianzhi/18008-从原生反序列化到Hessian反序列化的hook方法-先知社区.md) [🔗](https://xz.aliyun.com/news/18008  ) |
 
 ---
 
