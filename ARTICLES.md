@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-06-16 03:05:31
+> 🤖 最后更新: 2026-06-17 03:05:46
 
 ## 📊 统计信息
 
-- **先知社区**: 1228 篇文章
+- **先知社区**: 1235 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1561 篇文章
+- **总计**: 1568 篇文章
 
 ---
 
-## 📖 先知社区文章 (1228 篇)
+## 📖 先知社区文章 (1235 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -29,6 +29,7 @@
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17955-XSS由浅入深-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17406-Next.js 中间件鉴权绕过漏洞 (CVE-2025-29927)-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17202-一文学会各种子域名收集方法-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/18225-隐藏在 URL Credentials 中的 Payload：一种被忽视的 Web 绕过路径-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/16939-io_uring源码分析-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17732-加密补洞？您这是给漏水的船贴创可贴呢！-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17347-Gröbner 基学习与CTF题目实践应用-先知社区.md) [🔗]() |
@@ -1243,6 +1244,12 @@
 | 18215 | 【代码审计】Xunruicms前台RCE-先知社区 | 11.4 KB | [📄](xianzhi/18215-【代码审计】Xunruicms前台RCE-先知社区.md) [🔗](https://xz.aliyun.com/news/18215  ) |
 | 18218 | 自定义 String 哈希算法-先知社区 | 13.1 KB | [📄](xianzhi/18218-自定义 String 哈希算法-先知社区.md) [🔗](https://xz.aliyun.com/news/18218  ) |
 | 18219 | 土豆家族提权原理分析-先知社区 | 32.1 KB | [📄](xianzhi/18219-土豆家族提权原理分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18219  ) |
+| 18222 | 数字签名≠安全！XtremeRAT正利用大量国内数字签名「合法入侵」-先知社区 | 18.8 KB | [📄](xianzhi/18222-数字签名≠安全！XtremeRAT正利用大量国内数字签名「合法入侵」-先知社区.md) [🔗](https://xz.aliyun.com/news/18222  ) |
+| 18223 | Flask内存马各种姿势与查杀-先知社区 | 8.5 KB | [📄](xianzhi/18223-Flask内存马各种姿势与查杀-先知社区.md) [🔗](https://xz.aliyun.com/news/18223  ) |
+| 18224 | Roundcube Webmail(CVE-2025-49113)认证后php反序列化rce复现新视角-先知社区 | 15.4 KB | [📄](xianzhi/18224-Roundcube Webmail(CVE-2025-49113)认证后php反序列化rce复现新视角-先知社区.md) [🔗](https://xz.aliyun.com/news/18224  ) |
+| 18226 | CyberGame 2025 Web Writeup-先知社区 | 17.2 KB | [📄](xianzhi/18226-CyberGame 2025 Web Writeup-先知社区.md) [🔗](https://xz.aliyun.com/news/18226  ) |
+| 18227 | JAVA代码审计之鉴权逻辑错误审计小记-先知社区 | 10.7 KB | [📄](xianzhi/18227-JAVA代码审计之鉴权逻辑错误审计小记-先知社区.md) [🔗](https://xz.aliyun.com/news/18227  ) |
+| 18228 | php代码审计篇 - 某次rce审计项目-先知社区 | 7.2 KB | [📄](xianzhi/18228-php代码审计篇 - 某次rce审计项目-先知社区.md) [🔗](https://xz.aliyun.com/news/18228  ) |
 
 ---
 
