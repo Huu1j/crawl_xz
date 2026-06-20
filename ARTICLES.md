@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-06-19 03:55:07
+> 🤖 最后更新: 2026-06-20 03:00:46
 
 ## 📊 统计信息
 
-- **先知社区**: 1252 篇文章
+- **先知社区**: 1261 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1585 篇文章
+- **总计**: 1594 篇文章
 
 ---
 
-## 📖 先知社区文章 (1252 篇)
+## 📖 先知社区文章 (1261 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1267,6 +1267,15 @@
 | 18247 | Tomcat文件上传基于Nginx绕过靶场全过程-先知社区 | 7.4 KB | [📄](xianzhi/18247-Tomcat文件上传基于Nginx绕过靶场全过程-先知社区.md) [🔗](https://xz.aliyun.com/news/18247  ) |
 | 18249 | 实战URL校验bypass:浅谈静态DNS解析姿势与CAS票据劫持案例-先知社区 | 23.8 KB | [📄](xianzhi/18249-实战URL校验bypass 浅谈静态DNS解析姿势与CAS票据劫持案例-先知社区.md) [🔗](https://xz.aliyun.com/news/18249  ) |
 | 18250 | JNDI注入内存马并绕过Tomcat高版本-先知社区 | 22.1 KB | [📄](xianzhi/18250-JNDI注入内存马并绕过Tomcat高版本-先知社区.md) [🔗](https://xz.aliyun.com/news/18250  ) |
+| 18251 | Apache Kafka Client 任意文件读取与SSRF 漏洞（CVE-2025-27817）分析-先知社区 | 11.0 KB | [📄](xianzhi/18251-Apache Kafka Client 任意文件读取与SSRF 漏洞（CVE-2025-27817）分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18251  ) |
+| 18253 | malloc源码调试（二）-先知社区 | 44.7 KB | [📄](xianzhi/18253-malloc源码调试（二）-先知社区.md) [🔗](https://xz.aliyun.com/news/18253  ) |
+| 18254 | GoogleCTF2024 - encrypted runner：一种C语言自实现AES-ECB算法的缺陷以及利用分析-先知社区 | 17.4 KB | [📄](xianzhi/18254-GoogleCTF2024 - encrypted runner：一种C语言自实现AES-ECB算法的缺陷以及利用分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18254  ) |
+| 18255 | 记录burp插件autoDecoder的一次数据解密实战-先知社区 | 5.4 KB | [📄](xianzhi/18255-记录burp插件autoDecoder的一次数据解密实战-先知社区.md) [🔗](https://xz.aliyun.com/news/18255  ) |
+| 18256 | CMCTF2025--web-先知社区 | 16.2 KB | [📄](xianzhi/18256-CMCTF2025--web-先知社区.md) [🔗](https://xz.aliyun.com/news/18256  ) |
+| 18257 | 文件上传型XSS攻击的全维度解析与纵深防御体系构建-先知社区 | 14.7 KB | [📄](xianzhi/18257-文件上传型XSS攻击的全维度解析与纵深防御体系构建-先知社区.md) [🔗](https://xz.aliyun.com/news/18257  ) |
+| 18258 | 某鱼自定义协议请求抓包＋加密参数分析-先知社区 | 18.5 KB | [📄](xianzhi/18258-某鱼自定义协议请求抓包＋加密参数分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18258  ) |
+| 18259 | pdd搜索请求分析+加密参数部分分析-先知社区 | 17.1 KB | [📄](xianzhi/18259-pdd搜索请求分析+加密参数部分分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18259  ) |
+| 18260 | 某管家公章管理系统审计记录-先知社区 | 2.3 KB | [📄](xianzhi/18260-某管家公章管理系统审计记录-先知社区.md) [🔗](https://xz.aliyun.com/news/18260  ) |
 
 ---
 
