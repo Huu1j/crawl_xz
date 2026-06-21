@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-06-20 03:00:46
+> 🤖 最后更新: 2026-06-21 03:06:49
 
 ## 📊 统计信息
 
-- **先知社区**: 1261 篇文章
+- **先知社区**: 1268 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1594 篇文章
+- **总计**: 1601 篇文章
 
 ---
 
-## 📖 先知社区文章 (1261 篇)
+## 📖 先知社区文章 (1268 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1276,6 +1276,13 @@
 | 18258 | 某鱼自定义协议请求抓包＋加密参数分析-先知社区 | 18.5 KB | [📄](xianzhi/18258-某鱼自定义协议请求抓包＋加密参数分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18258  ) |
 | 18259 | pdd搜索请求分析+加密参数部分分析-先知社区 | 17.1 KB | [📄](xianzhi/18259-pdd搜索请求分析+加密参数部分分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18259  ) |
 | 18260 | 某管家公章管理系统审计记录-先知社区 | 2.3 KB | [📄](xianzhi/18260-某管家公章管理系统审计记录-先知社区.md) [🔗](https://xz.aliyun.com/news/18260  ) |
+| 18261 | 从0开始研究MCP应用与安全篇（一）-先知社区 | 18.3 KB | [📄](xianzhi/18261-从0开始研究MCP应用与安全篇（一）-先知社区.md) [🔗](https://xz.aliyun.com/news/18261  ) |
+| 18262 | LLM安全之Decomposition Attack分解攻击-先知社区 | 7.7 KB | [📄](xianzhi/18262-LLM安全之Decomposition Attack分解攻击-先知社区.md) [🔗](https://xz.aliyun.com/news/18262  ) |
+| 18263 | Shiro注入反序列化内存马流程-先知社区 | 40.8 KB | [📄](xianzhi/18263-Shiro注入反序列化内存马流程-先知社区.md) [🔗](https://xz.aliyun.com/news/18263  ) |
+| 18264 | DOM型XSS深度渗透实战-先知社区 | 5.1 KB | [📄](xianzhi/18264-DOM型XSS深度渗透实战-先知社区.md) [🔗](https://xz.aliyun.com/news/18264  ) |
+| 18266 | yonkies_keygenme_3 writeup 及代码复用（编译/链接进代码）的技巧-先知社区 | 18.6 KB | [📄](xianzhi/18266-yonkies_keygenme_3 writeup 及代码复用（编译 链接进代码）的技巧-先知社区.md) [🔗](https://xz.aliyun.com/news/18266  ) |
+| 18269 | Process Mockingjay:利用用户空间RWX段实现代码执行的注入技术-先知社区 | 28.4 KB | [📄](xianzhi/18269-Process Mockingjay 利用用户空间RWX段实现代码执行的注入技术-先知社区.md) [🔗](https://xz.aliyun.com/news/18269  ) |
+| 18270 | House of Cat：绕过 glibc 2.24 后 Vtable 检查的 IO_FILE 利用技术详解-先知社区 | 21.2 KB | [📄](xianzhi/18270-House of Cat：绕过 glibc 2.24 后 Vtable 检查的 IO_FILE 利用技术详解-先知社区.md) [🔗](https://xz.aliyun.com/news/18270  ) |
 
 ---
 
