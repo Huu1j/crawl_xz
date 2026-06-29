@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-06-28 02:49:35
+> 🤖 最后更新: 2026-06-29 02:57:34
 
 ## 📊 统计信息
 
-- **先知社区**: 1308 篇文章
+- **先知社区**: 1313 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1641 篇文章
+- **总计**: 1646 篇文章
 
 ---
 
-## 📖 先知社区文章 (1308 篇)
+## 📖 先知社区文章 (1313 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1323,6 +1323,11 @@
 | 18327 | DES 加密解密实现之旅-先知社区 | 8.5 KB | [📄](xianzhi/18327-DES 加密解密实现之旅-先知社区.md) [🔗](https://xz.aliyun.com/news/18327  ) |
 | 18328 | 钓鱼的另一种手法高度仿真的伪装登录页面-先知社区 | 7.4 KB | [📄](xianzhi/18328-钓鱼的另一种手法高度仿真的伪装登录页面-先知社区.md) [🔗](https://xz.aliyun.com/news/18328  ) |
 | 18329 | 突破网络限制，Merlin Agent助你轻松搭建跳板网络！-先知社区 | 39.1 KB | [📄](xianzhi/18329-突破网络限制，Merlin Agent助你轻松搭建跳板网络！-先知社区.md) [🔗](https://xz.aliyun.com/news/18329  ) |
+| 18341 | Java 反序列化：Apache Commons Collections CC6 利用链深度解析-先知社区 | 24.6 KB | [📄](xianzhi/18341-Java 反序列化：Apache Commons Collections CC6 利用链深度解析-先知社区.md) [🔗](https://xz.aliyun.com/news/18341  ) |
+| 18343 | Mysql注入中锁机制的应用-先知社区 | 10.8 KB | [📄](xianzhi/18343-Mysql注入中锁机制的应用-先知社区.md) [🔗](https://xz.aliyun.com/news/18343  ) |
+| 18344 | yonkies_keygenme_4 代码混淆-先知社区 | 13.7 KB | [📄](xianzhi/18344-yonkies_keygenme_4 代码混淆-先知社区.md) [🔗](https://xz.aliyun.com/news/18344  ) |
+| 18345 | .NET 红队通过 Sharp4ArchiveZip 批量压缩打包文件-先知社区 | 8.1 KB | [📄](xianzhi/18345-.NET 红队通过 Sharp4ArchiveZip 批量压缩打包文件-先知社区.md) [🔗](https://xz.aliyun.com/news/18345  ) |
+| 18350 | 阿里云jtools详解及codeql分析调用链-先知社区 | 30.7 KB | [📄](xianzhi/18350-阿里云jtools详解及codeql分析调用链-先知社区.md) [🔗](https://xz.aliyun.com/news/18350  ) |
 
 ---
 
