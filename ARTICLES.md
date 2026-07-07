@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-07-06 02:40:22
+> 🤖 最后更新: 2026-07-07 02:39:22
 
 ## 📊 统计信息
 
-- **先知社区**: 1343 篇文章
+- **先知社区**: 1347 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1676 篇文章
+- **总计**: 1680 篇文章
 
 ---
 
-## 📖 先知社区文章 (1343 篇)
+## 📖 先知社区文章 (1347 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -50,6 +50,7 @@
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18311-mikrotik 漏洞复现（三）-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18212-深度剖析JSONP注入漏洞：JavaScript回调函数引发的会话弹窗劫持-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18400-SSRF攻防指北-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/18427-【JAVA代码审计入门】OWASP-WebGoat8.X靶场代码审计大全-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17765-MCP 安全检查清单：AI工具生态系统安全指南-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17215-WDAC 在终端对抗中的应用-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17226-FalconToolbox之无缝集成oneforall-先知社区.md) [🔗]() |
@@ -1358,6 +1359,9 @@
 | 18413 | Java 反序列化：Apache Commons Collections CC2 利用链深度解析-先知社区 | 21.0 KB | [📄](xianzhi/18413-Java 反序列化：Apache Commons Collections CC2 利用链深度解析-先知社区.md) [🔗](https://xz.aliyun.com/news/18413  ) |
 | 18418 | Merlin Agent木马破绽：内存密钥暴露与加密流量破解全解-先知社区 | 19.9 KB | [📄](xianzhi/18418-Merlin Agent木马破绽：内存密钥暴露与加密流量破解全解-先知社区.md) [🔗](https://xz.aliyun.com/news/18418  ) |
 | 18420 | Java内存马篇——WebSocket内存马及GodZilla二开-先知社区 | 45.1 KB | [📄](xianzhi/18420-Java内存马篇——WebSocket内存马及GodZilla二开-先知社区.md) [🔗](https://xz.aliyun.com/news/18420  ) |
+| 18421 | CVE-2024-39930 漏洞分析-先知社区 | 7.9 KB | [📄](xianzhi/18421-CVE-2024-39930 漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18421  ) |
+| 18425 | 记一次某985名校的javaMelody未授权漏洞-先知社区 | 1.9 KB | [📄](xianzhi/18425-记一次某985名校的javaMelody未授权漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/18425  ) |
+| 18429 | RuoYi-Vue-Plus sendMessageWithAttachment 任意文件读取漏洞-先知社区 | 6.2 KB | [📄](xianzhi/18429-RuoYi-Vue-Plus sendMessageWithAttachment 任意文件读取漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/18429  ) |
 
 ---
 
