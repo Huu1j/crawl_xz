@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-07-26 02:09:34
+> 🤖 最后更新: 2026-07-27 02:22:59
 
 ## 📊 统计信息
 
-- **先知社区**: 1444 篇文章
+- **先知社区**: 1449 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1777 篇文章
+- **总计**: 1782 篇文章
 
 ---
 
-## 📖 先知社区文章 (1444 篇)
+## 📖 先知社区文章 (1449 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1461,6 +1461,11 @@
 | 18613 | dataease最新绕过利用json覆盖属性RCE-先知社区 | 11.9 KB | [📄](xianzhi/18613-dataease最新绕过利用json覆盖属性RCE-先知社区.md) [🔗](https://xz.aliyun.com/news/18613  ) |
 | 18618 | pickle&types.CodeType实现接管任意函数-先知社区 | 35.4 KB | [📄](xianzhi/18618-pickle&types.CodeType实现接管任意函数-先知社区.md) [🔗](https://xz.aliyun.com/news/18618  ) |
 | 18619 | 【超详细解析】用友NC系统ComboOperTools存在XML实体注入漏洞的分析-先知社区 | 9.3 KB | [📄](xianzhi/18619-【超详细解析】用友NC系统ComboOperTools存在XML实体注入漏洞的分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18619  ) |
+| 18621 | 从DownUnderCTF 2025探讨Handlebars的ast语法树注入问题-先知社区 | 10.3 KB | [📄](xianzhi/18621-从DownUnderCTF 2025探讨Handlebars的ast语法树注入问题-先知社区.md) [🔗](https://xz.aliyun.com/news/18621  ) |
+| 18625 | 记一次对诈骗app渗透测试-先知社区 | 5.7 KB | [📄](xianzhi/18625-记一次对诈骗app渗透测试-先知社区.md) [🔗](https://xz.aliyun.com/news/18625  ) |
+| 18628 | jdk17&CC链绕过模块检测利用TemplatesImpl-先知社区 | 29.1 KB | [📄](xianzhi/18628-jdk17&CC链绕过模块检测利用TemplatesImpl-先知社区.md) [🔗](https://xz.aliyun.com/news/18628  ) |
+| 18629 | Nginx 路径绕过-先知社区 | 3.9 KB | [📄](xianzhi/18629-Nginx 路径绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/18629  ) |
+| 18630 | 手把手js逆向断点调试&js逆向前端加密对抗&企业SRC实战分享-先知社区 | 17.6 KB | [📄](xianzhi/18630-手把手js逆向断点调试&js逆向前端加密对抗&企业SRC实战分享-先知社区.md) [🔗](https://xz.aliyun.com/news/18630  ) |
 
 ---
 
