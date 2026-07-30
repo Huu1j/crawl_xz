@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-07-29 02:02:52
+> 🤖 最后更新: 2026-07-30 01:59:19
 
 ## 📊 统计信息
 
-- **先知社区**: 1454 篇文章
+- **先知社区**: 1461 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1787 篇文章
+- **总计**: 1794 篇文章
 
 ---
 
-## 📖 先知社区文章 (1454 篇)
+## 📖 先知社区文章 (1461 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1471,6 +1471,13 @@
 | 18642 | OLLVM学习以及平坦化源码分析-先知社区 | 37.1 KB | [📄](xianzhi/18642-OLLVM学习以及平坦化源码分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18642  ) |
 | 18643 | Cherry Studio最新高危漏洞从伪造恶意MCP服务器到RCE-先知社区 | 12.5 KB | [📄](xianzhi/18643-Cherry Studio最新高危漏洞从伪造恶意MCP服务器到RCE-先知社区.md) [🔗](https://xz.aliyun.com/news/18643  ) |
 | 18644 | 深度解析pytorch rpc模块rce-先知社区 | 26.6 KB | [📄](xianzhi/18644-深度解析pytorch rpc模块rce-先知社区.md) [🔗](https://xz.aliyun.com/news/18644  ) |
+| 18652 | 加密解密算法与编码–逆向工程基础知识-先知社区 | 49.6 KB | [📄](xianzhi/18652-加密解密算法与编码–逆向工程基础知识-先知社区.md) [🔗](https://xz.aliyun.com/news/18652  ) |
+| 18653 | EDR对抗之内存合法性检查规避-先知社区 | 16.9 KB | [📄](xianzhi/18653-EDR对抗之内存合法性检查规避-先知社区.md) [🔗](https://xz.aliyun.com/news/18653  ) |
+| 18655 | CC依赖-TransformedList触发Invoker利用链-先知社区 | 37.3 KB | [📄](xianzhi/18655-CC依赖-TransformedList触发Invoker利用链-先知社区.md) [🔗](https://xz.aliyun.com/news/18655  ) |
+| 18657 | 从先知文章复现到信呼OA数据库后门0day发掘-先知社区 | 13.6 KB | [📄](xianzhi/18657-从先知文章复现到信呼OA数据库后门0day发掘-先知社区.md) [🔗](https://xz.aliyun.com/news/18657  ) |
+| 18658 | 安卓Intent自动化灰盒模糊测试优化技术-先知社区 | 9.1 KB | [📄](xianzhi/18658-安卓Intent自动化灰盒模糊测试优化技术-先知社区.md) [🔗](https://xz.aliyun.com/news/18658  ) |
+| 18659 | Kerberos协议攻击面总结(一)-先知社区 | 19.5 KB | [📄](xianzhi/18659-Kerberos协议攻击面总结(一)-先知社区.md) [🔗](https://xz.aliyun.com/news/18659  ) |
+| 18660 | 通过HTB靶机学习恶劣容器的内网环境下如何内网渗透-先知社区 | 33.1 KB | [📄](xianzhi/18660-通过HTB靶机学习恶劣容器的内网环境下如何内网渗透-先知社区.md) [🔗](https://xz.aliyun.com/news/18660  ) |
 
 ---
 
