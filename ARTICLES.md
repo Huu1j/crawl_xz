@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-07-31 02:11:42
+> 🤖 最后更新: 2026-08-01 02:10:42
 
 ## 📊 统计信息
 
-- **先知社区**: 1468 篇文章
+- **先知社区**: 1471 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1801 篇文章
+- **总计**: 1804 篇文章
 
 ---
 
-## 📖 先知社区文章 (1468 篇)
+## 📖 先知社区文章 (1471 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1485,6 +1485,9 @@
 | 18666 | 进程创建流程时间线中引入的思考-先知社区 | 18.2 KB | [📄](xianzhi/18666-进程创建流程时间线中引入的思考-先知社区.md) [🔗](https://xz.aliyun.com/news/18666  ) |
 | 18668 | ZPan 硬编码到OSS凭证泄漏漏洞分析-先知社区 | 13.5 KB | [📄](xianzhi/18668-ZPan 硬编码到OSS凭证泄漏漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18668  ) |
 | 18669 | 探究python中pickle，_pickle和pickletools的解析差异问题-先知社区 | 15.1 KB | [📄](xianzhi/18669-探究python中pickle，_pickle和pickletools的解析差异问题-先知社区.md) [🔗](https://xz.aliyun.com/news/18669  ) |
+| 18672 | Craft CMS CVE-2025-32432 (深入浅出)-先知社区 | 17.4 KB | [📄](xianzhi/18672-Craft CMS CVE-2025-32432 (深入浅出)-先知社区.md) [🔗](https://xz.aliyun.com/news/18672  ) |
+| 18675 | [PHP特性篇]PHP特性之反射类ReflectionClass机制-先知社区 | 15.6 KB | [📄](xianzhi/18675-[PHP特性篇]PHP特性之反射类ReflectionClass机制-先知社区.md) [🔗](https://xz.aliyun.com/news/18675  ) |
+| 18676 | JNDI高版本新思路利用LDAP 打本地工厂类-先知社区 | 18.1 KB | [📄](xianzhi/18676-JNDI高版本新思路利用LDAP 打本地工厂类-先知社区.md) [🔗](https://xz.aliyun.com/news/18676  ) |
 
 ---
 
