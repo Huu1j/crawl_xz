@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-08-26 01:08:31
+> 🤖 最后更新: 2026-08-27 06:39:46
 
 ## 📊 统计信息
 
-- **先知社区**: 1621 篇文章
+- **先知社区**: 1628 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1954 篇文章
+- **总计**: 1961 篇文章
 
 ---
 
-## 📖 先知社区文章 (1621 篇)
+## 📖 先知社区文章 (1628 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1638,6 +1638,13 @@
 | 18928 | 智慧云智能教育平台代码审计：鉴权机制与安全漏洞分析-先知社区 | 9.3 KB | [📄](xianzhi/18928-智慧云智能教育平台代码审计：鉴权机制与安全漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18928  ) |
 | 18929 | ida + mcp,配置vs code和cursor实现AI自动化逆向-先知社区 | 4.5 KB | [📄](xianzhi/18929-ida + mcp,配置vs code和cursor实现AI自动化逆向-先知社区.md) [🔗](https://xz.aliyun.com/news/18929  ) |
 | 18930 | dongtai java agent 中误报的问题-先知社区 | 16.8 KB | [📄](xianzhi/18930-dongtai java agent 中误报的问题-先知社区.md) [🔗](https://xz.aliyun.com/news/18930  ) |
+| 18932 | 2025湾区杯之AWDP-web-ezjava详解-先知社区 | 56.0 KB | [📄](xianzhi/18932-2025湾区杯之AWDP-web-ezjava详解-先知社区.md) [🔗](https://xz.aliyun.com/news/18932  ) |
+| 18933 | 基于dexdump+Objection+Frida的Android动态密文分析实战-先知社区 | 5.7 KB | [📄](xianzhi/18933-基于dexdump+Objection+Frida的Android动态密文分析实战-先知社区.md) [🔗](https://xz.aliyun.com/news/18933  ) |
+| 18935 | 从2025blackhat-jdd hessian反序列化jdk原生新链开始学习链子构造-先知社区 | 29.7 KB | [📄](xianzhi/18935-从2025blackhat-jdd hessian反序列化jdk原生新链开始学习链子构造-先知社区.md) [🔗](https://xz.aliyun.com/news/18935  ) |
+| 18937 | Flowise CVE-2025-58434 以及后台RCE漏洞分析-先知社区 | 9.4 KB | [📄](xianzhi/18937-Flowise CVE-2025-58434 以及后台RCE漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18937  ) |
+| 18938 | 大模型安全落地-模型更新安全-先知社区 | 11.7 KB | [📄](xianzhi/18938-大模型安全落地-模型更新安全-先知社区.md) [🔗](https://xz.aliyun.com/news/18938  ) |
+| 18939 | Linux 内核中/proc/self/maps 的实现与匿名空间释放机制探究-先知社区 | 29.5 KB | [📄](xianzhi/18939-Linux 内核中 proc self maps 的实现与匿名空间释放机制探究-先知社区.md) [🔗](https://xz.aliyun.com/news/18939  ) |
+| 18940 | 阿里AI全球挑战赛-大模型越狱的攻击思路-先知社区 | 19.0 KB | [📄](xianzhi/18940-阿里AI全球挑战赛-大模型越狱的攻击思路-先知社区.md) [🔗](https://xz.aliyun.com/news/18940  ) |
 
 ---
 
