@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-08-29 05:14:16
+> 🤖 最后更新: 2026-08-30 02:57:36
 
 ## 📊 统计信息
 
-- **先知社区**: 1640 篇文章
+- **先知社区**: 1647 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1973 篇文章
+- **总计**: 1980 篇文章
 
 ---
 
-## 📖 先知社区文章 (1640 篇)
+## 📖 先知社区文章 (1647 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1657,6 +1657,13 @@
 | 18954 | 安卓逆向-frida hook Native层-先知社区 | 9.4 KB | [📄](xianzhi/18954-安卓逆向-frida hook Native层-先知社区.md) [🔗](https://xz.aliyun.com/news/18954  ) |
 | 18956 | Polar2025秋季挑战赛web-writeup-先知社区 | 11.7 KB | [📄](xianzhi/18956-Polar2025秋季挑战赛web-writeup-先知社区.md) [🔗](https://xz.aliyun.com/news/18956  ) |
 | 18957 | 2025年第三届陇剑杯网络安全大赛 RHG决赛wp-先知社区 | 140.8 KB | [📄](xianzhi/18957-2025年第三届陇剑杯网络安全大赛 RHG决赛wp-先知社区.md) [🔗](https://xz.aliyun.com/news/18957  ) |
+| 18961 | 钓鱼文件的“视觉欺骗”-先知社区 | 24.5 KB | [📄](xianzhi/18961-钓鱼文件的“视觉欺骗”-先知社区.md) [🔗](https://xz.aliyun.com/news/18961  ) |
+| 18963 | PEB 和 EAT ，检测syscall stub-先知社区 | 23.1 KB | [📄](xianzhi/18963-PEB 和 EAT ，检测syscall stub-先知社区.md) [🔗](https://xz.aliyun.com/news/18963  ) |
+| 18964 | 红队视角：大型语言模型（LLM）多维攻击面思路-先知社区 | 9.0 KB | [📄](xianzhi/18964-红队视角：大型语言模型（LLM）多维攻击面思路-先知社区.md) [🔗](https://xz.aliyun.com/news/18964  ) |
+| 18965 | WMCTF2025 Web部分题解-先知社区 | 14.6 KB | [📄](xianzhi/18965-WMCTF2025 Web部分题解-先知社区.md) [🔗](https://xz.aliyun.com/news/18965  ) |
+| 18967 | 基于 ExtJS 框架下 XSS 漏洞分析挖掘-先知社区 | 7.1 KB | [📄](xianzhi/18967-基于 ExtJS 框架下 XSS 漏洞分析挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/18967  ) |
+| 18969 | 标准验证码渗透测试指南-先知社区 | 18.4 KB | [📄](xianzhi/18969-标准验证码渗透测试指南-先知社区.md) [🔗](https://xz.aliyun.com/news/18969  ) |
+| 18970 | VEH异常调用链控制程序流程原理及分析-先知社区 | 21.0 KB | [📄](xianzhi/18970-VEH异常调用链控制程序流程原理及分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18970  ) |
 
 ---
 
