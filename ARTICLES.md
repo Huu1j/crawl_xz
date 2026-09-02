@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-09-01 02:59:02
+> 🤖 最后更新: 2026-09-02 02:27:10
 
 ## 📊 统计信息
 
-- **先知社区**: 1655 篇文章
+- **先知社区**: 1665 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 1988 篇文章
+- **总计**: 1998 篇文章
 
 ---
 
-## 📖 先知社区文章 (1655 篇)
+## 📖 先知社区文章 (1665 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -54,6 +54,7 @@
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18284-spring cloud gateway关于X-Forwarded-Proto的处理-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18079-DIR-815 栈溢出漏洞(CNVD-2013-11625)复现-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18751-小记一次Fastjson漏洞利用-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/18998-codeql java中关于污点传播规则-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18050-从pwnlabs学习云安全-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18575-信呼OA分析+0day挖掘思路与实操-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18902-汉王e脸通代审与快速0day挖掘-先知社区.md) [🔗]() |
@@ -1672,6 +1673,15 @@
 | 18980 | 大模型部署安全建设指南-先知社区 | 69.4 KB | [📄](xianzhi/18980-大模型部署安全建设指南-先知社区.md) [🔗](https://xz.aliyun.com/news/18980  ) |
 | 18988 | 基于AST的Python混淆-先知社区 | 45.5 KB | [📄](xianzhi/18988-基于AST的Python混淆-先知社区.md) [🔗](https://xz.aliyun.com/news/18988  ) |
 | 18989 | 云扫描环境集群搭建的一些思考与尝试-先知社区 | 5.5 KB | [📄](xianzhi/18989-云扫描环境集群搭建的一些思考与尝试-先知社区.md) [🔗](https://xz.aliyun.com/news/18989  ) |
+| 18991 | 云安全CTF:  当GitLab集成与Actuator端点成为云安全的突破口-先知社区 | 54.5 KB | [📄](xianzhi/18991-云安全CTF   当GitLab集成与Actuator端点成为云安全的突破口-先知社区.md) [🔗](https://xz.aliyun.com/news/18991  ) |
+| 18992 | DefCamp CTF 2025 onigirl 复盘详解-先知社区 | 55.7 KB | [📄](xianzhi/18992-DefCamp CTF 2025 onigirl 复盘详解-先知社区.md) [🔗](https://xz.aliyun.com/news/18992  ) |
+| 18993 | 用友U8cloud最新全版本IPFxxFileService任意文件上传漏洞分析-先知社区 | 17.0 KB | [📄](xianzhi/18993-用友U8cloud最新全版本IPFxxFileService任意文件上传漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18993  ) |
+| 18994 | CodeQL中Source点的实现逻辑与Spring框架污点源分析-先知社区 | 25.5 KB | [📄](xianzhi/18994-CodeQL中Source点的实现逻辑与Spring框架污点源分析-先知社区.md) [🔗](https://xz.aliyun.com/news/18994  ) |
+| 18995 | 从Kdmapper到高级Rootkit检测：PTE Walk与NMI在反Rootkit中的应用-先知社区 | 42.2 KB | [📄](xianzhi/18995-从Kdmapper到高级Rootkit检测：PTE Walk与NMI在反Rootkit中的应用-先知社区.md) [🔗](https://xz.aliyun.com/news/18995  ) |
+| 18996 | 用友U8Cloud ServiceDispatcherServlet 三种反序列化方式和深入利用研究-先知社区 | 37.3 KB | [📄](xianzhi/18996-用友U8Cloud ServiceDispatcherServlet 三种反序列化方式和深入利用研究-先知社区.md) [🔗](https://xz.aliyun.com/news/18996  ) |
+| 18997 | bshare分享插件投毒事件分析：废弃组件引发的恶意跳转风险-先知社区 | 22.1 KB | [📄](xianzhi/18997-bshare分享插件投毒事件分析：废弃组件引发的恶意跳转风险-先知社区.md) [🔗](https://xz.aliyun.com/news/18997  ) |
+| 18999 | PTE Hook：一种利用页表重映射攻击实现的内核函数Hook-先知社区 | 21.1 KB | [📄](xianzhi/18999-PTE Hook：一种利用页表重映射攻击实现的内核函数Hook-先知社区.md) [🔗](https://xz.aliyun.com/news/18999  ) |
+| 19000 | Yakit入门指南：MITM代理、流量过滤、标记替换与热加载功能详解-先知社区 | 10.2 KB | [📄](xianzhi/19000-Yakit入门指南：MITM代理、流量过滤、标记替换与热加载功能详解-先知社区.md) [🔗](https://xz.aliyun.com/news/19000  ) |
 
 ---
 
