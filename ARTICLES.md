@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-09-07 02:21:19
+> 🤖 最后更新: 2026-09-08 02:34:54
 
 ## 📊 统计信息
 
-- **先知社区**: 1693 篇文章
+- **先知社区**: 1699 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 2026 篇文章
+- **总计**: 2032 篇文章
 
 ---
 
-## 📖 先知社区文章 (1693 篇)
+## 📖 先知社区文章 (1699 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -48,6 +48,7 @@
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17725-由一道CTF引发的技术思考(wafbypass)-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17202-一文学会各种子域名收集方法-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18667-记一次实战因网络架构引发的源码审计-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/19054-C2通信协议解析（一）：HTTP(s)、mTLS、WebSocket、DNS-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/16984-从本地代码审计到拿下项目作者服务器？-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18990-IDA Appcall探究与使用-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17648-JAVA代码审计——Echo4.2-先知社区.md) [🔗]() |
@@ -1710,6 +1711,11 @@
 | 19047 | 记一次windows对抗的病毒分析-先知社区 | 8.4 KB | [📄](xianzhi/19047-记一次windows对抗的病毒分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19047  ) |
 | 19048 | U8cloud 所有版本 NCCloudGatewayServlet 远程命令执行和任意文件上传（基于该漏洞的变种）-先知社区 | 40.1 KB | [📄](xianzhi/19048-U8cloud 所有版本 NCCloudGatewayServlet 远程命令执行和任意文件上传（基于该漏洞的变种）-先知社区.md) [🔗](https://xz.aliyun.com/news/19048  ) |
 | 19050 | 通过某钓鱼文件样本分析获取到白加黑免杀思路-先知社区 | 4.4 KB | [📄](xianzhi/19050-通过某钓鱼文件样本分析获取到白加黑免杀思路-先知社区.md) [🔗](https://xz.aliyun.com/news/19050  ) |
+| 19051 | 2025黄鹤杯网络安全人才创新大赛 江城校园新星赛道 wp-先知社区 | 451.3 KB | [📄](xianzhi/19051-2025黄鹤杯网络安全人才创新大赛 江城校园新星赛道 wp-先知社区.md) [🔗](https://xz.aliyun.com/news/19051  ) |
+| 19052 | Cobalt Strike内存加载.NET程序集功能原理分析并重构-先知社区 | 11.0 KB | [📄](xianzhi/19052-Cobalt Strike内存加载.NET程序集功能原理分析并重构-先知社区.md) [🔗](https://xz.aliyun.com/news/19052  ) |
+| 19053 | PowerJob IDOR 0Day 挖掘-先知社区 | 6.9 KB | [📄](xianzhi/19053-PowerJob IDOR 0Day 挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/19053  ) |
+| 19057 | 深入SleepObfs的检测与绕过-先知社区 | 16.6 KB | [📄](xianzhi/19057-深入SleepObfs的检测与绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/19057  ) |
+| 19058 | WIZ竞标赛 Perimeter Leak wp-先知社区 | 13.8 KB | [📄](xianzhi/19058-WIZ竞标赛 Perimeter Leak wp-先知社区.md) [🔗](https://xz.aliyun.com/news/19058  ) |
 
 ---
 
