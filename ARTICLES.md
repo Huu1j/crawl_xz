@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-09-08 02:34:54
+> 🤖 最后更新: 2026-09-09 02:36:03
 
 ## 📊 统计信息
 
-- **先知社区**: 1699 篇文章
+- **先知社区**: 1706 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 2032 篇文章
+- **总计**: 2039 篇文章
 
 ---
 
-## 📖 先知社区文章 (1699 篇)
+## 📖 先知社区文章 (1706 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1716,6 +1716,13 @@
 | 19053 | PowerJob IDOR 0Day 挖掘-先知社区 | 6.9 KB | [📄](xianzhi/19053-PowerJob IDOR 0Day 挖掘-先知社区.md) [🔗](https://xz.aliyun.com/news/19053  ) |
 | 19057 | 深入SleepObfs的检测与绕过-先知社区 | 16.6 KB | [📄](xianzhi/19057-深入SleepObfs的检测与绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/19057  ) |
 | 19058 | WIZ竞标赛 Perimeter Leak wp-先知社区 | 13.8 KB | [📄](xianzhi/19058-WIZ竞标赛 Perimeter Leak wp-先知社区.md) [🔗](https://xz.aliyun.com/news/19058  ) |
+| 19061 | 某app加密算法逆向分析-先知社区 | 1.5 KB | [📄](xianzhi/19061-某app加密算法逆向分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19061  ) |
+| 19063 | 继CVE-2025-30065和46762的Apache Parquet 1.15.2绕过反序列化命令执行分析-先知社区 | 21.5 KB | [📄](xianzhi/19063-继CVE-2025-30065和46762的Apache Parquet 1.15.2绕过反序列化命令执行分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19063  ) |
+| 19064 | 攻防演练目标资产名称纠正-先知社区 | 10.7 KB | [📄](xianzhi/19064-攻防演练目标资产名称纠正-先知社区.md) [🔗](https://xz.aliyun.com/news/19064  ) |
+| 19067 | CodeQL中Java污点分析的净化流优化与API安全检测实践-先知社区 | 14.2 KB | [📄](xianzhi/19067-CodeQL中Java污点分析的净化流优化与API安全检测实践-先知社区.md) [🔗](https://xz.aliyun.com/news/19067  ) |
+| 19068 | ASIS CTF 2025 WEB WP-先知社区 | 33.8 KB | [📄](xianzhi/19068-ASIS CTF 2025 WEB WP-先知社区.md) [🔗](https://xz.aliyun.com/news/19068  ) |
+| 19069 | 前端安全-ClickJacing+sniffing+XSLeaks-先知社区 | 15.1 KB | [📄](xianzhi/19069-前端安全-ClickJacing+sniffing+XSLeaks-先知社区.md) [🔗](https://xz.aliyun.com/news/19069  ) |
+| 19070 | 记一次HVV实战中对EL表达式的极限绕过-先知社区 | 10.5 KB | [📄](xianzhi/19070-记一次HVV实战中对EL表达式的极限绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/19070  ) |
 
 ---
 
