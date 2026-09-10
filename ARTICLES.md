@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-09-09 02:36:03
+> 🤖 最后更新: 2026-09-10 02:32:30
 
 ## 📊 统计信息
 
-- **先知社区**: 1706 篇文章
+- **先知社区**: 1709 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 2039 篇文章
+- **总计**: 2042 篇文章
 
 ---
 
-## 📖 先知社区文章 (1706 篇)
+## 📖 先知社区文章 (1709 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1723,6 +1723,9 @@
 | 19068 | ASIS CTF 2025 WEB WP-先知社区 | 33.8 KB | [📄](xianzhi/19068-ASIS CTF 2025 WEB WP-先知社区.md) [🔗](https://xz.aliyun.com/news/19068  ) |
 | 19069 | 前端安全-ClickJacing+sniffing+XSLeaks-先知社区 | 15.1 KB | [📄](xianzhi/19069-前端安全-ClickJacing+sniffing+XSLeaks-先知社区.md) [🔗](https://xz.aliyun.com/news/19069  ) |
 | 19070 | 记一次HVV实战中对EL表达式的极限绕过-先知社区 | 10.5 KB | [📄](xianzhi/19070-记一次HVV实战中对EL表达式的极限绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/19070  ) |
+| 19073 | 用友U8 Cloud NCCloudGatewayServlet接口任意文件上传漏洞分析-先知社区 | 4351.9 KB | [📄](xianzhi/19073-用友U8 Cloud NCCloudGatewayServlet接口任意文件上传漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19073  ) |
+| 19075 | 高版本下PHP cURL 扩展绕过open_basedir的trick分析-先知社区 | 3.7 KB | [📄](xianzhi/19075-高版本下PHP cURL 扩展绕过open_basedir的trick分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19075  ) |
+| 19076 | Windows隐蔽执行技巧之ADS-先知社区 | 25.4 KB | [📄](xianzhi/19076-Windows隐蔽执行技巧之ADS-先知社区.md) [🔗](https://xz.aliyun.com/news/19076  ) |
 
 ---
 
