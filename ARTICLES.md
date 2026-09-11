@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-09-10 02:32:30
+> 🤖 最后更新: 2026-09-11 02:35:53
 
 ## 📊 统计信息
 
-- **先知社区**: 1709 篇文章
+- **先知社区**: 1719 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 2042 篇文章
+- **总计**: 2052 篇文章
 
 ---
 
-## 📖 先知社区文章 (1709 篇)
+## 📖 先知社区文章 (1719 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1726,6 +1726,16 @@
 | 19073 | 用友U8 Cloud NCCloudGatewayServlet接口任意文件上传漏洞分析-先知社区 | 4351.9 KB | [📄](xianzhi/19073-用友U8 Cloud NCCloudGatewayServlet接口任意文件上传漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19073  ) |
 | 19075 | 高版本下PHP cURL 扩展绕过open_basedir的trick分析-先知社区 | 3.7 KB | [📄](xianzhi/19075-高版本下PHP cURL 扩展绕过open_basedir的trick分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19075  ) |
 | 19076 | Windows隐蔽执行技巧之ADS-先知社区 | 25.4 KB | [📄](xianzhi/19076-Windows隐蔽执行技巧之ADS-先知社区.md) [🔗](https://xz.aliyun.com/news/19076  ) |
+| 19081 | 某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞-先知社区 | 33.0 KB | [📄](xianzhi/19081-某次内部行业渗透测试&攻防演练多个系统从资产打点到RCE漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/19081  ) |
+| 19082 | 用友NCCloudGatewayServlet 反射调用命令执行漏洞-先知社区 | 4489.8 KB | [📄](xianzhi/19082-用友NCCloudGatewayServlet 反射调用命令执行漏洞-先知社区.md) [🔗](https://xz.aliyun.com/news/19082  ) |
+| 19083 | 从JFinal4.5 CMS 接触JAVA代码审计-先知社区 | 15.1 KB | [📄](xianzhi/19083-从JFinal4.5 CMS 接触JAVA代码审计-先知社区.md) [🔗](https://xz.aliyun.com/news/19083  ) |
+| 19084 | ntdll kernel32 模块基址获取新思路-先知社区 | 6.2 KB | [📄](xianzhi/19084-ntdll kernel32 模块基址获取新思路-先知社区.md) [🔗](https://xz.aliyun.com/news/19084  ) |
+| 19085 | Rust语言模糊测试实战：cargo-fuzz、afl.rs与honggfuzz完整指南-先知社区 | 22.0 KB | [📄](xianzhi/19085-Rust语言模糊测试实战：cargo-fuzz、afl.rs与honggfuzz完整指南-先知社区.md) [🔗](https://xz.aliyun.com/news/19085  ) |
+| 19086 | AI安全护栏攻防实战：智能问答与智能开发助手的提示词注入攻击分析-先知社区 | 43.5 KB | [📄](xianzhi/19086-AI安全护栏攻防实战：智能问答与智能开发助手的提示词注入攻击分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19086  ) |
+| 19087 | 深入CVE-2025-41243： Spring Cloud Gateway SpEL 从任意属性访问到任意文件下载-先知社区 | 12.4 KB | [📄](xianzhi/19087-深入CVE-2025-41243： Spring Cloud Gateway SpEL 从任意属性访问到任意文件下载-先知社区.md) [🔗](https://xz.aliyun.com/news/19087  ) |
+| 19088 | 直接系统调用之从上层API到下层API的旅程-先知社区 | 7.9 KB | [📄](xianzhi/19088-直接系统调用之从上层API到下层API的旅程-先知社区.md) [🔗](https://xz.aliyun.com/news/19088  ) |
+| 19089 | 深入解析LLVM代码混淆技术：从基本块分割到控制流混淆的实现原理-先知社区 | 40.2 KB | [📄](xianzhi/19089-深入解析LLVM代码混淆技术：从基本块分割到控制流混淆的实现原理-先知社区.md) [🔗](https://xz.aliyun.com/news/19089  ) |
+| 19090 | sui_move题目解析及环境修复-先知社区 | 49.1 KB | [📄](xianzhi/19090-sui_move题目解析及环境修复-先知社区.md) [🔗](https://xz.aliyun.com/news/19090  ) |
 
 ---
 
