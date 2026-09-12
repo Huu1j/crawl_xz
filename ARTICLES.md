@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-09-11 02:35:53
+> 🤖 最后更新: 2026-09-12 02:41:27
 
 ## 📊 统计信息
 
-- **先知社区**: 1719 篇文章
+- **先知社区**: 1726 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 2052 篇文章
+- **总计**: 2059 篇文章
 
 ---
 
-## 📖 先知社区文章 (1719 篇)
+## 📖 先知社区文章 (1726 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1736,6 +1736,13 @@
 | 19088 | 直接系统调用之从上层API到下层API的旅程-先知社区 | 7.9 KB | [📄](xianzhi/19088-直接系统调用之从上层API到下层API的旅程-先知社区.md) [🔗](https://xz.aliyun.com/news/19088  ) |
 | 19089 | 深入解析LLVM代码混淆技术：从基本块分割到控制流混淆的实现原理-先知社区 | 40.2 KB | [📄](xianzhi/19089-深入解析LLVM代码混淆技术：从基本块分割到控制流混淆的实现原理-先知社区.md) [🔗](https://xz.aliyun.com/news/19089  ) |
 | 19090 | sui_move题目解析及环境修复-先知社区 | 49.1 KB | [📄](xianzhi/19090-sui_move题目解析及环境修复-先知社区.md) [🔗](https://xz.aliyun.com/news/19090  ) |
+| 19093 | 直接系统调用 VS 间接系统调用-先知社区 | 18.3 KB | [📄](xianzhi/19093-直接系统调用 VS 间接系统调用-先知社区.md) [🔗](https://xz.aliyun.com/news/19093  ) |
+| 19094 | 构建私域AI Prompt提升Python开发效率-先知社区 | 30.9 KB | [📄](xianzhi/19094-构建私域AI Prompt提升Python开发效率-先知社区.md) [🔗](https://xz.aliyun.com/news/19094  ) |
+| 19095 | xxl-job api未授权Hessian2反序列化复现研究与javachain打法超详细过程-先知社区 | 3.7 KB | [📄](xianzhi/19095-xxl-job api未授权Hessian2反序列化复现研究与javachain打法超详细过程-先知社区.md) [🔗](https://xz.aliyun.com/news/19095  ) |
+| 19096 | 从用友U8Cloud-FileManageServlet反序列化漏洞开始的0day挖掘之旅-先知社区 | 21.1 KB | [📄](xianzhi/19096-从用友U8Cloud-FileManageServlet反序列化漏洞开始的0day挖掘之旅-先知社区.md) [🔗](https://xz.aliyun.com/news/19096  ) |
+| 19097 | SunshineCTF 2025 Web 题解-先知社区 | 10.0 KB | [📄](xianzhi/19097-SunshineCTF 2025 Web 题解-先知社区.md) [🔗](https://xz.aliyun.com/news/19097  ) |
+| 19098 | 解密利器：破解SSH加密会话的终极指南！-先知社区 | 80.4 KB | [📄](xianzhi/19098-解密利器：破解SSH加密会话的终极指南！-先知社区.md) [🔗](https://xz.aliyun.com/news/19098  ) |
+| 19099 | Tenda AC6路由器CVE-2025-50263缓冲区溢出漏洞分析与利用-先知社区 | 7.7 KB | [📄](xianzhi/19099-Tenda AC6路由器CVE-2025-50263缓冲区溢出漏洞分析与利用-先知社区.md) [🔗](https://xz.aliyun.com/news/19099  ) |
 
 ---
 
