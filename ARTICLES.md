@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-09-14 02:47:33
+> 🤖 最后更新: 2026-09-15 02:56:37
 
 ## 📊 统计信息
 
-- **先知社区**: 1732 篇文章
+- **先知社区**: 1736 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 2065 篇文章
+- **总计**: 2069 篇文章
 
 ---
 
-## 📖 先知社区文章 (1732 篇)
+## 📖 先知社区文章 (1736 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1749,6 +1749,10 @@
 | 19110 | pgAdmin4 远程代码执行漏洞（CVE-2025-2945）分析与复现-先知社区 | 6.6 KB | [📄](xianzhi/19110-pgAdmin4 远程代码执行漏洞（CVE-2025-2945）分析与复现-先知社区.md) [🔗](https://xz.aliyun.com/news/19110  ) |
 | 19111 | 记一次py恶意样本分析实战-先知社区 | 7.7 KB | [📄](xianzhi/19111-记一次py恶意样本分析实战-先知社区.md) [🔗](https://xz.aliyun.com/news/19111  ) |
 | 19119 | Black2025-JDD Hessian反序列化链-先知社区 | 22.8 KB | [📄](xianzhi/19119-Black2025-JDD Hessian反序列化链-先知社区.md) [🔗](https://xz.aliyun.com/news/19119  ) |
+| 19123 | HTB多领域CTF解题全记录：硬件逆向、工控协议到动态规划-先知社区 | 33.4 KB | [📄](xianzhi/19123-HTB多领域CTF解题全记录：硬件逆向、工控协议到动态规划-先知社区.md) [🔗](https://xz.aliyun.com/news/19123  ) |
+| 19124 | From DPAPI to Chrome - A Journey to Entra ID Takeover-先知社区 | 43.1 KB | [📄](xianzhi/19124-From DPAPI to Chrome - A Journey to Entra ID Takeover-先知社区.md) [🔗](https://xz.aliyun.com/news/19124  ) |
+| 19127 | Entra ID - Revisiting the Abuse History of Connect Sync-先知社区 | 56.5 KB | [📄](xianzhi/19127-Entra ID - Revisiting the Abuse History of Connect Sync-先知社区.md) [🔗](https://xz.aliyun.com/news/19127  ) |
+| 19129 | linux 权限的维持和隐藏-先知社区 | 16.5 KB | [📄](xianzhi/19129-linux 权限的维持和隐藏-先知社区.md) [🔗](https://xz.aliyun.com/news/19129  ) |
 
 ---
 
