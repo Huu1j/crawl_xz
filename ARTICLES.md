@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-10-04 03:46:05
+> 🤖 最后更新: 2026-10-05 03:34:33
 
 ## 📊 统计信息
 
-- **先知社区**: 1817 篇文章
+- **先知社区**: 1823 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 2150 篇文章
+- **总计**: 2156 篇文章
 
 ---
 
-## 📖 先知社区文章 (1817 篇)
+## 📖 先知社区文章 (1823 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -1834,6 +1834,12 @@
 | 19313 | 2025?CTF Week1-4 web题解-先知社区 | 83.2 KB | [📄](xianzhi/19313-2025 CTF Week1-4 web题解-先知社区.md) [🔗](https://xz.aliyun.com/news/19313  ) |
 | 19317 | 用友 NC 任意文件读取漏洞分析-先知社区 | 3.1 KB | [📄](xianzhi/19317-用友 NC 任意文件读取漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19317  ) |
 | 19319 | AI幻觉套路深：别被“控服大神”骗了-先知社区 | 10.7 KB | [📄](xianzhi/19319-AI幻觉套路深：别被“控服大神”骗了-先知社区.md) [🔗](https://xz.aliyun.com/news/19319  ) |
+| 19322 | jndi +FactoryBase 实现高版本绕过-先知社区 | 10.6 KB | [📄](xianzhi/19322-jndi +FactoryBase 实现高版本绕过-先知社区.md) [🔗](https://xz.aliyun.com/news/19322  ) |
+| 19324 | Syzkaller内核模糊测试技术详解与实战-先知社区 | 33.7 KB | [📄](xianzhi/19324-Syzkaller内核模糊测试技术详解与实战-先知社区.md) [🔗](https://xz.aliyun.com/news/19324  ) |
+| 19326 | 域渗透，bloodhound利用-先知社区 | 22.7 KB | [📄](xianzhi/19326-域渗透，bloodhound利用-先知社区.md) [🔗](https://xz.aliyun.com/news/19326  ) |
+| 19327 | 域渗透-Delegation-先知社区 | 15.6 KB | [📄](xianzhi/19327-域渗透-Delegation-先知社区.md) [🔗](https://xz.aliyun.com/news/19327  ) |
+| 19328 | 2025湖南省程序设计网络攻防线下赛部分赛题-先知社区 | 8.8 KB | [📄](xianzhi/19328-2025湖南省程序设计网络攻防线下赛部分赛题-先知社区.md) [🔗](https://xz.aliyun.com/news/19328  ) |
+| 19329 | 亿赛通 DecryptApplication 任意文件读取漏洞逆向代码审计-先知社区 | 5.7 KB | [📄](xianzhi/19329-亿赛通 DecryptApplication 任意文件读取漏洞逆向代码审计-先知社区.md) [🔗](https://xz.aliyun.com/news/19329  ) |
 
 ---
 
