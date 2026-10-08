@@ -1,17 +1,17 @@
 # 安全社区文章索引
 
 > 📚 自动爬取的安全技术文章集合  
-> 🤖 最后更新: 2026-10-07 03:50:31
+> 🤖 最后更新: 2026-10-08 04:10:00
 
 ## 📊 统计信息
 
-- **先知社区**: 1834 篇文章
+- **先知社区**: 1842 篇文章
 - **奇安信攻防社区**: 333 篇文章
-- **总计**: 2167 篇文章
+- **总计**: 2175 篇文章
 
 ---
 
-## 📖 先知社区文章 (1834 篇)
+## 📖 先知社区文章 (1842 篇)
 
 | ID | 标题 | 大小 | 链接 |
 |-----|------|------|------|
@@ -35,6 +35,7 @@
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17765-MCP 安全检查清单：AI工具生态系统安全指南-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/19004-记一次postgres注入绕过waf-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/17718-Bottle框架的ssti、内存马、污染深入浅出-先知社区.md) [🔗]() |
+|  | 未知标题 | 0.0 KB | [📄](xianzhi/19353-春秋云境 Finance WP-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18902-汉王e脸通代审与快速0day挖掘-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18607-在隐私保护数据库指纹中保障认证可用性UtiliClear方案分析（二）-先知社区.md) [🔗]() |
 |  | 未知标题 | 0.0 KB | [📄](xianzhi/18667-记一次实战因网络架构引发的源码审计-先知社区.md) [🔗]() |
@@ -1851,6 +1852,13 @@
 | 19347 | AstrBot 远程代码执行(CVE-2025-55449)漏洞分析-先知社区 | 2.8 KB | [📄](xianzhi/19347-AstrBot 远程代码执行(CVE-2025-55449)漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19347  ) |
 | 19348 | Milvus Proxy身份验证绕过(CVE-2025-64513)漏洞分析-先知社区 | 4.1 KB | [📄](xianzhi/19348-Milvus Proxy身份验证绕过(CVE-2025-64513)漏洞分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19348  ) |
 | 19350 | 绕过后缀校验：利用 Tomcat XML 配置机制实现 JNDI 注入-先知社区 | 14.0 KB | [📄](xianzhi/19350-绕过后缀校验：利用 Tomcat XML 配置机制实现 JNDI 注入-先知社区.md) [🔗](https://xz.aliyun.com/news/19350  ) |
+| 19351 | RCTF 部分题目wp-先知社区 | 38.4 KB | [📄](xianzhi/19351-RCTF 部分题目wp-先知社区.md) [🔗](https://xz.aliyun.com/news/19351  ) |
+| 19352 | TFCCTF2024 pwn - mcguava 非预期：新的 leakless rce 技巧-先知社区 | 24.0 KB | [📄](xianzhi/19352-TFCCTF2024 pwn - mcguava 非预期：新的 leakless rce 技巧-先知社区.md) [🔗](https://xz.aliyun.com/news/19352  ) |
+| 19355 | 银狐组织最新ValleyRAT样本分析-先知社区 | 12.8 KB | [📄](xianzhi/19355-银狐组织最新ValleyRAT样本分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19355  ) |
+| 19356 | JWT 常见测试点-先知社区 | 12.3 KB | [📄](xianzhi/19356-JWT 常见测试点-先知社区.md) [🔗](https://xz.aliyun.com/news/19356  ) |
+| 19357 | APK逆向：视频盗用+原创替换的实战分析-先知社区 | 15.3 KB | [📄](xianzhi/19357-APK逆向：视频盗用+原创替换的实战分析-先知社区.md) [🔗](https://xz.aliyun.com/news/19357  ) |
+| 19358 | 高版本jdk下的spring通杀链学习-先知社区 | 19.8 KB | [📄](xianzhi/19358-高版本jdk下的spring通杀链学习-先知社区.md) [🔗](https://xz.aliyun.com/news/19358  ) |
+| 19360 | 使用dnlib自动化提取AgentTesla字符串-先知社区 | 31.6 KB | [📄](xianzhi/19360-使用dnlib自动化提取AgentTesla字符串-先知社区.md) [🔗](https://xz.aliyun.com/news/19360  ) |
 
 ---
 
